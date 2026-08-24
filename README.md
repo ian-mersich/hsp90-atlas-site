@@ -2,7 +2,7 @@
 
 The **HSP90 Atlas** is an isoform-specific resource for exploring human genes associated with HSP90AA1 (Hsp90alpha), HSP90AB1 (Hsp90beta), HSP90B1 (GRP94/gp96), and TRAP1.
 
-**[Open the HSP90 Atlas](https://ianmersich-collab.github.io/hsp90-atlas-site/)**
+**[Open the HSP90 Atlas](https://ian-mersich.github.io/hsp90-atlas-site/)**
 
 The Atlas brings together manually reviewed papers, protein-interaction database records, protein and immunohistochemistry correlation analyses, and publication-discovery leads. It keeps these evidence classes separate so that a database association or correlation is not presented as a demonstrated physical interaction or client relationship.
 
