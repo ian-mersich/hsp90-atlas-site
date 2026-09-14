@@ -1,0 +1,3 @@
+HSP90 Atlas. HSP90 Atlas: Isoform-Specific Interaction and Evidence Atlas. Data release v6.292-atlas.1-rc1, HSP90 gene-isoform evidence through v6.254 and co-chaperone review through v6.292. Accessed [YYYY-MM-DD].
+
+Release-candidate notice: approved contributor names, institutional affiliation, canonical URL, repository URL, and DOI must be added before public launch.
