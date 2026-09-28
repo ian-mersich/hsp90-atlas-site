@@ -8,13 +8,15 @@ The Atlas brings together manually reviewed papers, protein-interaction database
 
 ## Current release
 
-- **Atlas data:** v6.104 release candidate
-- **Web application:** 0.11.0
-- **Relationships tracked:** 4,325 gene-isoform pairs
-- **Reviewed findings:** 1,407 source-level records
+- **Atlas data:** v6.303 release candidate
+- **Web application:** 0.11.5
+- **Relationships tracked:** 5,092 gene-isoform pairs
+- **Reviewed findings:** 3,922 source-level records
 - **Coverage:** non-comprehensive, with the largest remaining gaps for GRP94 and TRAP1
 
 The site supports interactor search, four-isoform gene comparison, source-linked findings, interactive networks, and downloadable tables. Blank isoform panels mean that the current release has no record for that isoform; they are not negative results and do not establish isoform specificity.
+
+The grey coverage segment counts discovery leads without a supporting paper finding published in this release. It is not a count of unread papers. Protein-profile correlations remain exploratory and do not establish binding or client status. Historical CPTAC correlation coefficients are withheld from the application pending a corrected data release.
 
 ## Repository scope
 
