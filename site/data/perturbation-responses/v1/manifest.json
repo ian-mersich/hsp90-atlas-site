@@ -1,0 +1,13 @@
+{
+  "schema_version": "perturbation-response-manifest-v1",
+  "core_interaction_release": "v6.303",
+  "analysis_date": "2026-09-28",
+  "source": "PRISM Repurposing 19Q4 Dataset, version 4",
+  "source_doi": "10.6084/m9.figshare.9393293.v4",
+  "source_license": "CC BY 4.0",
+  "source_curve_file_id": 20237739,
+  "source_curve_file_md5": "e629b9d505ad3d6bf65fde96f1c54bee",
+  "analysis_script_sha256": "664e9efbbadedf951401c5b44665fc3f77687fbd8230263e6b077a5abb8a6597",
+  "summary_sha256": "432eb30ef6d15ccd7a9bfebc5006c3f695da9fef7d3f6a3935c9ac57bec8206e",
+  "content": "Derived aggregate statistics only; no source response matrix or cell-line-level values."
+}
