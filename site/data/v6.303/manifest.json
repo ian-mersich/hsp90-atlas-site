@@ -222,15 +222,15 @@
       "path": "CITATION.cff",
       "media_type": "application/vnd.citationstyles.csl+yaml; charset=utf-8",
       "rows": null,
-      "bytes": 692,
-      "sha256": "4736a766c7b89dc7794002f3a13656f929fed2aa60cfde4b012e6dbc716ea5ad"
+      "bytes": 698,
+      "sha256": "6b46be11cbaafd859bd2d5013ee3fcb33b7a56b6965156bd23bb2a2c6c2de757"
     },
     {
       "path": "CITATION.txt",
       "media_type": "text/plain; charset=utf-8",
       "rows": null,
-      "bytes": 407,
-      "sha256": "e75b45758be2508cc39bc505821f8fb1a92c5540abc2fd09835893da0c0a36cd"
+      "bytes": 503,
+      "sha256": "f0f0f564db1e26a0c9599fc6d4c4e726f30fbab41492dc7de315963c679643a1"
     },
     {
       "path": "LICENSE_STATUS.txt",

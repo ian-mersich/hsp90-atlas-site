@@ -1,11 +1,12 @@
 cff-version: 1.2.0
-message: "Please cite the exact HSP90 Atlas data release used. This release-candidate citation must be updated with approved contributor names and a DOI before public launch."
+message: "Please cite the exact HSP90 Atlas data release used. Ian Mersich is the Atlas creator; collaborator attribution and a persistent identifier will be added when confirmed."
 title: "HSP90 Atlas: Isoform-Specific Interaction and Evidence Atlas"
 type: dataset
-version: "v6.303-atlas.1-rc1"
+version: "v6.303"
 date-released: 2026-09-23
 authors:
-  - name: "HSP90 Atlas Curation Team"
+  - family-names: "Mersich"
+    given-names: "Ian"
 abstract: "A source-reviewed, isoform-aware resource for HSP90AA1, HSP90AB1, HSP90B1/GRP94, and TRAP1 relationships, evidence roles, provenance, and caveats. Coverage remains non-comprehensive."
 keywords:
   - HSP90
