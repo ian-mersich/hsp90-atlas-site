@@ -1,0 +1,6110 @@
+{
+  "schema_version": "hsp90-cycle-structured-sources-v0.1",
+  "sources": [
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-AR-STUB1-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 4B and 10",
+        "Results, Interaction of TPR proteins with steroid receptors"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FKBP4-NR3C1-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 3A-B, 7, and 12"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FKBP4-NR3C2-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 3C-D and 8"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FKBP5-NR3C1-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 3A-B, 6, and 7"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FKBP5-PGR-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 4A and 9"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FLCN-FNIP1-PMID24095279-GAP",
+      "pmids": [
+        "24095279"
+      ],
+      "pmcids": [
+        "PMC3867817"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2013.09.016"
+      ],
+      "title": "The Folliculin tumor suppressor is a GAP for RagC/D GTPases that signal amino acid levels to mTORC1",
+      "figure_table_anchors": [
+        "Figure 4B-C"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FLCN-FNIP1-PMID27353360-DIRECT",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding",
+      "figure_table_anchors": [
+        "Figure 2A-B,2E-F",
+        "Supplementary Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FLCN-FNIP1-PMID27353360-LOADING",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding",
+      "figure_table_anchors": [
+        "Figure 1E-H",
+        "Figure 2C,F",
+        "Figure 4A-B",
+        "Supplementary Figure 3A-B"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FLCN-FNIP2-PMID27353360-COMPLEX",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding",
+      "figure_table_anchors": [
+        "Figure 2A-B",
+        "Figure 3A",
+        "Supplementary Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FLCN-FNIP2-PMID27353360-LOADING",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding",
+      "figure_table_anchors": [
+        "Figure 4A-B,4D",
+        "Supplementary Figures 3A-B,4C-D"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-FLCN-FNIP2-PMID31672913-STRUCTURE",
+      "pmids": [
+        "31672913"
+      ],
+      "pmcids": [
+        "PMC6945816"
+      ],
+      "dois": [
+        "10.1126/science.aax0364"
+      ],
+      "title": "Structural mechanism of a Rag GTPase activation checkpoint by the lysosomal folliculin complex",
+      "figure_table_anchors": [
+        "Figures 1D-E,2D-F,4B-E,5D-F",
+        "Table S1"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-NR3C1-PPID-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 3A-B, 6, and 7"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-08-NR3C1-PPP5C-PMID20661446",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figures 3A-B and 7"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AGO4-PTGES3-PMID19167051",
+      "pmids": [
+        "19167051"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cell.2008.12.023"
+      ],
+      "title": "Importin 8 Is a Gene Silencing Factor that Targets Argonaute Proteins to Distinct mRNAs",
+      "figure_table_anchors": [
+        "Supplementary Table S2, pages 16-18",
+        "FH-AGO4 versus FH-GFP screen design in main methods"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AGO4-PTGES3-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AHSA1-CHORDC1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 8: bait AHSA1, prey CHORDC1, AvgP 1.00, Spec 17|28, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AHSA1-EGFR-PMID20029029",
+      "pmids": [
+        "20029029"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1126/scisignal.2000576"
+      ],
+      "title": "Regulation of Epidermal Growth Factor Receptor Trafficking by Lysine Deacetylase HDAC6",
+      "figure_table_anchors": [
+        "2009 Supplementary Table S1 PDF page 13: EGFR bait and AHSA1 prey"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AHSA1-FKBPL-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 221: bait FKBPL, prey AHSA1, AvgP 0.87, Spec 7|7, CtrlCounts 0|1|0|3|2|2|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AHSA1-TARS2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 15: bait AHSA1, prey TARS2, AvgP 0.99, Spec 9|8, CtrlCounts 0|2|0|1|2|0|2"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AHSA1-TOMM34-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 16: bait AHSA1, prey TOMM34, AvgP 1.00, Spec 23|19, CtrlCounts 0|2|0|0|3|4|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AHSA1-TTC4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 475: bait TTC4, prey AHSA1, AvgP 0.87, Spec 7|7, CtrlCounts 0|1|0|3|2|2|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-DNAAF2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 18: bait AIP, prey DNAAF2, AvgP 0.94, Spec 4|3, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-EGFR-PMID20029029",
+      "pmids": [
+        "20029029"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1126/scisignal.2000576"
+      ],
+      "title": "Regulation of Epidermal Growth Factor Receptor Trafficking by Lysine Deacetylase HDAC6",
+      "figure_table_anchors": [
+        "2009 Supplementary Table S1 PDF page 13: EGFR bait and AIP prey"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-NADSYN1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 21: bait AIP, prey NADSYN1, AvgP 0.99, Spec 4|6, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-PPARA-PMID12482853",
+      "pmids": [
+        "12482853"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M211261200"
+      ],
+      "title": "Evidence That Peroxisome Proliferator-activated Receptor alpha Is Complexed with the 90-kDa Heat Shock Protein and the Hepatitis Virus B X-associated Protein 2",
+      "figure_table_anchors": [
+        "Fig. 2: anti-HSP90 depletion removes about 50% PPARalpha with about 40% HSP90, and anti-PPARalpha IP recovers HSP90 and XAP2",
+        "Fig. 3: mixed reticulocyte-lysate translation/anti-FLAG recovery with no-receptor control",
+        "Figs. 4-5: HSP90-PPARalpha E/F-domain reporter context",
+        "Fig. 6: dose-dependent XAP2 repression and FKBP52 no-effect specificity control"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-RAF1-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 706: bait RAF1, prey AIP, WD 132.16, GFP-control ratio 136, total spectra 4",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-RET-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-AIP-USP19-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 23: bait AIP, prey USP19, AvgP 0.99, Spec 7|4, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CCDC117-STIP1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 decision workbook: AP-MS, general LUMIER, and targeted domain-panel sheets rechecked at source thresholds"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CCDC117-STIP1-PMID26186194",
+      "pmids": [
+        "26186194"
+      ],
+      "pmcids": [
+        "PMC4617211"
+      ],
+      "dois": [
+        "10.1016/j.cell.2015.06.043"
+      ],
+      "title": "The BioPlex Network: A Systematic Exploration of the Human Interactome",
+      "figure_table_anchors": [
+        "Supplementary Table 9 decision workbook row 20744: CCDC117-STIP1"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CCDC117-STIP1-PMID28514442",
+      "pmids": [
+        "28514442"
+      ],
+      "pmcids": [
+        "PMC5531611"
+      ],
+      "dois": [
+        "10.1038/nature22366"
+      ],
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CCDC117-STIP1-PMID33239621",
+      "pmids": [
+        "33239621"
+      ],
+      "pmcids": [
+        "PMC7688965"
+      ],
+      "dois": [
+        "10.1038/s41467-020-19783-w"
+      ],
+      "title": "The Hsp70-Hsp90 co-chaperone Hop/Stip1 shifts the proteostatic balance from folding towards degradation",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CCDC117-STIP1-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CCDC117-STIP1-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-ABL2-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 1552: bait ABL2, prey CDC37, WD 208.86, GFP-control ratio 3417, total spectra 201",
+        "Table S4: bait not listed in the inherited Taipale comparison",
+        "Table S2 recovers HSP90AA1, HSP90AB1, and CDC37 with this bait",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-AKT1-PMID31980649",
+      "pmids": [
+        "31980649"
+      ],
+      "pmcids": [
+        "PMC6981206"
+      ],
+      "dois": [
+        "10.1038/s41467-019-14224-9"
+      ],
+      "title": "Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D",
+      "figure_table_anchors": [
+        "Supplementary Fig. 3C: endogenous pan-AKT immunoprecipitation and CDC37 immunoblot"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-APOE-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "Figure 2A co-IP detected",
+        "Figure 2C reciprocal endogenous APOE/CDC37 co-IP"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-APP-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-ARAF-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 847: bait ARAF, prey CDC37, WD 114.30, GFP-control ratio 1870, total spectra 110",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-AURKB-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 5427: bait AURKB, prey CDC37, WD 127.81, GFP-control ratio 2091, total spectra 123",
+        "Table S4: inherited Taipale class Weak",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-BRAF-PMID31980649",
+      "pmids": [
+        "31980649"
+      ],
+      "pmcids": [
+        "PMC6981206"
+      ],
+      "dois": [
+        "10.1038/s41467-019-14224-9"
+      ],
+      "title": "Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDC37L1-PMID15850399",
+      "pmids": [
+        "15850399"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1021/bi047406z"
+      ],
+      "title": "Domain-Mediated Dimerization of the Hsp90 Cochaperones Harc and Cdc37",
+      "figure_table_anchors": [
+        "Fig. 2A-B reciprocal tagged co-IP with no-FLAG expression controls",
+        "Fig. 3 expression titration",
+        "Fig. 4 coexpression versus post-lysis mixing"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDC37L1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 decision workbook: AP-MS, general LUMIER, and targeted domain-panel sheets rechecked at source thresholds"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK11A-PMID24189400",
+      "pmids": [
+        "24189400"
+      ],
+      "pmcids": [
+        "PMC4039310"
+      ],
+      "dois": [
+        "10.1038/msb.2013.61"
+      ],
+      "title": "Perturbation of the mutated EGFR interactome identifies vulnerabilities and resistance mechanisms",
+      "figure_table_anchors": [
+        "Supplementary Table S2 sheet PC9-CDC37 row 6: 2 unique peptide(s), 3 spectrum/spectra, 3% sequence coverage"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK11B-PMID24189400",
+      "pmids": [
+        "24189400"
+      ],
+      "pmcids": [
+        "PMC4039310"
+      ],
+      "dois": [
+        "10.1038/msb.2013.61"
+      ],
+      "title": "Perturbation of the mutated EGFR interactome identifies vulnerabilities and resistance mechanisms",
+      "figure_table_anchors": [
+        "Supplementary Table S2 sheet PC9-CDC37 row 7: 2 unique peptide(s), 3 spectrum/spectra, 3% sequence coverage"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK4-PMID24292678",
+      "pmids": [
+        "24292678"
+      ],
+      "pmcids": [
+        "PMC3984902"
+      ],
+      "dois": [
+        "10.1038/onc.2013.519"
+      ],
+      "title": "Restricting direct interaction of CDC37 with HSP90 does not compromise chaperoning of client proteins",
+      "figure_table_anchors": [
+        "Figures 1, 3, 4, 7E, 8, and 9"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK4-PMID8666233",
+      "pmids": [
+        "8666233"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1101/gad.10.12.1491"
+      ],
+      "title": "Mammalian p50Cdc37 is a protein kinase-targeting subunit of Hsp90 that binds and stabilizes Cdk4",
+      "figure_table_anchors": [
+        "Figures 2B-D, 3A-D, 4, 6, and 7A-C"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK6-PMID24292678",
+      "pmids": [
+        "24292678"
+      ],
+      "pmcids": [
+        "PMC3984902"
+      ],
+      "dois": [
+        "10.1038/onc.2013.519"
+      ],
+      "title": "Restricting direct interaction of CDC37 with HSP90 does not compromise chaperoning of client proteins",
+      "figure_table_anchors": [
+        "Figures 7E, 8, and 9"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK6-PMID8666233",
+      "pmids": [
+        "8666233"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1101/gad.10.12.1491"
+      ],
+      "title": "Mammalian p50Cdc37 is a protein kinase-targeting subunit of Hsp90 that binds and stabilizes Cdk4",
+      "figure_table_anchors": [
+        "Figures 2A and 2E",
+        "Figure 7A and 7D"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK7-PMID8666233",
+      "pmids": [
+        "8666233"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1101/gad.10.12.1491"
+      ],
+      "title": "Mammalian p50Cdc37 is a protein kinase-targeting subunit of Hsp90 that binds and stabilizes Cdk4",
+      "figure_table_anchors": [
+        "Figure 2A",
+        "Results following Figure 2",
+        "Figure 7A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CDK9-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 2082: bait CDK9, prey CDC37, WD 404.21, GFP-control ratio 6613, total spectra 389",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CHORDC1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 79: bait CDC37, prey CHORDC1, AvgP 1.00, Spec 6|15, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CHUK-PMID14743216",
+      "pmids": [
+        "14743216"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/ncb1086"
+      ],
+      "title": "A physical and functional map of the human TNF-alpha/NF-kappaB signal transduction pathway",
+      "figure_table_anchors": [
+        "Supplementary Table S2 row 10 (IKKalpha-CDC37)",
+        "Figure 2",
+        "Results, Hsp90-CDC37"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CTTN-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Table 2 (CTTN)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-CYP2C9-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-DDX17-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Table 2 (DDX17)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-DDX5-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Table 2 (DDX5)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-DNAJB1-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Table 2 (DNAJB1)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-ECSIT-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-EGFR-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-EIF2AK1-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 5841: bait EIF2AK1, prey CDC37, WD 204.70, GFP-control ratio 3349, total spectra 197",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-ELAVL3-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-EPHA2-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-EXOSC1-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FBXL12-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "Figure 2A records pull-down not detected",
+        "Figure 2B displays the GST:FBXL12/Myc:CDC37 pull-down lane/test"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FBXW4-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FER-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 1006: bait FER, prey CDC37, WD 173.53, GFP-control ratio 2839, total spectra 167",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FGFR1-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FGFR3-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FKBP6-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 208: bait FKBP6, prey CDC37, AvgP 1.00, Spec 39|61, CtrlCounts 4|6|3|3|5|5|6"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-FKBPL-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 88: bait CDC37, prey FKBPL, AvgP 0.99, Spec 4|5, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-GCDH-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-GLMN-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 89: bait CDC37, prey GLMN, AvgP 0.95, Spec 3|10, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-HCK-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 817: bait HCK, prey CDC37, WD 86.24, GFP-control ratio 1411, total spectra 83",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-HNRNPM-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Table 2 (HNRNPM)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-IFIT3-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "Figure 2A co-IP and pull-down detected",
+        "Figure 2B GST:IFIT3/Myc:CDC37 pull-down",
+        "Figure 2C reciprocal endogenous IFIT3/CDC37 co-IP"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-IFIT5-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-IKBKB-PMID14743216",
+      "pmids": [
+        "14743216"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/ncb1086"
+      ],
+      "title": "A physical and functional map of the human TNF-alpha/NF-kappaB signal transduction pathway",
+      "figure_table_anchors": [
+        "Supplementary Table S2 row 15 (IKKbeta-CDC37)",
+        "Figure 2",
+        "Results, Hsp90-CDC37"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-IKBKG-PMID14743216",
+      "pmids": [
+        "14743216"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/ncb1086"
+      ],
+      "title": "A physical and functional map of the human TNF-alpha/NF-kappaB signal transduction pathway",
+      "figure_table_anchors": [
+        "Supplementary Table S2 row 24 (IKKgamma-CDC37)",
+        "Figures 1b and 2",
+        "Results, Hsp90-CDC37"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-IRAK1-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 2165: bait IRAK1, prey CDC37, WD 351.21, GFP-control ratio 5746, total spectra 338",
+        "Table S4: bait not listed in the inherited Taipale comparison",
+        "Table S2 recovers HSP90AA1, HSP90AB1, and CDC37 with this bait",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-LONP1-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-LOXL4-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-MAP3K11-PMID15001580",
+      "pmids": [
+        "15001580"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M311377200"
+      ],
+      "title": "Hsp90/p50cdc37 Is Required for Mixed-lineage Kinase (MLK) 3 Signaling",
+      "figure_table_anchors": [
+        "Fig. 2: FLAG-MLK3 AP-MS, HSP90alpha 12 peptides, HSP90beta 9 peptides, p50CDC37 and immunoblot validation",
+        "Fig. 3: endogenous MLK3 IP",
+        "Fig. 5: GST-CDC37/HA-MLK3 fragment pull-down, three experiments",
+        "Fig. 6: WT, Cdc42V12-activated and K144A MLK3 complexes",
+        "Figs. 4 and 7: >80% MLK3 loss by 24 h geldanamycin and loss of TNFalpha-induced MLK3/JNK activation"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-MAP3K7-PMID14743216",
+      "pmids": [
+        "14743216"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/ncb1086"
+      ],
+      "title": "A physical and functional map of the human TNF-alpha/NF-kappaB signal transduction pathway",
+      "figure_table_anchors": [
+        "Supplementary Table S2 row 92 (TAK1-CDC37)",
+        "Figure 2"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-NOS3-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "Figure 2A co-IP and pull-down detected",
+        "Figure 2B GST:NOS3/Myc:CDC37 pull-down",
+        "Figure 2C reciprocal endogenous NOS3/CDC37 co-IP"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-NTRK1-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-NUP98-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-NUP98-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-PRAM1-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-PRDX2-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "Figure 2A records pull-down not detected",
+        "no pair-specific PRDX2 blot is displayed in Figure 2B"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-PRKAA1-PMID16306228",
+      "pmids": [
+        "16306228"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1242/jcs.02670"
+      ],
+      "title": "14-3-3 cooperates with LKB1 to regulate the activity and localization of QSK and SIK",
+      "figure_table_anchors": [
+        "Fig. 1A-C purification workflow and gel",
+        "Table 1 samples 4 and 8: Hsp90 and CDC37 associated with AMPKalpha1 bait"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-PRKAA1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 decision workbook: AP-MS, general LUMIER, and targeted domain-panel sheets rechecked at source thresholds"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-PSEN1-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "Main text page 367 and Figure 2A: pull-down not detected",
+        "Figure 2C: reciprocal endogenous PSEN1/CDC37 co-IP",
+        "Figure 2B has no PSEN1 lane"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-PTK6-PMID31980649",
+      "pmids": [
+        "31980649"
+      ],
+      "pmcids": [
+        "PMC6981206"
+      ],
+      "dois": [
+        "10.1038/s41467-019-14224-9"
+      ],
+      "title": "Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D",
+      "figure_table_anchors": [
+        "Supplementary Fig. 3B: FLAG-PTK6 immunoprecipitation and CDC37 immunoblot"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-RAD23A-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-RAE1-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Table 2 (RAE1)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-RAF1-PMID16611982",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Figures 1-3"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-RAF1-PMID24292678",
+      "pmids": [
+        "24292678"
+      ],
+      "pmcids": [
+        "PMC3984902"
+      ],
+      "dois": [
+        "10.1038/onc.2013.519"
+      ],
+      "title": "Restricting direct interaction of CDC37 with HSP90 does not compromise chaperoning of client proteins",
+      "figure_table_anchors": [
+        "Figures 7E, 8A, and 9A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-RNF32-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-RPAP3-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 100: bait CDC37, prey RPAP3, AvgP 0.93, Spec 5|8, CtrlCounts 0|0|0|0|0|2|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-SKP1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 101: bait CDC37, prey SKP1, AvgP 1.00, Spec 11|15, CtrlCounts 1|0|0|0|3|2|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-SMYD3-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 102: bait CDC37, prey SMYD3, AvgP 1.00, Spec 10|11, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-SRC-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 979: bait SRC, prey CDC37, WD 78.97, GFP-control ratio 1292, total spectra 76",
+        "Table S4: inherited Taipale class Nonclient",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-STAMBPL1-PMID21163940",
+      "pmids": [
+        "21163940"
+      ],
+      "pmcids": [
+        "PMC3044851"
+      ],
+      "dois": [
+        "10.1101/gr.114280.110"
+      ],
+      "title": "Interactome mapping suggests new mechanistic details underlying Alzheimer's disease",
+      "figure_table_anchors": [
+        "No pair-specific downstream assay is reported in Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-STK11-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 3716: bait STK11, prey CDC37, WD 430.18, GFP-control ratio 7038, total spectra 414",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-STK33-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 6011: bait STK33, prey CDC37, WD 387.58, GFP-control ratio 6341, total spectra 373",
+        "Table S4: inherited Taipale class Nonclient",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-STK36-PMID17054904",
+      "pmids": [
+        "17054904"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.bbrc.2006.10.036"
+      ],
+      "title": "Fused kinase is stabilized by Cdc37/Hsp90 and enhances Gli protein levels",
+      "figure_table_anchors": [
+        "Fig. 1A-E association, GFP control, endogenous co-IP, and kinase-domain mapping",
+        "Fig. 2A-D GA/TBB time courses, pulse-chase, MG132/chloroquine controls, and ubiquitination"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-STK36-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-SYNE2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 104: bait CDC37, prey SYNE2, AvgP 1.00, Spec 9|11, CtrlCounts 0|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-TARS2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 105: bait CDC37, prey TARS2, AvgP 0.90, Spec 6|9, CtrlCounts 0|2|0|1|2|0|2"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-TNK2-PMID31980649",
+      "pmids": [
+        "31980649"
+      ],
+      "pmcids": [
+        "PMC6981206"
+      ],
+      "dois": [
+        "10.1038/s41467-019-14224-9"
+      ],
+      "title": "Extensive rewiring of the EGFR network in colorectal cancer cells expressing transforming levels of KRASG13D",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-TOMM34-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 106: bait CDC37, prey TOMM34, AvgP 1.00, Spec 67|71, CtrlCounts 0|2|0|0|3|4|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-TTC4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 107: bait CDC37, prey TTC4, AvgP 1.00, Spec 45|58, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-TTC9C-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-TTC9C-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-UPF1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 110: bait CDC37, prey UPF1, AvgP 1.00, Spec 9|15, CtrlCounts 1|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37-USP19-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 111: bait CDC37, prey USP19, AvgP 1.00, Spec 10|10, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37L1-FKBP4-PMID11413142",
+      "pmids": [
+        "11413142"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M103889200"
+      ],
+      "title": "Identification and Characterization of Harc, a Novel Hsp90-associating Relative of Cdc37",
+      "figure_table_anchors": [
+        "Fig. 2B-C cytosolic localization",
+        "Fig. 7A-B FLAG-Harc complex composition and reciprocal immunoprecipitations with normal-rabbit-serum control"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CDC37L1-FKBP4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 decision workbook: AP-MS, general LUMIER, and targeted domain-panel sheets rechecked at source thresholds"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-CHUK-FKBP5-PMID14743216",
+      "pmids": [
+        "14743216"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/ncb1086"
+      ],
+      "title": "A physical and functional map of the human TNF-alpha/NF-kappaB signal transduction pathway",
+      "figure_table_anchors": [
+        "Supplementary Table S2 row 11 (IKKalpha-FKBP51)",
+        "Figure 3a",
+        "Results, FKBP51"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-AGO4-PMID19167051",
+      "pmids": [
+        "19167051"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cell.2008.12.023"
+      ],
+      "title": "Importin 8 Is a Gene Silencing Factor that Targets Argonaute Proteins to Distinct mRNAs",
+      "figure_table_anchors": [
+        "Supplement Table S2 page 16: DnaJ subfamily A member 2, GI 16041837, mass 45717, 4 query matches, peptide score 41, peptide delta 0.0109, gel band 12"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-DNAJA4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-DNAJA4-PMID33957083",
+      "pmids": [
+        "33957083"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2021.04.012"
+      ],
+      "title": "Comprehensive interactome profiling of the human Hsp70 network highlights functional differentiation of J domains",
+      "figure_table_anchors": [
+        "Table S2 AP-MS sheet A: row 45 DNAJA2 bait/DNAJA4 prey, Spec 21|13, AvgP 1.00, FC 170, BFDR 0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-DNAJA4-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-EGFR-PMID24189400",
+      "pmids": [
+        "24189400"
+      ],
+      "pmcids": [
+        "PMC4039310"
+      ],
+      "dois": [
+        "10.1038/msb.2013.61"
+      ],
+      "title": "Perturbation of the mutated EGFR interactome identifies vulnerabilities and resistance mechanisms",
+      "figure_table_anchors": [
+        "Supplementary Table S2 sheet PC9-EGFR row 11: 1 unique peptide(s), 1 spectrum/spectra, 6% sequence coverage"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-IRS4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 306: bait IRS4, prey DNAJA2, AvgP 0.99, Spec 17|20, CtrlCounts 1|6|2|0|6|2|3"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-NUDC-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-NUDC-PMID33957083",
+      "pmids": [
+        "33957083"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2021.04.012"
+      ],
+      "title": "Comprehensive interactome profiling of the human Hsp70 network highlights functional differentiation of J domains",
+      "figure_table_anchors": [
+        "Table S2 AP-MS sheet A row 35 prey NUDC: DNAJA2 bait, Spec 211|176, AvgP 1.00, MaxP 1.00, FC 5.06, BFDR 0",
+        "Table S3 BioID row 11921: DNAJA2 bait/NUDC prey, Spec 151|150, AvgP 0, MaxP 0, FC 1.91, BFDR 0.73"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJA2-NUDC-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-AGO4-PMID19167051",
+      "pmids": [
+        "19167051"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cell.2008.12.023"
+      ],
+      "title": "Importin 8 Is a Gene Silencing Factor that Targets Argonaute Proteins to Distinct mRNAs",
+      "figure_table_anchors": [
+        "Supplement Table S2 page 17: DNAJB11 precursor, GI 12654616, mass 40489, 1 query match, peptide score 41, peptide delta 0.0604, gel band 14"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-ALK-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-APOBEC1-PMID11584023",
+      "pmids": [
+        "11584023"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M109215200"
+      ],
+      "title": "A DnaJ protein, Apobec-1-binding protein-2, modulates apolipoprotein B mRNA editing",
+      "figure_table_anchors": [
+        "Y2H Methods and Fig. 1: APOBEC1 bait/near-full-length ABBP-2 clone",
+        "Fig. 2A-C: GST-ABBP-2 deletion series with reticulocyte-lysate APOBEC1",
+        "Fig. 3B: GFP-ABBP-2 nuclear-predominant localization",
+        "Fig. 4B-D: transient and three inducible antisense lines reduce editing",
+        "Fig. 5C: anti-ABBP-2 IP recovers FLAG-APOBEC1 with and without added ATP",
+        "Figs. 6-7: editing extract ATP dependence and ABBP-2/HSP70 immunodepletion"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-DDR2-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-EPHA8-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-ERBB2-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-HSPA5-PMID24189400",
+      "pmids": [
+        "24189400"
+      ],
+      "pmcids": [
+        "PMC4039310"
+      ],
+      "dois": [
+        "10.1038/msb.2013.61"
+      ],
+      "title": "Perturbation of the mutated EGFR interactome identifies vulnerabilities and resistance mechanisms",
+      "figure_table_anchors": [
+        "Supplementary Table S2 sheet PC9-GRP78 row 31: 1 unique peptide(s), 2 spectrum/spectra, 3% sequence coverage"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-IGF1R-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-INSR-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-MET-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJB11-NTRK3-PMID35384245",
+      "pmids": [
+        "35384245"
+      ],
+      "pmcids": [
+        "PMC9171411"
+      ],
+      "dois": [
+        "10.15252/embr.202154041"
+      ],
+      "title": "Physical and functional interactome atlas of human receptor tyrosine kinases",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJC7-BAG4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJC7-BAG4-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJC7-HUS1-PMID11573955",
+      "pmids": [
+        "11573955"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1006/bbrc.2001.5685"
+      ],
+      "title": "The J domain of Tpr2 regulates its interaction with the proapoptotic and cell-cycle checkpoint protein, Rad9",
+      "figure_table_anchors": [
+        "Fig. 1C: anti-FLAG IP of full-length or Delta-J Tpr2 co-recovers HA-HUS1",
+        "Fig. 2B: cellular Tpr2 deletion mapping indicates that N- and C-terminal TPR motifs and the J domain contribute to HUS1 recovery",
+        "Results text: GST-Tpr2/HUS1 pull-down reported as data not shown"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJC7-RAD1-PMID11573955",
+      "pmids": [
+        "11573955"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1006/bbrc.2001.5685"
+      ],
+      "title": "The J domain of Tpr2 regulates its interaction with the proapoptotic and cell-cycle checkpoint protein, Rad9",
+      "figure_table_anchors": [
+        "Fig. 1C: anti-FLAG IP of full-length or Delta-J Tpr2 co-recovers HA-RAD1",
+        "Fig. 2B: cellular Tpr2 deletion mapping implicates the N-terminal TPR region in RAD1 recovery",
+        "Results text: GST-Tpr2/RAD1 pull-down reported as data not shown"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-DNAJC7-RAD9A-PMID11573955",
+      "pmids": [
+        "11573955"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1006/bbrc.2001.5685"
+      ],
+      "title": "The J domain of Tpr2 regulates its interaction with the proapoptotic and cell-cycle checkpoint protein, Rad9",
+      "figure_table_anchors": [
+        "Fig. 1B-D: COS-7 anti-FLAG co-IP",
+        "Fig. 1E: GST pull-down of rabbit-reticulocyte-lysate RAD9A with ATP condition",
+        "Figs. 2B and 3B: cellular domain mapping",
+        "Fig. 4: heat-shock time course",
+        "Fig. 5: MCF-7 RAD9A/Tpr2 localization with wild-type and HPD-mutant Tpr2"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-CACYBP-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 AvgP scores row 159: FKBP4/CACYBP, AvgP 1.00, Spec 25|37, CtrlCounts 2|4|2|5|4|8|7"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-CACYBP-PMID33973408",
+      "pmids": [
+        "33973408"
+      ],
+      "pmcids": [
+        "PMC8111494"
+      ],
+      "dois": [
+        "10.15252/msb.202010016"
+      ],
+      "title": "hu.MAP 2.0: integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-CHORDC1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 129: bait CHORDC1, prey FKBP4, AvgP 1.00, Spec 82|135, CtrlCounts 9|19|3|7|22|20|5"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-EGFR-PMID20029029",
+      "pmids": [
+        "20029029"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1126/scisignal.2000576"
+      ],
+      "title": "Regulation of Epidermal Growth Factor Receptor Trafficking by Lysine Deacetylase HDAC6",
+      "figure_table_anchors": [
+        "2009 Supplementary Table S1 PDF page 17: EGFR bait and FKBP4 prey"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-HSPB1-PMID25277244",
+      "pmids": [
+        "25277244"
+      ],
+      "pmcids": [
+        "PMC4256507"
+      ],
+      "dois": [
+        "10.1074/mcp.M114.041228"
+      ],
+      "title": "The Functional Landscape of Hsp27 Reveals New Cellular Processes such as DNA Repair and Alternative Splicing and Proposes Novel Anticancer Targets",
+      "figure_table_anchors": [
+        "Supplementary Table S1 Interactome row 91: HSP27, FKBP4, HeLa, NM_002014.3, one occurrence, confirmed",
+        "Figure 1B: one-way endogenous anti-HSP27 IP versus IgG and anti-FKBP4 immunoblot"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-LSM7-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 165: bait FKBP4, prey LSM7, AvgP 0.94, Spec 4|3, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-RPS10-NUDT3-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 167: bait FKBP4, prey exact source string RPS10-NUDT3, AvgP 0.89, Spec 3|3, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP4-USP19-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 169: bait FKBP4, prey USP19, AvgP 0.99, Spec 4|5, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO1-PMID24778252",
+      "pmids": [
+        "24778252"
+      ],
+      "pmcids": [
+        "PMC4024878"
+      ],
+      "dois": [
+        "10.1073/pnas.1322545111"
+      ],
+      "title": "TRIM65 regulates microRNA activity by ubiquitination of TNRC6",
+      "figure_table_anchors": [
+        "main-text Methods and Results: 40 FLAG-bait stable HEK293 lines, two biological affinity purifications split into four LC-MS/MS runs"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 186: bait FKBP5, prey EIF2C1, AvgP 0.99, replicate spectral counts 9|4"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO1-PMID28363942",
+      "pmids": [
+        "28363942"
+      ],
+      "pmcids": [
+        "PMC5430216"
+      ],
+      "dois": [
+        "10.15252/embj.201695669"
+      ],
+      "title": "USP49 negatively regulates tumorigenesis and chemoresistance through FKBP51-AKT signaling",
+      "figure_table_anchors": [
+        "Figure 1A, list of FKBP51-associated proteins: AGO1, 17 peptides"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO1-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO1-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO2-PMID24049110-BACKTRACE",
+      "pmids": [
+        "24049110"
+      ],
+      "pmcids": [
+        "PMC3851725"
+      ],
+      "dois": [
+        "10.1261/rna.040790.113"
+      ],
+      "title": "The co-chaperones Fkbp4/5 control Argonaute2 expression and facilitate RISC assembly",
+      "figure_table_anchors": [
+        "Figures 1B and 1D-G: FLAG-Ago2 AP-MS/co-IP, Hsp90 co-recovery, RNase resistance, and reduced normalized FKBP5 association after FK506",
+        "Figures 3A-C and 3H: FKBP5 depletion reduces tagged or endogenous Ago2 in mouse ESCs and MEFs with FKBP4 redundancy",
+        "Figures 4B and 4D-F: FKBP5 gain-of-function and FK506-sensitive miRNA-loading readouts",
+        "Figures 5A-B: FK506-sensitive mouse ESC readouts",
+        "Figures 5C-E: AGO2 and miRNA phenotypes in human K562 cells"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 187: bait FKBP5, prey EIF2C2, AvgP 1.0, replicate spectral counts 7|10"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO2-PMID29395067",
+      "pmids": [
+        "29395067"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2017.12.020"
+      ],
+      "title": "High-Density Proximity Mapping Reveals the Subcellular Organization of mRNA-Associated Granules and Bodies",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AGO2-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-ANKMY2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 171: bait FKBP5, prey ANKMY2, AvgP 1.00, Spec 17|12, CtrlCounts 0|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-ARAF-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 844: bait ARAF, prey FKBP5, WD 390.10, GFP-control ratio 2618, total spectra 77",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-AURKB-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 5415: bait AURKB, prey FKBP5, WD 486.36, GFP-control ratio 3264, total spectra 96",
+        "Table S4: inherited Taipale class Weak",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CACYBP-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 175: bait FKBP5, prey CACYBP, AvgP 1.0, replicate spectral counts 41|53"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CACYBP-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDC37L1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 115: bait CDC37L1, prey FKBP5, AvgP 0.95, Spec 10|15, CtrlCounts 0|3|0|0|3|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK11A-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 178: bait FKBP5, prey CDK11A, AvgP 0.99, replicate spectral counts 5|4"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK11A-PMID28514442",
+      "pmids": [
+        "28514442"
+      ],
+      "pmcids": [
+        "PMC5531611"
+      ],
+      "dois": [
+        "10.1038/nature22366"
+      ],
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK11A-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK11A-PMID33973408",
+      "pmids": [
+        "33973408"
+      ],
+      "pmcids": [
+        "PMC8111494"
+      ],
+      "dois": [
+        "10.15252/msb.202010016"
+      ],
+      "title": "hu.MAP 2.0: integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK11A-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK4-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 969: bait CDK4, prey FKBP5, WD 136.79, GFP-control ratio 918, total spectra 27",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CDK9-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 2081: bait CDK9, prey FKBP5, WD 830.87, GFP-control ratio 5576, total spectra 164",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-CHORDC1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 181: bait FKBP5, prey CHORDC1, AvgP 1.00, Spec 45|17, CtrlCounts 1|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-DNAJB6-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 184: bait FKBP5, prey DNAJB6, AvgP 0.97, replicate spectral counts 4|7"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-DNAJB6-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-GLMN-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 189: bait FKBP5, prey GLMN, AvgP 1.0, replicate spectral counts 83|65"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-GLMN-PMID31490997",
+      "pmids": [
+        "31490997"
+      ],
+      "pmcids": [
+        "PMC6730887"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0221926"
+      ],
+      "title": "FKBP51 and FKBP12.6 - Novel and tight interactors of Glomulin",
+      "figure_table_anchors": [
+        "Figure 3B competition IC50: full-length FKBP51 96 +/- 4 nM and FK1 aa16-140 372 +/- 41 nM",
+        "Figure 4: qualitative FKBP-ligand competition",
+        "Figure 5B IC50: FK1 aa16-140 380 +/- 34 nM, aa1-140 383 +/- 36 nM, F67V 880 +/- 84 nM, FD67/68DV 15,557 +/- 2,286 nM",
+        "S1 File contains primary-data sheets for Figures 2A through 5B"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-GLMN-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-GLMN-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-HGH1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 AvgP scores row 188: FKBP5/FAM203B, AvgP 1.00, Spec 8|13, CtrlCounts 2|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-HSF4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 237: bait HSF4, prey FKBP5, AvgP 1.00, Spec 32|33, CtrlCounts 8|0|0|0|3|0|1|0|2|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-IKBKG-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 192: bait FKBP5, prey IKBKG, AvgP 1.0, replicate spectral counts 5|10"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-IKBKG-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-IKBKG-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-ILK-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 3345: bait ILK, prey FKBP5, WD 1053.78, GFP-control ratio 7072, total spectra 208",
+        "Table S4: inherited Taipale class Weak",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-IRS4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 309: bait IRS4, prey FKBP5, AvgP 0.98, Spec 12|16, CtrlCounts 0|3|0|0|3|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-KIFBP-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 194: bait FKBP5, prey KIAA1279, AvgP 1.0, replicate spectral counts 17|14"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-KIFBP-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-LRRC40-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 195: bait FKBP5, prey LRRC40, AvgP 1.00, Spec 17|17, CtrlCounts 0|0|0|0|1|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-MCM4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 196: bait FKBP5, prey MCM4, AvgP 0.89, replicate spectral counts 43|41"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-MCM4-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-MCMBP-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 197: bait FKBP5, prey MCMBP, AvgP 1.0, replicate spectral counts 66|38"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-MCMBP-PMID32296183",
+      "pmids": [
+        "32296183"
+      ],
+      "pmcids": [
+        "PMC7169983"
+      ],
+      "dois": [
+        "10.1038/s41586-020-2188-x"
+      ],
+      "title": "A reference map of the human binary protein interactome",
+      "figure_table_anchors": [
+        "Supplementary Table 9 line 10576: ENSG00000096060-ENSG00000197771, screen 1 positive, assay version 1",
+        "Supplementary Table 16 line 5065: ORF pair 5222-100002460, category Lit_and_HuRI, MAPPIT result 1.0, one HuRI screen"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-MCMBP-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-MCMBP-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-NUDC-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 199: bait FKBP5, prey NUDC, AvgP 1.0, replicate spectral counts 74|57"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-NUDC-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-NUDCD3-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 200: bait FKBP5, prey NUDCD3, AvgP 1.0, replicate spectral counts 31|28"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-NUDCD3-PMID28363942",
+      "pmids": [
+        "28363942"
+      ],
+      "pmcids": [
+        "PMC5430216"
+      ],
+      "dois": [
+        "10.15252/embj.201695669"
+      ],
+      "title": "USP49 negatively regulates tumorigenesis and chemoresistance through FKBP51-AKT signaling",
+      "figure_table_anchors": [
+        "Figure 1A, list of FKBP51-associated proteins: NUDCD3, 8 peptides"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-NUDCD3-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-PDCD2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 201: bait FKBP5, prey PDCD2, AvgP 1.00, Spec 12|15, CtrlCounts 0|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-PNPLA2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 202: bait FKBP5, prey PNPLA2, AvgP 0.98, Spec 4|4, CtrlCounts 0|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-PYGL-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 204: bait FKBP5, prey PYGL, AvgP 0.91, replicate spectral counts 3|3"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-PYGL-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-RADX-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 183: bait FKBP5, prey CXorf57, AvgP 0.95, replicate spectral counts 10|11"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-RADX-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-STK11-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 3714: bait STK11, prey FKBP5, WD 2396.34, GFP-control ratio 16082, total spectra 473",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-TEDC1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 174: bait FKBP5, source prey C14orf80, AvgP 0.95, Spec 3|4, CtrlCounts 0|0|0|0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-TTC4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores sheet row 206: bait FKBP5, prey TTC4, AvgP 1.0, replicate spectral counts 8|9"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-TTC4-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-FKBP5-TUBA1A-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPID-GPALPP1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 407: bait PPID, source prey KIAA1704, AvgP 1.00, Spec 50|90, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-AGO1-PMID28330616",
+      "pmids": [
+        "28330616"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cels.2017.02.011"
+      ],
+      "title": "Systematic Analysis of Human Protein Phosphatase Interactions and Dynamics",
+      "figure_table_anchors": [
+        "Table S1A row 34: full-length PPP5C, N-terminal Strep-HA",
+        "Table S1F row 353: PPP5C bait/AGO1 prey, SAINT 1.00",
+        "Table S1G row 173: tagged co-IP positive",
+        "Table S2F row 36: OA/without-OA fold change 1.955603, p=4.9803e-6"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-AGO3-PMID28330616",
+      "pmids": [
+        "28330616"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cels.2017.02.011"
+      ],
+      "title": "Systematic Analysis of Human Protein Phosphatase Interactions and Dynamics",
+      "figure_table_anchors": [
+        "Table S1A row 34: full-length PPP5C, N-terminal Strep-HA",
+        "Table S1F row 369: PPP5C bait/AGO3 prey, SAINT 0.89",
+        "Table S1G row 167: tagged co-IP positive",
+        "Table S2F row 32: OA/without-OA fold change 1.714926, p=0.00152624"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-CCT4-PMID21360678",
+      "pmids": [
+        "21360678"
+      ],
+      "pmcids": [
+        "PMC3086140"
+      ],
+      "dois": [
+        "10.1002/pmic.201000770"
+      ],
+      "title": "Label-free quantitative proteomics and SAINT analysis enable interactome mapping for the human Ser/Thr protein phosphatase 5",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-CDC37L1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 119: bait CDC37L1, prey PPP5C, AvgP 1.00, Spec 9|11, CtrlCounts 0|0|0|0|1|1|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-CDK9-PMID28330616",
+      "pmids": [
+        "28330616"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cels.2017.02.011"
+      ],
+      "title": "Systematic Analysis of Human Protein Phosphatase Interactions and Dynamics",
+      "figure_table_anchors": [
+        "Table S1A row 34: full-length PPP5C, N-terminal Strep-HA",
+        "Table S1F row 366: PPP5C bait/CDK9 prey, SAINT 0.92",
+        "Table S1G row 163: BioID positive and tagged co-IP positive",
+        "Table S2F row 20: OA/without-OA fold change 0.996320, p=0.967576493"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-EGFR-PMID20029029",
+      "pmids": [
+        "20029029"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1126/scisignal.2000576"
+      ],
+      "title": "Regulation of Epidermal Growth Factor Receptor Trafficking by Lysine Deacetylase HDAC6",
+      "figure_table_anchors": [
+        "2009 Supplementary Table S1 PDF page 20: EGFR bait and PPP5C prey"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-GNA12-PMID12176367",
+      "pmids": [
+        "12176367"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/S0960-9822(02)01034-5"
+      ],
+      "title": "Galpha(12) and Galpha(13) interact with Ser/Thr protein phosphatase type 5 and stimulate its phosphatase activity",
+      "figure_table_anchors": [
+        "Y2H Results: approximately 12 million rat-brain-library clones screened with GNA12-QL",
+        "Fig. 1B-C: three replicate GST-PPP5C-TPR pull-downs from COS-7 lysate and purified GST constructs",
+        "Fig. 2A: COS-7 co-IP of full-length/TPR but not phosphatase-domain PPP5C",
+        "Fig. 2B-C: reciprocal endogenous adult-rat-brain co-IP with anti-GNA12, anti-PPP5C, and anti-GNAQ control",
+        "Fig. 3 and Supplementary Fig. S1: activation-dependent PPP5C relocalization",
+        "Fig. 4A-C: defined GST-protein phosphatase assays"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-GNA13-PMID12176367",
+      "pmids": [
+        "12176367"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/S0960-9822(02)01034-5"
+      ],
+      "title": "Galpha(12) and Galpha(13) interact with Ser/Thr protein phosphatase type 5 and stimulate its phosphatase activity",
+      "figure_table_anchors": [
+        "Fig. 1B-C: GST-PPP5C-TPR pull-down of COS-7-expressed GNA13-QL with GNAQ-QL and GNAI2-QL negative specificity controls, three experiments",
+        "Fig. 4A-B: purified GST-GNA13-QL activates GST-PPP5C alone and with arachidonic acid",
+        "Fig. 4 legend: 10 nM GST-fused GTPases and three independent assays"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-HSPA8-PMID21360678",
+      "pmids": [
+        "21360678"
+      ],
+      "pmcids": [
+        "PMC3086140"
+      ],
+      "dois": [
+        "10.1002/pmic.201000770"
+      ],
+      "title": "Label-free quantitative proteomics and SAINT analysis enable interactome mapping for the human Ser/Thr protein phosphatase 5",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-IRS4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 AvgP scores row 321: IRS4/PPP5C, AvgP 1.00, Spec 62|120, CtrlCounts 0|0|0|0|1|1|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-IRS4-PMID28330616",
+      "pmids": [
+        "28330616"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cels.2017.02.011"
+      ],
+      "title": "Systematic Analysis of Human Protein Phosphatase Interactions and Dynamics",
+      "figure_table_anchors": [
+        "Table S1A row 34: full-length PPP5C, N-terminal Strep-HA",
+        "Table S1F row 341: PPP5C bait/IRS4 prey, SAINT 1.00",
+        "Table S1G row 159: BioID positive",
+        "Table S2F row 10: OA/without-OA fold change 1.242706, p=0.001075457"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PPP5C-NOL9-PMID28330616",
+      "pmids": [
+        "28330616"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.cels.2017.02.011"
+      ],
+      "title": "Systematic Analysis of Human Protein Phosphatase Interactions and Dynamics",
+      "figure_table_anchors": [
+        "Table S1A row 34: full-length PPP5C, N-terminal Strep-HA",
+        "Table S1F row 359: PPP5C bait/NOL9 prey, SAINT 0.98",
+        "Table S1G row 172: tagged co-IP positive",
+        "Table S2F row 29: OA/without-OA fold change 1.606404, p=0.000796287"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PTGES3-FKBP6-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 213: bait FKBP6, prey PTGES3, AvgP 1.00, Spec 5|8, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PTGES3-FKBP8-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PTGES3-FKBP8-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-PTGES3-IRS4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 322: bait IRS4, prey PTGES3, AvgP 1.00, Spec 9|11, CtrlCounts 0|0|0|0|0|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-RPAP3-SUGT1-PMID14676191",
+      "pmids": [
+        "14676191"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M312171200"
+      ],
+      "title": "Comprehensive proteomic analysis of human Par protein complexes reveals an interconnected protein network",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-RPAP3-SUGT1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 decision workbook: AP-MS, general LUMIER, and targeted domain-panel sheets rechecked at source thresholds"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SACK1H-UNC45A-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 decision workbook: AP-MS, general LUMIER, and targeted domain-panel sheets rechecked at source thresholds"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SACK1H-UNC45A-PMID28514442",
+      "pmids": [
+        "28514442"
+      ],
+      "pmcids": [
+        "PMC5531611"
+      ],
+      "dois": [
+        "10.1038/nature22366"
+      ],
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SACK1H-UNC45A-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SACK1H-UNC45A-PMID33973408",
+      "pmids": [
+        "33973408"
+      ],
+      "pmcids": [
+        "PMC8111494"
+      ],
+      "dois": [
+        "10.15252/msb.202010016"
+      ],
+      "title": "hu.MAP 2.0: integration of over 15,000 proteomic experiments builds a global compendium of human multiprotein assemblies",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-BAG2-PMID33239621",
+      "pmids": [
+        "33239621"
+      ],
+      "pmcids": [
+        "PMC7688965"
+      ],
+      "dois": [
+        "10.1038/s41467-020-19783-w"
+      ],
+      "title": "The Hsp70-Hsp90 co-chaperone Hop/Stip1 shifts the proteostatic balance from folding towards degradation",
+      "figure_table_anchors": [
+        "Figure 3b"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-CDC37L1-PMID11413142",
+      "pmids": [
+        "11413142"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M103889200"
+      ],
+      "title": "Identification and Characterization of Harc, a Novel Hsp90-associating Relative of Cdc37",
+      "figure_table_anchors": [
+        "Figure 7A, 293T FLAG-Harc IP detects Hsp90, p60Hop/STIP1, FLAG-Harc, and p22",
+        "Figure 7B, FLAG-Harc is detected in anti-Hsp90 and anti-Hsp70 IPs, while p60Hop is detected in anti-FLAG, anti-Hsp90, and anti-Hsp70 IPs"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-CDC37L1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-DNAJB6-PMID33239621",
+      "pmids": [
+        "33239621"
+      ],
+      "pmcids": [
+        "PMC7688965"
+      ],
+      "dois": [
+        "10.1038/s41467-020-19783-w"
+      ],
+      "title": "The Hsp70-Hsp90 co-chaperone Hop/Stip1 shifts the proteostatic balance from folding towards degradation",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-EGFR-PMID20029029",
+      "pmids": [
+        "20029029"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1126/scisignal.2000576"
+      ],
+      "title": "Regulation of Epidermal Growth Factor Receptor Trafficking by Lysine Deacetylase HDAC6",
+      "figure_table_anchors": [
+        "2009 Supplementary Table S1 PDF page 15: EGFR bait and STIP1 prey",
+        "Supplementary Fig. S3C image PDF page 6 and caption page 7: tagged STIP1 immunoprecipitation/endogenous EGFR immunoblot, IntAct EBI-4398140"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-HSPA8-PMID33239621",
+      "pmids": [
+        "33239621"
+      ],
+      "pmcids": [
+        "PMC7688965"
+      ],
+      "dois": [
+        "10.1038/s41467-020-19783-w"
+      ],
+      "title": "The Hsp70-Hsp90 co-chaperone Hop/Stip1 shifts the proteostatic balance from folding towards degradation",
+      "figure_table_anchors": [
+        "Figure 3d"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-IRAK1-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 2146: bait IRAK1, prey STIP1, WD 248.58, GFP-control ratio 84.54, total spectra 92",
+        "Table S4: bait not listed in the inherited Taipale comparison",
+        "Table S2 recovers HSP90AA1, HSP90AB1, and CDC37 with this bait",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-MLF2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-MLF2-PMID33239621",
+      "pmids": [
+        "33239621"
+      ],
+      "pmcids": [
+        "PMC7688965"
+      ],
+      "dois": [
+        "10.1038/s41467-020-19783-w"
+      ],
+      "title": "The Hsp70-Hsp90 co-chaperone Hop/Stip1 shifts the proteostatic balance from folding towards degradation",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-PSMD2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STIP1-PSMD2-PMID33239621",
+      "pmids": [
+        "33239621"
+      ],
+      "pmcids": [
+        "PMC7688965"
+      ],
+      "dois": [
+        "10.1038/s41467-020-19783-w"
+      ],
+      "title": "The Hsp70-Hsp90 co-chaperone Hop/Stip1 shifts the proteostatic balance from folding towards degradation",
+      "figure_table_anchors": [
+        "Figure 3d targeted co-IP, n=1"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-AXL-PMID32707033",
+      "pmids": [
+        "32707033"
+      ],
+      "pmcids": [
+        "PMC7427327"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2020.07.001"
+      ],
+      "title": "Kinase Interaction Network Expands Functional and Disease Roles of Human Kinases",
+      "figure_table_anchors": [
+        "Table S2 final interactome Excel row 1385: bait AXL, prey STUB1, WD 86.22, GFP-control ratio 238, total spectra 7",
+        "Table S4: inherited Taipale class Strong",
+        "Table S9: target kinase construct matches canonical UniProt sequence"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-BAG1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "AP-MS SAINT AvgP 1.00 (Table S1 row 29) and LUMIER 7.520 (row 435)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-BAG2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Reciprocal AP-MS SAINT AvgP 1.00 (Table S1 rows 33 and 449) and reciprocal LUMIER 9.009 and 7.570 (rows 94 and 297)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-BAG3-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "AP-MS SAINT AvgP 1.00 (Table S1 row 43) and LUMIER 7.128 (row 106)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-BAG4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "AP-MS SAINT AvgP 1.00 (Table S1 row 58)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-CDC37L1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "AP-MS SAINT AvgP 0.97 (Table S1 row 123)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-CFTR-PMID15215316",
+      "pmids": [
+        "15215316"
+      ],
+      "pmcids": [
+        "PMC515335"
+      ],
+      "dois": [
+        "10.1091/mbc.E04-04-0293"
+      ],
+      "title": "The cochaperone HspBP1 inhibits the CHIP ubiquitin ligase and stimulates the maturation of the cystic fibrosis transmembrane conductance regulator",
+      "figure_table_anchors": [
+        "Results, HspBP1 Interferes with the CHIP-induced Degradation of CFTR and Stimulates CFTR Maturation",
+        "Figures 4A-B, 5A-B, and 6A-B"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-DNAJB6-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "STUB1-bait AP-MS SAINT AvgP 1.00 (Table S1 row 450)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-EGFR-PMID20029029",
+      "pmids": [
+        "20029029"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1126/scisignal.2000576"
+      ],
+      "title": "Regulation of Epidermal Growth Factor Receptor Trafficking by Lysine Deacetylase HDAC6",
+      "figure_table_anchors": [
+        "2009 Supplementary Table S1 PDF page 22: EGFR bait and STUB1 prey"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-HSPA1B-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "STUB1-bait AP-MS SAINT AvgP 1.00 (Table S1 row 451)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-HSPA1L-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "STUB1-bait AP-MS SAINT AvgP 0.99 (Table S1 row 452)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-HSPA2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "STUB1-bait AP-MS SAINT AvgP 1.00 (Table S1 row 453)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-HSPA4L-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "STUB1-bait AP-MS SAINT AvgP 0.99 (Table S1 row 454)"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-HSPBP1-PMID15215316",
+      "pmids": [
+        "15215316"
+      ],
+      "pmcids": [
+        "PMC515335"
+      ],
+      "dois": [
+        "10.1091/mbc.E04-04-0293"
+      ],
+      "title": "The cochaperone HspBP1 inhibits the CHIP ubiquitin ligase and stimulates the maturation of the cystic fibrosis transmembrane conductance regulator",
+      "figure_table_anchors": [
+        "Results, HspBP1 and CHIP Simultaneously Associate with Hsc70 and HspBP1 Inhibits the CHIP Ubiquitin Ligase",
+        "Figures 1A-B, 1E, and 2A-B"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-MLF2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-MLF2-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-NADSYN1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-NADSYN1-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-RAF1-PMID15215316",
+      "pmids": [
+        "15215316"
+      ],
+      "pmcids": [
+        "PMC515335"
+      ],
+      "dois": [
+        "10.1091/mbc.E04-04-0293"
+      ],
+      "title": "The cochaperone HspBP1 inhibits the CHIP ubiquitin ligase and stimulates the maturation of the cystic fibrosis transmembrane conductance regulator",
+      "figure_table_anchors": [
+        "Results, HspBP1 Inhibits the CHIP Ubiquitin Ligase",
+        "Figure 2A"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-TP53-PMID26330542",
+      "pmids": [
+        "26330542"
+      ],
+      "pmcids": [
+        "PMC4638040"
+      ],
+      "dois": [
+        "10.1074/mcp.M115.051169"
+      ],
+      "title": "Protein-protein interactions modulate the docking-dependent E3-ubiquitin ligase activity of carboxy-terminus of Hsc70-interacting protein (CHIP)",
+      "figure_table_anchors": [
+        "Results, Hsp70 Differentially Regulates CHIP Activity and CHIP-K30A Mutant Is Deficient in the Ubiquitin-conjugating Activity",
+        "Figures 1B, 1G, and 2E"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-TXLNG-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-TXLNG-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-STUB1-UBE2D1-PMID26330542",
+      "pmids": [
+        "26330542"
+      ],
+      "pmcids": [
+        "PMC4638040"
+      ],
+      "dois": [
+        "10.1074/mcp.M115.051169"
+      ],
+      "title": "Protein-protein interactions modulate the docking-dependent E3-ubiquitin ligase activity of carboxy-terminus of Hsc70-interacting protein (CHIP)",
+      "figure_table_anchors": [
+        "Methods, AlphaScreen and E2-Discharge Assays",
+        "Figures 5D-E",
+        "Figure 5C is prior structural context only"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-CACYBP-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 460: bait SUGT1, prey CACYBP, AvgP 1.00, Spec 72|76, CtrlCounts 2|4|2|5|4|8|7"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-FKBP8-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-FKBP8-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-HSF4-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 243: bait HSF4, prey SUGT1, AvgP 0.99, Spec 17|26, CtrlCounts 4|0|0|0|5|3|3|0|5|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-LRRC40-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": [
+        "Table S1 workbook, AvgP scores row 464: bait SUGT1, prey LRRC40, AvgP 1.00, Spec 8|12, CtrlCounts 0|0|0|0|1|0|0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-RSU1-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-RSU1-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-SKP2-PMID25036637",
+      "pmids": [
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039"
+      ],
+      "title": "A quantitative chaperone interaction network reveals the architecture of cellular protein homeostasis pathways",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-SKP2-PMID28514442",
+      "pmids": [
+        "28514442"
+      ],
+      "pmcids": [
+        "PMC5531611"
+      ],
+      "dois": [
+        "10.1038/nature22366"
+      ],
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-SUGT1-SKP2-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-TSC1-MSN-PMID12226091",
+      "pmids": [
+        "12226091"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M207211200"
+      ],
+      "title": "The TSC1 tumor suppressor hamartin interacts with neurofilament-L and possibly functions as a novel integrator of the neuronal cytoskeleton",
+      "figure_table_anchors": [
+        "Fig. 6A: hamartin and pan-ERM 13H9 staining in primary rat cortical-neuron growth cones",
+        "Fig. 6B: GST-moesin N terminus recovers endogenous HeLa TSC1, GST-merlin is weaker, and GST alone is negative",
+        "Methods: 13H9 detects all three ERM family members"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-13-TSC1-NEFL-PMID12226091",
+      "pmids": [
+        "12226091"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M207211200"
+      ],
+      "title": "The TSC1 tumor suppressor hamartin interacts with neurofilament-L and possibly functions as a novel integrator of the neuronal cytoskeleton",
+      "figure_table_anchors": [
+        "Fig. 1: TSC1 residues 674-1164/NEFL residues 8-156 Y2H with bait-alone, prey-alone, and unrelated controls",
+        "Fig. 2A: GST-NEFL 8-156 pulls endogenous HeLa TSC1 with GST negative",
+        "Fig. 2B: COS-7 anti-TSC1 co-IP with preimmune-serum control",
+        "Fig. 3: TSC1 and NEFL domain mapping, including NEFL rod 93-156",
+        "Fig. 4: vimentin negative co-IP",
+        "Fig. 5: primary-neuron colocalization"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-AIPL1-HSPA8-PMID18408180",
+      "pmids": [
+        "18408180"
+      ],
+      "pmcids": [
+        "PMC2488389"
+      ],
+      "dois": [
+        "10.1167/iovs.07-1576"
+      ],
+      "title": "The Leber congenital amaurosis protein AIPL1 functions as part of a chaperone heterocomplex",
+      "figure_table_anchors": [
+        "Fig. 1 CytoTrap clone identity and TIEEVD/K265A tests",
+        "Figs. 2-4 retinal/cell fractionation, GST-AIPL1 capture, AIPL1 immunoprecipitation, and aggregation assays"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-DNAJA2_HSPA1A-PMID32687490",
+      "pmids": [
+        "32687490"
+      ],
+      "pmcids": [
+        "PMC7392334"
+      ],
+      "dois": [
+        "10.1371/journal.pbio.3000606"
+      ],
+      "title": "Proteome-wide identification of HSP70/HSC70 chaperone clients in human cells",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-DNAJC7_HSPA1A-PMID32687490",
+      "pmids": [
+        "32687490"
+      ],
+      "pmcids": [
+        "PMC7392334"
+      ],
+      "dois": [
+        "10.1371/journal.pbio.3000606"
+      ],
+      "title": "Proteome-wide identification of HSP70/HSC70 chaperone clients in human cells",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-DNAJC7_HSPA8-PMID32687490",
+      "pmids": [
+        "32687490"
+      ],
+      "pmcids": [
+        "PMC7392334"
+      ],
+      "dois": [
+        "10.1371/journal.pbio.3000606"
+      ],
+      "title": "Proteome-wide identification of HSP70/HSC70 chaperone clients in human cells",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-DNAJC7_HSPA8-PMID35831314",
+      "pmids": [
+        "35831314"
+      ],
+      "pmcids": [
+        "PMC9279285"
+      ],
+      "dois": [
+        "10.1038/s41467-022-31809-z"
+      ],
+      "title": "Scalable multiplex co-fractionation/mass spectrometry platform for accelerated protein interactome discovery",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-HSPA1A_STUB1-PMID32687490",
+      "pmids": [
+        "32687490"
+      ],
+      "pmcids": [
+        "PMC7392334"
+      ],
+      "dois": [
+        "10.1371/journal.pbio.3000606"
+      ],
+      "title": "Proteome-wide identification of HSP70/HSC70 chaperone clients in human cells",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-14-HSPA8-PPID-PMID15497503",
+      "pmids": [
+        "15497503"
+      ],
+      "pmcids": [
+        "PMC1065296"
+      ],
+      "dois": [
+        "10.1379/CSC-26R.1"
+      ],
+      "title": "Interaction of the Hsp90 cochaperone cyclophilin 40 with Hsc70",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-22-DNAJA2-HSPA1A-PMID33957083",
+      "pmids": [
+        "33957083"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2021.04.012"
+      ],
+      "title": "Comprehensive interactome profiling of the human Hsp70 network highlights functional differentiation of J domains",
+      "figure_table_anchors": [
+        "Table S1 sheet C row 23: Gene IDs 3303",
+        "HSPA1B. Table S2 AP-MS sheet A row 41: DNAJA2 bait/HSPA1A-labeled merged prey, Spec 582|755, AvgP 1.00, fold change 3.94, BFDR 0",
+        "reciprocal row 34378, AvgP 0, BFDR 0.75. Table S3 BioID row 12161, AvgP 0, BFDR 0.81."
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-22-DNAJC7-HSPA1A-PMID33957083",
+      "pmids": [
+        "33957083"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2021.04.012"
+      ],
+      "title": "Comprehensive interactome profiling of the human Hsp70 network highlights functional differentiation of J domains",
+      "figure_table_anchors": [
+        "Table S2 AP-MS sheet A row 884: DNAJC7 bait/HSPA1A-labeled merged prey, Spec 1095|1007, AvgP 1.00, fold change 6.20, BFDR 0"
+      ]
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-22-DNAJC7-HSPA8-PMID29568061",
+      "pmids": [
+        "29568061"
+      ],
+      "pmcids": [
+        "PMC5864832"
+      ],
+      "dois": [
+        "10.1038/s41467-018-03523-2"
+      ],
+      "title": "An AP-MS- and BioID-compatible MAC-tag enables comprehensive mapping of protein interactions and subcellular localizations",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-22-DNAJC7-HSPA8-PMID33957083",
+      "pmids": [
+        "33957083"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2021.04.012"
+      ],
+      "title": "Comprehensive interactome profiling of the human Hsp70 network highlights functional differentiation of J domains",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-22-DNAJC7-HSPA8-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: proteome-scale endogenous tagging enables the cartography of human cellular organization",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "COCHSRCREV-2026-09-22-HSPA1A-STUB1-PMID33957083",
+      "pmids": [
+        "33957083"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.molcel.2021.04.012"
+      ],
+      "title": "Comprehensive interactome profiling of the human Hsp70 network highlights functional differentiation of J domains",
+      "figure_table_anchors": [
+        "Table S2 AP-MS sheet A row 974: HSPA1A bait/STUB1 prey, Spec 82|71, AvgP 1.00, fold change 6.90, BFDR 0",
+        "Table S3 BioID sheet A row 2628: HSPA1A bait/STUB1 prey, Spec 21|13, AvgP 1.00, fold change 170, BFDR 0."
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-22-PIH1D1-RUVBL1-PMID17643375",
+      "pmids": [
+        "17643375"
+      ],
+      "pmcids": [
+        "PMC4498903"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2007.06.027"
+      ],
+      "title": "Systematic analysis of the protein interaction network for the human transcription machinery reveals the identity of the 7SK capping enzyme",
+      "figure_table_anchors": [
+        "Supplementary Table S1 row 408: bait RUVBL1, prey NOP17/PIH1D1, Mascot 31, IR 0.987557, triangles 2",
+        "main Figure 1B-C and Results: IR cutoff 0.6729 and 805 retained high-confidence interactions"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-22-PIH1D1-RUVBL1-PMID26186194",
+      "pmids": [
+        "26186194"
+      ],
+      "pmcids": [
+        "PMC4617211"
+      ],
+      "dois": [
+        "10.1016/j.cell.2015.06.043"
+      ],
+      "title": "The BioPlex Network: A Systematic Exploration of the Human Interactome",
+      "figure_table_anchors": [
+        "Supplementary Table S2 interactionList row 9207: PIH1D1-RUVBL1, p(Wrong)=0, p(No Interaction)=0.028075, p(Interaction)=0.971925",
+        "main Figure 1 and Results: CompPASS-Plus workflow and 0.75 HCIP cutoff"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-22-PIH1D1-RUVBL1-PMID29662061",
+      "pmids": [
+        "29662061"
+      ],
+      "pmcids": [
+        "PMC5902453"
+      ],
+      "dois": [
+        "10.1038/s41467-018-03942-1"
+      ],
+      "title": "RPAP3 provides a flexible scaffold for coupling HSP90 to the human R2TP co-chaperone complex",
+      "figure_table_anchors": [
+        "Figure 1b-c: RPAP3 residues 400-420 bind the PIH1D1 CS domain",
+        "Figure 3a-b: biochemical reconstitution and purification of R2TP",
+        "Figure 3c-e: cryo-EM of the assembled RUVBL1-RUVBL2-RPAP3-PIH1D1 complex"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-22-PIH1D1-RUVBL2-PMID17643375",
+      "pmids": [
+        "17643375"
+      ],
+      "pmcids": [
+        "PMC4498903"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2007.06.027"
+      ],
+      "title": "Systematic analysis of the protein interaction network for the human transcription machinery reveals the identity of the 7SK capping enzyme",
+      "figure_table_anchors": [
+        "Supplementary Table S1 row 138: bait RUVBL2, prey NOP17/PIH1D1, Mascot 269, IR 1.0, triangles 3",
+        "main Figure 1B-C and Results: IR cutoff 0.6729 and 805 retained high-confidence interactions"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-22-PIH1D1-RUVBL2-PMID26186194",
+      "pmids": [
+        "26186194"
+      ],
+      "pmcids": [
+        "PMC4617211"
+      ],
+      "dois": [
+        "10.1016/j.cell.2015.06.043"
+      ],
+      "title": "The BioPlex Network: A Systematic Exploration of the Human Interactome",
+      "figure_table_anchors": [
+        "Supplementary Table S2 interactionList row 9206: PIH1D1-RUVBL2, p(Wrong)=0, p(No Interaction)=0.075020, p(Interaction)=0.924980",
+        "main Figure 1 and Results: CompPASS-Plus workflow and 0.75 HCIP cutoff"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-22-PIH1D1-RUVBL2-PMID29662061",
+      "pmids": [
+        "29662061"
+      ],
+      "pmcids": [
+        "PMC5902453"
+      ],
+      "dois": [
+        "10.1038/s41467-018-03942-1"
+      ],
+      "title": "RPAP3 provides a flexible scaffold for coupling HSP90 to the human R2TP co-chaperone complex",
+      "figure_table_anchors": [
+        "Figure 1b-c: RPAP3 residues 400-420 bind the PIH1D1 CS domain",
+        "Figure 3a-b: biochemical reconstitution and purification of R2TP",
+        "Figure 3c-e: cryo-EM of the assembled RUVBL1-RUVBL2-RPAP3-PIH1D1 complex"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL1-PMID28514442",
+      "pmids": [
+        "28514442"
+      ],
+      "pmcids": [
+        "PMC5531611"
+      ],
+      "dois": [
+        "10.1038/nature22366"
+      ],
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "figure_table_anchors": [
+        "main Methods and Results: 3,297 new baits plus 2,594 reanalyzed BioPlex 1.0 baits"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL1-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL1-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: Endogenous tagging for the cartography of human cellular organization",
+      "figure_table_anchors": [
+        "Methods: endogenous tagging, triplicate IP-MS, unrelated-tag controls, and dynamic boundary"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL2-PMID28514442",
+      "pmids": [
+        "28514442"
+      ],
+      "pmcids": [
+        "PMC5531611"
+      ],
+      "dois": [
+        "10.1038/nature22366"
+      ],
+      "title": "Architecture of the human interactome defines protein communities and disease networks",
+      "figure_table_anchors": [
+        "main Methods and Results: 3,297 new baits plus 2,594 reanalyzed BioPlex 1.0 baits"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL2-PMID28561026",
+      "pmids": [
+        "28561026"
+      ],
+      "pmcids": [
+        "PMC5460035"
+      ],
+      "dois": [
+        "10.1038/ncomms15615"
+      ],
+      "title": "ZNHIT2 is a conserved regulator of LARP7-containing small nuclear ribonucleoprotein complexes",
+      "figure_table_anchors": [
+        "Supplementary Methods: compartment-specific TAP-MS and FDR thresholds"
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL2-PMID33961781",
+      "pmids": [
+        "33961781"
+      ],
+      "pmcids": [
+        "PMC8165030"
+      ],
+      "dois": [
+        "10.1016/j.cell.2021.04.011"
+      ],
+      "title": "Dual proteome-scale networks reveal cell-specific remodeling of the human interactome",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-23-PIH1D1-RUVBL2-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: Endogenous tagging for the cartography of human cellular organization",
+      "figure_table_anchors": [
+        "Methods: endogenous tagging, triplicate IP-MS, unrelated-tag controls, and dynamic boundary"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-AHSA1-TPR-COASSOCIATION-GROUP",
+      "pmids": [
+        "22504172",
+        "25036637",
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC4104544",
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1016/j.bbamcr.2012.03.014",
+        "10.1016/j.cell.2014.05.039",
+        "10.1126/science.abi6983"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-CNPY2-HSP90B1-CROSSLINK-PROXIMITY",
+      "pmids": [
+        "28056051",
+        "34349018",
+        "35575683",
+        "37071682",
+        "40593561"
+      ],
+      "pmcids": [
+        "PMC10151615",
+        "PMC12215968",
+        "PMC5215799",
+        "PMC8364181"
+      ],
+      "dois": [
+        "10.1021/acs.analchem.2c00335",
+        "10.1038/s41467-025-60642-3",
+        "10.1073/pnas.2023360118",
+        "10.1073/pnas.2219418120",
+        "10.1371/journal.pone.0169260"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-DNAJC7-STUB1-CELLULAR-ASSOCIATION",
+      "pmids": [
+        "26496610",
+        "33957083",
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1016/j.cell.2015.09.053",
+        "10.1016/j.molcel.2021.04.012",
+        "10.1126/science.abi6983"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID11259606-AIP-PTGES3-AHR-STATE",
+      "pmids": [
+        "11259606"
+      ],
+      "pmcids": [
+        "PMC86890"
+      ],
+      "dois": [
+        "10.1128/MCB.21.7.2594-2607.2001"
+      ],
+      "title": "The hsp90 Chaperone Complex Regulates Intracellular Localization of the Dioxin Receptor",
+      "figure_table_anchors": [
+        "Figure 7 GST-AHR recovery of FLAG-AIP, endogenous p23 and HSP90 plus the associated ATP-dependent assembly experiments"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID18922470-PPP5C-CDC37",
+      "pmids": [
+        "18922470"
+      ],
+      "pmcids": [
+        "PMC2568865"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2008.07.021"
+      ],
+      "title": "Hsp90-dependent activation of protein kinases is regulated by chaperone-targeted dephosphorylation of Cdc37",
+      "figure_table_anchors": [
+        "Figures 1-3 biochemical mechanism",
+        "Figure 4 yeast HSP90-binding dependence",
+        "Figures 5-6 functional and human-cell support",
+        "Figure 7 proposed model"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID20661446-AIP-PTGES3-COMPLEX",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figure 11 FLAG-AIP immunoprecipitation and associated HSP90/p23 immunoblots"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID20661446-FKBP4-TPR-OCCUPANCY",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figure 2B cofactor displacement",
+        "Figures 6-11 receptor-specific function and HSP90/Hsp70/p23 co-complex composition"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID22504172-AHSA1-PTGES3-COMPLEX",
+      "pmids": [
+        "22504172"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.bbamcr.2012.03.014"
+      ],
+      "title": "Characterization of the interaction of Aha1 with components of the Hsp90 chaperone machine and client proteins",
+      "figure_table_anchors": [
+        "Figure 2A-C Aha1 co-adsorption and FLAG-Aha1 recovery of endogenous HSP90 and p23"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID28056051-CNPY4-HSP90B1-APMS",
+      "pmids": [
+        "28056051"
+      ],
+      "pmcids": [
+        "PMC5215799"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0169260"
+      ],
+      "title": "Mapping the Interactome of a Major Mammalian Endoplasmic Reticulum Heat Shock Protein 90",
+      "figure_table_anchors": [
+        "Supplementary Table S6 gp96-associated proteins from pre-B-cell immunoprecipitation"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID29127155-TSC1-COCHAPERONE-OCCUPANCY",
+      "pmids": [
+        "29127155"
+      ],
+      "pmcids": [
+        "PMC5730846"
+      ],
+      "dois": [
+        "10.15252/embj.201796700"
+      ],
+      "title": "Tumor suppressor Tsc1 is a new Hsp90 co-chaperone that facilitates folding of kinase and non-kinase clients",
+      "figure_table_anchors": [
+        "Figure 2A endogenous TSC1-HSP90-cofactor complex",
+        "Figure 5H-J reciprocal HSP90alpha occupancy and ATPase effects"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID34937936-HSP90AA1-GR-MATURATION",
+      "pmids": [
+        "34937936"
+      ],
+      "pmcids": [
+        "PMC8994517"
+      ],
+      "dois": [
+        "10.1038/s41586-021-04236-1"
+      ],
+      "title": "Structure of Hsp90-p23-GR reveals the Hsp90 client-remodelling mechanism",
+      "figure_table_anchors": [
+        "Main structural figures, supplementary cryo-EM table and p23-tail functional assays"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID34937942-HSP90AA1-GR-LOADING",
+      "pmids": [
+        "34937942"
+      ],
+      "pmcids": [
+        "PMC9179170"
+      ],
+      "dois": [
+        "10.1038/s41586-021-04252-1"
+      ],
+      "title": "Structure of Hsp90-Hsp70-Hop-GR reveals the Hsp90 client-loading mechanism",
+      "figure_table_anchors": [
+        "Main Figures 1-4 and Extended Data"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID35614131-TRAP1-PPIF-FATP-SYNTHASE",
+      "pmids": [
+        "35614131"
+      ],
+      "pmcids": [
+        "PMC9751095"
+      ],
+      "dois": [
+        "10.1038/s41418-022-01020-0"
+      ],
+      "title": "The mitochondrial chaperone TRAP1 regulates F-ATP synthase channel formation",
+      "figure_table_anchors": [
+        "Figure 1A,D-F interaction evidence",
+        "Figures 2-3 mitochondrial and OSCP-platform context",
+        "Figures 4-6 opposing F-ATP synthase catalytic and channel effects"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-PMID37945740-FKBP4-FKBP5-GR-EXCHANGE",
+      "pmids": [
+        "37945740"
+      ],
+      "pmcids": [
+        "PMC10716051"
+      ],
+      "dois": [
+        "10.1038/s41594-023-01128-y"
+      ],
+      "title": "Cryo-EM reveals how Hsp90 and FKBP immunophilins co-regulate the glucocorticoid receptor",
+      "figure_table_anchors": [
+        "Figures 1 and 4 plus Extended Data Figures 4 and 7 direct structures",
+        "Figures 3-4 competition/function",
+        "Figure 5 proposed exchange model"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-07-TAIPALE-COCHAPERONE-COASSOCIATION-GROUP-2",
+      "pmids": [
+        "22504172",
+        "25036637",
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC4104544",
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1016/j.bbamcr.2012.03.014",
+        "10.1016/j.cell.2014.05.039",
+        "10.1126/science.abi6983"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-HSP70-OPENCELL-COCHAPERONE-GROUP",
+      "pmids": [
+        "22504172",
+        "33957083",
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1016/j.bbamcr.2012.03.014",
+        "10.1016/j.molcel.2021.04.012",
+        "10.1126/science.abi6983"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-PMID16611982-CDC37-DNAJA2-APMS",
+      "pmids": [
+        "16611982"
+      ],
+      "pmcids": [
+        "PMC1447410"
+      ],
+      "dois": [
+        "10.1128/MCB.26.9.3378-3389.2006"
+      ],
+      "title": "Cdc37 interacts with the glycine-rich loop of Hsp90 client kinases",
+      "figure_table_anchors": [
+        "Results and Table 2 DNAJA2 row",
+        "Figure 1 truncated-bait characterization"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-PMID20661446-PTGES3-TPR-COCOMPLEX",
+      "pmids": [
+        "20661446"
+      ],
+      "pmcids": [
+        "PMC2908686"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0011717"
+      ],
+      "title": "Differential impact of tetratricopeptide repeat proteins on the steroid hormone receptors",
+      "figure_table_anchors": [
+        "Figure 11 TPR-bait immunoprecipitations and p23/HSP90/HSP70 immunoblots"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-PMID27353360-FNIP-COCHAPERONE-COASSOCIATION",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "Folliculin-interacting proteins FNIP1 and FNIP2 form a complex with Hsp90 and regulate chaperone function",
+      "figure_table_anchors": [
+        "Main Figure 2a endogenous FNIP immunoprecipitations",
+        "Supplementary Figure 2a tagged FNIP confirmation",
+        "Main Figure 6a-b HSP90alpha-FLAG context"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-PMID34057440-STUB1-UNC45B-UBIQUITINATION",
+      "pmids": [
+        "34057440"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.3791/62393"
+      ],
+      "title": "In Vitro Analysis of E3 Ubiquitin Ligase Function",
+      "figure_table_anchors": [
+        "Protocol section 3 and Figure 2 substrate-ubiquitination assay"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-PPP5C-COCHAPERONE-INTERACTION-GROUP",
+      "pmids": [
+        "21360678",
+        "28330616",
+        "9195923"
+      ],
+      "pmcids": [
+        "PMC3086140"
+      ],
+      "dois": [
+        "10.1016/j.cels.2017.02.011",
+        "10.1074/jbc.272.26.16224",
+        "10.1074/jbc.M110.209858"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-STIP1-COCHAPERONE-INTERACTION-GROUP",
+      "pmids": [
+        "11413142",
+        "12437126",
+        "21170051",
+        "26344197",
+        "26496610",
+        "33239621",
+        "33957083",
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC5036527",
+        "PMC7688965",
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1016/j.cell.2015.09.053",
+        "10.1016/j.molcel.2021.04.012",
+        "10.1038/nature14877",
+        "10.1038/nsmb.1965",
+        "10.1038/s41467-020-19783-w",
+        "10.1074/jbc.M102048200",
+        "10.1074/jbc.M209863200",
+        "10.1126/science.abi6983"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-TAIPALE-COCHAPERONE-COASSOCIATION-GROUP-3",
+      "pmids": [
+        "11413142",
+        "25036637"
+      ],
+      "pmcids": [
+        "PMC4104544"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.05.039",
+        "10.1074/jbc.M102048200"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-08-TSC1-PAIR-AND-DATABASE-PROVENANCE-GROUP",
+      "pmids": [
+        "14676191",
+        "32814053"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.celrep.2020.108050",
+        "10.1074/jbc.M312171200"
+      ],
+      "title": null,
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-21-PMID11916974-CDC37-ATPASE-RESTRAINT",
+      "pmids": [
+        "11916974"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M201287200"
+      ],
+      "title": "Regulation of Hsp90 ATPase activity by the co-chaperone Cdc37p/p50cdc37",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-21-PMID19234467-STI1-AHA1-KINETICS",
+      "pmids": [
+        "19234467"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/nsmb.1565"
+      ],
+      "title": "Dissection of the ATP-induced conformational cycle of the molecular chaperone Hsp90",
+      "figure_table_anchors": [
+        "Figures 1-3 and supplementary kinetic analyses"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-21-PMID21170051-HOP-P23-EXCHANGE",
+      "pmids": [
+        "21170051"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/nsmb.1965"
+      ],
+      "title": "Mixed Hsp90-cochaperone complexes are important for the progression of the reaction cycle",
+      "figure_table_anchors": [
+        "Figure 4 and Supplementary Figures 6-7 mixed-cochaperone assembly and exchange"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-21-PMID21700222-HSP90-HOP-OPEN-STATE",
+      "pmids": [
+        "21700222"
+      ],
+      "pmcids": [
+        "PMC3144320"
+      ],
+      "dois": [
+        "10.1016/j.molcel.2011.04.023"
+      ],
+      "title": "Client-loading conformation of the Hsp90 molecular chaperone revealed in the cryo-EM structure of the human Hsp90:Hop complex",
+      "figure_table_anchors": [
+        "Figures 1-5 Hsp90-Hop architecture, open conformation and one-Hsp70 assembly"
+      ]
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-22-PMID23812373-ST13-HSP70-STRUCTURE",
+      "pmids": [
+        "23812373"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/nsmb.2608"
+      ],
+      "title": "Structure and function of Hip, an attenuator of the Hsp70 chaperone cycle",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCSRCREV-2026-09-22-PMID7585962-HSP40-HIP-HSC70-CYCLE",
+      "pmids": [
+        "7585962"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/0092-8674(95)90099-3"
+      ],
+      "title": "Hip, a novel cochaperone involved in the eukaryotic Hsc70/Hsp40 reaction cycle",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "PAIRREV-2026-09-08-COCHQ246-0001-PMC7804450",
+      "pmids": [
+        "33436626"
+      ],
+      "pmcids": [
+        "PMC7804450"
+      ],
+      "dois": [
+        "10.1038/s41467-020-20522-4"
+      ],
+      "title": "Structural insights into TSC complex assembly and GAP activity on Rheb",
+      "figure_table_anchors": [
+        "Figure 1b-c",
+        "Figure 2b-f",
+        "Supplementary Figure 5",
+        "Supplementary Figure 6a-i"
+      ]
+    },
+    {
+      "source_review_id": "PAIRREV-2026-09-08-COCHQ246-0001-PMID39490680",
+      "pmids": [
+        "39490680"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.jmb.2024.168840"
+      ],
+      "title": "The HSP90/R2TP Quaternary Chaperone Scaffolds Assembly of the TSC Complex",
+      "figure_table_anchors": [
+        "Figure 6B-C",
+        "Figure 7A-B",
+        "Figure 8",
+        "Supplementary Table S3"
+      ]
+    },
+    {
+      "source_review_id": "PAIRREV-2026-09-08-COCHQ246-0002-PMC4861430",
+      "pmids": [
+        "26893383"
+      ],
+      "pmcids": [
+        "PMC4861430"
+      ],
+      "dois": [
+        "10.1074/jbc.M115.701870"
+      ],
+      "title": "Structural Basis of the Interaction between Tuberous Sclerosis Complex 1 (TSC1) and Tre2-Bub2-Cdc16 Domain Family Member 7 (TBC1D7)",
+      "figure_table_anchors": [
+        "Figures 1-7",
+        "Tables 1-2"
+      ]
+    },
+    {
+      "source_review_id": "PAIRREV-2026-09-08-COCHQ246-0002-PMC7804450",
+      "pmids": [
+        "33436626"
+      ],
+      "pmcids": [
+        "PMC7804450"
+      ],
+      "dois": [
+        "10.1038/s41467-020-20522-4"
+      ],
+      "title": "Structural insights into TSC complex assembly and GAP activity on Rheb",
+      "figure_table_anchors": [
+        "Figure 1b-c",
+        "Figure 2b-f",
+        "Supplementary Figure 6f"
+      ]
+    },
+    {
+      "source_review_id": "PAIRREV-2026-09-08-COCHQ246-0359-PMC7804450",
+      "pmids": [
+        "33436626"
+      ],
+      "pmcids": [
+        "PMC7804450"
+      ],
+      "dois": [
+        "10.1038/s41467-020-20522-4"
+      ],
+      "title": "Structural insights into TSC complex assembly and GAP activity on Rheb",
+      "figure_table_anchors": [
+        "Figure 2b-e",
+        "Supplementary Figure 5"
+      ]
+    },
+    {
+      "source_review_id": "PAIRREV-2026-09-08-COCHQ246-0359-PMID26798146",
+      "pmids": [
+        "26798146"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1093/jmcb/mjw001"
+      ],
+      "title": "Structure of the TBC1D7-TSC1 complex reveals that TBC1D7 stabilizes dimerization of the TSC1 C-terminal coiled coil region",
+      "figure_table_anchors": [
+        "Figures 1-6",
+        "Supplementary Figures S1-S6",
+        "Tables 1-2"
+      ]
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-26-PMC2377097-UNC45B",
+      "pmids": [
+        "18478096"
+      ],
+      "pmcids": [
+        "PMC2377097"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0002137"
+      ],
+      "title": "Mammalian Unc45b forms a cytosolic complex with Hsp90 and targets the unfolded myosin motor domain.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-26-PMC5902453-RPAP3-R2TP-HSP90B",
+      "pmids": [
+        "29662061"
+      ],
+      "pmcids": [
+        "PMC5902453"
+      ],
+      "dois": [
+        "10.1038/s41467-018-03942-1"
+      ],
+      "title": "RPAP3 provides a flexible scaffold for coupling HSP90 to the human R2TP co-chaperone complex.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-26-PMC6350781-FKBP4-FKBP5",
+      "pmids": [
+        "30485818"
+      ],
+      "pmcids": [
+        "PMC6350781"
+      ],
+      "dois": [
+        "10.1016/j.celrep.2018.11.006"
+      ],
+      "title": "Promotion of Myoblast Differentiation by Fkbp5 via Cdk4 Isomerization.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-26-PMC9306012-FNIP1-FNIP2-TSC1",
+      "pmids": [
+        "35830801"
+      ],
+      "pmcids": [
+        "PMC9306012"
+      ],
+      "dois": [
+        "10.1016/j.celrep.2022.111039"
+      ],
+      "title": "A specialized Hsp90 co-chaperone network regulates steroid hormone receptor response to ligand.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-27-PMC8278493-R2TP-TTT-MTOR",
+      "pmids": [
+        "34233195"
+      ],
+      "pmcids": [
+        "PMC8278493"
+      ],
+      "dois": [
+        "10.1016/j.celrep.2021.109317"
+      ],
+      "title": "Structure of the TELO2-TTI1-TTI2 complex and its function in TOR recruitment to the R2TP chaperone.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-27-PMC9992320-AIPL1-HSP90BETA",
+      "pmids": [
+        "36657440"
+      ],
+      "pmcids": [
+        "PMC9992320"
+      ],
+      "dois": [
+        "10.1016/j.str.2022.12.014"
+      ],
+      "title": "Unique interface and dynamics of the complex of HSP90 with a specialized cochaperone AIPL1.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-27-V6_2-PMC5974087-R2TP-HSP90",
+      "pmids": [
+        "29844425"
+      ],
+      "pmcids": [
+        "PMC5974087"
+      ],
+      "dois": [
+        "10.1038/s41467-018-04431-1"
+      ],
+      "title": "The RPAP3-Cterminal domain identifies R2TP-like quaternary chaperones.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-27-V6_2-PMC6494491-R2TP-HSP90",
+      "pmids": [
+        "31049401"
+      ],
+      "pmcids": [
+        "PMC6494491"
+      ],
+      "dois": [
+        "10.1126/sciadv.aaw1616"
+      ],
+      "title": "Cryo-EM reveals the remodeling of RUVBL1-RUVBL2 ATPases by the client recruitment component in the HSP90 co-chaperone R2TP.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-27-V6_4-PMC2982182-TLR9-GRP94",
+      "pmids": [
+        "20865800"
+      ],
+      "pmcids": [
+        "PMC2982182"
+      ],
+      "dois": [
+        "10.1038/ncomms1070"
+      ],
+      "title": "Folding of Toll-like receptors by the HSP90 paralogue gp96 requires a substrate-specific cochaperone.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-27-V6_4-PMC4714923-DNAJC7-HSP90",
+      "pmids": [
+        "26565746"
+      ],
+      "pmcids": [
+        "PMC4714923"
+      ],
+      "dois": [
+        "10.1021/acs.biochem.5b00801"
+      ],
+      "title": "Specific binding of tetratricopeptide repeat proteins to heat shock protein 70 and heat shock protein 90 is regulated by affinity and phosphorylation.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-28-V6_10-PMC1430258-UNC45A",
+      "pmids": [
+        "16478993"
+      ],
+      "pmcids": [
+        "PMC1430258"
+      ],
+      "dois": [
+        "10.1128/MCB.26.5.1722-1730.2006"
+      ],
+      "title": "GCUNC-45 is a novel regulator for the progesterone receptor/hsp90 chaperoning pathway",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-28-V6_15-E-PMC5886190-AIPL1",
+      "pmids": [
+        "28973376"
+      ],
+      "pmcids": [
+        "PMC5886190"
+      ],
+      "dois": [
+        "10.1093/hmg/ddx334"
+      ],
+      "title": "The integrity and organization of the human AIPL1 functional domains is critical for its role as a HSP90-dependent co-chaperone for rod PDE6",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-28-V6_17-C-PMC5733571-DNAJA2-RISC-HSP90B",
+      "pmids": [
+        "28971854"
+      ],
+      "pmcids": [
+        "PMC5733571"
+      ],
+      "dois": [
+        "10.1261/rna.063891.117"
+      ],
+      "title": "In vitro reconstitution of chaperone-mediated human RISC assembly.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-05-28-V6_18-C-PMID30033218-RPAP3-PIH1D1",
+      "pmids": [
+        "30033218"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.str.2018.06.002"
+      ],
+      "title": "Deep Structural Analysis of RPAP3 and PIH1D1, Two Components of the HSP90 Co-chaperone R2TP Complex.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-23-V6_19-PMC1892574-PINK1-TRAP1",
+      "pmids": [
+        "17579517"
+      ],
+      "pmcids": [
+        "PMC1892574"
+      ],
+      "dois": [
+        "10.1371/journal.pbio.0050172"
+      ],
+      "title": "PINK1 protects against oxidative stress by phosphorylating mitochondrial chaperone TRAP1",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-23-V6_24-PMC12431857-PDIA6-GRP94-CONDENSATE",
+      "pmids": [
+        "40789936"
+      ],
+      "pmcids": [
+        "PMC12431857"
+      ],
+      "dois": [
+        "10.1038/s41556-025-01730-w"
+      ],
+      "title": "A multichaperone condensate enhances protein folding in the endoplasmic reticulum",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-24-V6_36-PMC10558685-IFI27-TRAP1-SDHB-ADAPTOR",
+      "pmids": [
+        "37544897"
+      ],
+      "pmcids": [
+        "PMC10558685"
+      ],
+      "dois": [
+        "10.1002/advs.202301855"
+      ],
+      "title": "IFI27 Integrates Succinate and Fatty Acid Oxidation to Promote Adipocyte Thermogenic Adaption.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-24-V6_36-PMC10962938-DNAJB11-GRP94-BIP-CHAPERONE-CYCLE",
+      "pmids": [
+        "38483986"
+      ],
+      "pmcids": [
+        "PMC10962938"
+      ],
+      "dois": [
+        "10.1073/pnas.2309326121"
+      ],
+      "title": "Structural transitions modulate the chaperone activities of Grp94.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-24-V6_36-PMC10962938-HSPA5-GRP94-BIP-CHAPERONE-CYCLE",
+      "pmids": [
+        "38483986"
+      ],
+      "pmcids": [
+        "PMC10962938"
+      ],
+      "dois": [
+        "10.1073/pnas.2309326121"
+      ],
+      "title": "Structural transitions modulate the chaperone activities of Grp94.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-24-V6_36-PMC9485411-OGT-TRAP1-GLCNAC-REGULATOR",
+      "pmids": [
+        "35976490"
+      ],
+      "pmcids": [
+        "PMC9485411"
+      ],
+      "dois": [
+        "10.1007/s12192-022-01293-x"
+      ],
+      "title": "O-GlcNAcylation suppresses TRAP1 activity and promotes mitochondrial respiration.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-26-V6_57-PMC5215799-CNPY3-GP96-INTERACTOME-COCHAPERONE-SUPPORT",
+      "pmids": [
+        "28056051"
+      ],
+      "pmcids": [
+        "PMC5215799"
+      ],
+      "dois": [
+        "10.1371/journal.pone.0169260"
+      ],
+      "title": "Mapping the Interactome of a Major Mammalian Endoplasmic Reticulum Heat Shock Protein 90.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-26-V6_59-PMID30683653-SIRT3-TRAP1-CHAPERONE-ACTIVITY",
+      "pmids": [
+        "30683653"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1158/0008-5472.CAN-18-2558"
+      ],
+      "title": "Interplay between TRAP1 and Sirtuin-3 Modulates Mitochondrial Respiration and Oxidative Stress to Maintain Stemness of Glioma Stem Cells.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-27-V6_74-PMC3125521-MZB1-HSP90B1-MZB1-GRP94-ER-COCHAPERONE-SUPPORT",
+      "pmids": [
+        "21093319"
+      ],
+      "pmcids": [
+        "PMC3125521"
+      ],
+      "dois": [
+        "10.1016/j.immuni.2010.11.013"
+      ],
+      "title": "Mzb1 protein regulates calcium homeostasis, antibody secretion, and integrin activation in innate-like B cells.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-27-V6_74-PMC3125521-PDIA3-HSP90B1-PDIA3-MZB1-GRP94-ER-COMPLEX-SUPPORT",
+      "pmids": [
+        "21093319"
+      ],
+      "pmcids": [
+        "PMC3125521"
+      ],
+      "dois": [
+        "10.1016/j.immuni.2010.11.013"
+      ],
+      "title": "Mzb1 protein regulates calcium homeostasis, antibody secretion, and integrin activation in innate-like B cells.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-27-V6_78-PMC2982903-HSPD1-TRAP1-HSPD1-TRAP1-TUMOR-MITOCHONDRIAL-CHAPERONE-COMPLEX",
+      "pmids": [
+        "20978188"
+      ],
+      "pmcids": [
+        "PMC2982903"
+      ],
+      "dois": [
+        "10.1158/0008-5472.CAN-10-2225"
+      ],
+      "title": "Heat shock protein 60 regulation of the mitochondrial permeability transition pore in tumor cells.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-06-27-V6_78-PMC4052763-MZB1-HSP90B1-MZB1-GRP94-COCHAPERONE-IGHM-BIOSYNTHESIS-SUPPORT",
+      "pmids": [
+        "24888588"
+      ],
+      "pmcids": [
+        "PMC4052763"
+      ],
+      "dois": [
+        "10.1101/gad.240762.114"
+      ],
+      "title": "MZB1 is a GRP94 cochaperone that enables proper immunoglobulin heavy chain biosynthesis upon ER stress.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-17-V6_121-PMID27353360-HSP90AA1_ALPHA_RESOLVED-FNIP1",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-17-V6_121-PMID27353360-HSP90AA1_ALPHA_RESOLVED-FNIP2",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-22-V6_126-PMID12604615-HSP90AA1_ALPHA_RESOLVED-AHSA1-COCHAPERONE",
+      "pmids": [
+        "12604615"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M212761200"
+      ],
+      "title": "Aha1 binds to the middle domain of Hsp90, contributes to client protein activation, and stimulates the ATPase activity of the molecular chaperone.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-22-V6_126-PMID14718169-HSP90AA1_ALPHA_RESOLVED-CDC37-COCHAPERONE",
+      "pmids": [
+        "14718169"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/s0092-8674(03)01027-4"
+      ],
+      "title": "The Mechanism of Hsp90 regulation by the protein kinase-specific cochaperone p50(cdc37).",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-22-V6_126-PMID16501598-CYTOSOLIC_ALPHA_BETA_BOTH_MENTIONED-SUGT1-COCHAPERONE",
+      "pmids": [
+        "16501598"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/sj.onc.1209461"
+      ],
+      "title": "17-AAG, an Hsp90 inhibitor, causes kinetochore defects: a novel mechanism by which 17-AAG inhibits cell proliferation.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-22-V6_126-PMID20188096-HSP90AA1_ALPHA_RESOLVED-PPID-COCHAPERONE",
+      "pmids": [
+        "20188096"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.febslet.2010.02.055"
+      ],
+      "title": "S100 proteins regulate the interaction of Hsp90 with Cyclophilin 40 and FKBP52 through their tetratricopeptide repeats.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-22-V6_126-PMID27353360-HSP90AA1_ALPHA_RESOLVED-AHSA1-COCHAPERONE",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-07-22-V6_126-PMID27353360-HSP90AA1_ALPHA_RESOLVED-PPP5C-COMPLEX_COMEMBER",
+      "pmids": [
+        "27353360"
+      ],
+      "pmcids": [
+        "PMC4931344"
+      ],
+      "dois": [
+        "10.1038/ncomms12037"
+      ],
+      "title": "The FNIP co-chaperones decelerate the Hsp90 chaperone cycle and enhance drug binding.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_129-PMID11146632-CYTOSOLIC_HSP90_UNRESOLVED-STUB1-COCHAPERONE",
+      "pmids": [
+        "11146632"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/35050618"
+      ],
+      "title": "The co-chaperone CHIP regulates protein triage decisions mediated by heat-shock proteins.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_129-PMID12145316-HSP90AB1_BETA_RESOLVED-PPID-COCHAPERONE",
+      "pmids": [
+        "12145316"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.M207097200"
+      ],
+      "title": "A structure-based mutational analysis of cyclophilin 40 identifies key residues in the core tetratricopeptide repeat domain that mediate binding to Hsp90.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_129-PMID28099845-TRAP1_RESOLVED-MAPK1-CANDIDATE_CLIENT",
+      "pmids": [
+        "28099845"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.celrep.2016.12.056"
+      ],
+      "title": "Absence of Neurofibromin Induces an Oncogenic Metabolic Switch via Mitochondrial ERK-Mediated Phosphorylation of the Chaperone TRAP1.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_129-PMID28099845-TRAP1_RESOLVED-MAPK3-COMPLEX_COMEMBER",
+      "pmids": [
+        "28099845"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.celrep.2016.12.056"
+      ],
+      "title": "Absence of Neurofibromin Induces an Oncogenic Metabolic Switch via Mitochondrial ERK-Mediated Phosphorylation of the Chaperone TRAP1.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_129-PMID8776728-CYTOSOLIC_HSP90_UNRESOLVED-STIP1-COCHAPERONE",
+      "pmids": [
+        "8776728"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1210/mend.10.6.8776728"
+      ],
+      "title": "Interactions of p60, a mediator of progesterone receptor assembly, with heat shock proteins hsp90 and hsp70.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_131-PMID19375531-CYTOSOLIC_HSP90_UNRESOLVED-AIP-COCHAPERONE",
+      "pmids": [
+        "19375531"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.febslet.2009.03.072"
+      ],
+      "title": "XAP2 inhibits glucocorticoid receptor activity in mammalian cells.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-23-V6_138-PMID9452498-STIP1-COCHAPERONE",
+      "pmids": [
+        "9452498"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.273.6.3679"
+      ],
+      "title": "Hop modulates hsp70/hsp90 interactions in protein folding.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-24-V6_158-PMID35575683-TRAP1-HSPA9-SUPPORT",
+      "pmids": [
+        "35575683"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1021/acs.analchem.2c00335"
+      ],
+      "title": "In-Depth In Vivo Crosslinking in Minutes by a Compact, Membrane-Permeable, and Alkynyl-Enrichable Crosslinker.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-25-V6_169-PMID34838521-TELO2-CHAPERONE-CYCLE-COMPONENT",
+      "pmids": [
+        "34838521"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.jmb.2021.167370"
+      ],
+      "title": "Structure of the Human TELO2-TTI1-TTI2 Complex.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-25-V6_169-PMID34838521-TTI1-CHAPERONE-CYCLE-COMPONENT",
+      "pmids": [
+        "34838521"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.jmb.2021.167370"
+      ],
+      "title": "Structure of the Human TELO2-TTI1-TTI2 Complex.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-25-V6_169-PMID34838521-TTI2-CHAPERONE-CYCLE-COMPONENT",
+      "pmids": [
+        "34838521"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1016/j.jmb.2021.167370"
+      ],
+      "title": "Structure of the Human TELO2-TTI1-TTI2 Complex.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-28-v6_187-PMID17717070-FKBP4-HSP90-COCHAPERONE-PHOSPHOREGULATION",
+      "pmids": [
+        "17717070"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1210/me.2006-0547"
+      ],
+      "title": "FK506-binding protein 52 phosphorylation: a potential mechanism for regulating steroid hormone receptor activity.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-28-v6_210-PMID10642522-PTGES3-HSP90AB1-P23-COCHAPERONE",
+      "pmids": [
+        "10642522"
+      ],
+      "pmcids": [
+        "PMC1220798"
+      ],
+      "dois": [],
+      "title": "Quantitative assessment of complex formation of nuclear-receptor accessory proteins.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-28-v6_210-PMID10642522-STIP1-HSP90AB1-QUANTITATIVE-BRIDGE",
+      "pmids": [
+        "10642522"
+      ],
+      "pmcids": [
+        "PMC1220798"
+      ],
+      "dois": [],
+      "title": "Quantitative assessment of complex formation of nuclear-receptor accessory proteins.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-28-v6_212-PMID12574167-STUB1-HSP90-UNRESOLVED-COCHAPERONE",
+      "pmids": [
+        "12574167"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1074/jbc.m209640200"
+      ],
+      "title": "ErbB2 degradation mediated by the co-chaperone protein CHIP.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-08-30-v6_221-PMID24949977-HSPA1A-HSP90AA1-CHAPERONE-CYCLE",
+      "pmids": [
+        "24949977"
+      ],
+      "pmcids": [
+        "PMC4087167"
+      ],
+      "dois": [
+        "10.1016/j.cell.2014.04.038"
+      ],
+      "title": "Glucocorticoid receptor function regulated by coordinated action of the Hsp90 and Hsp70 chaperone cycles.",
+      "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "SRCREV-2026-09-07-v6_245-PMID20865800-CNPY3-HSP90B1-COCHAPERONE",
+      "pmids": [
+        "20865800"
+      ],
+      "pmcids": [
+        "PMC2982182"
+      ],
+      "dois": [
+        "10.1038/ncomms1070"
+      ],
+      "title": "Folding of Toll-like receptors by the HSP90 paralogue gp96 requires a substrate-specific cochaperone.",
+      "figure_table_anchors": []
+    }
+  ]
+}

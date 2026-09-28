@@ -1,0 +1,115 @@
+{
+  "schema_version": "hsp90-cycle-reviewed-focal-index-v0.1",
+  "cochaperones": [
+    {
+      "symbol": "AHSA1",
+      "reviewed_relationship_count": 6,
+      "reviewed_pair_count": 6
+    },
+    {
+      "symbol": "AIP",
+      "reviewed_relationship_count": 7,
+      "reviewed_pair_count": 7
+    },
+    {
+      "symbol": "AIPL1",
+      "reviewed_relationship_count": 0,
+      "reviewed_pair_count": 0
+    },
+    {
+      "symbol": "CDC37",
+      "reviewed_relationship_count": 83,
+      "reviewed_pair_count": 75
+    },
+    {
+      "symbol": "CNPY3",
+      "reviewed_relationship_count": 0,
+      "reviewed_pair_count": 0
+    },
+    {
+      "symbol": "DNAJA2",
+      "reviewed_relationship_count": 7,
+      "reviewed_pair_count": 5
+    },
+    {
+      "symbol": "DNAJB11",
+      "reviewed_relationship_count": 11,
+      "reviewed_pair_count": 11
+    },
+    {
+      "symbol": "DNAJC7",
+      "reviewed_relationship_count": 5,
+      "reviewed_pair_count": 4
+    },
+    {
+      "symbol": "FKBP4",
+      "reviewed_relationship_count": 12,
+      "reviewed_pair_count": 10
+    },
+    {
+      "symbol": "FKBP5",
+      "reviewed_relationship_count": 45,
+      "reviewed_pair_count": 35
+    },
+    {
+      "symbol": "FNIP1",
+      "reviewed_relationship_count": 3,
+      "reviewed_pair_count": 1
+    },
+    {
+      "symbol": "FNIP2",
+      "reviewed_relationship_count": 3,
+      "reviewed_pair_count": 1
+    },
+    {
+      "symbol": "MZB1",
+      "reviewed_relationship_count": 0,
+      "reviewed_pair_count": 0
+    },
+    {
+      "symbol": "PPID",
+      "reviewed_relationship_count": 2,
+      "reviewed_pair_count": 2
+    },
+    {
+      "symbol": "PPP5C",
+      "reviewed_relationship_count": 13,
+      "reviewed_pair_count": 12
+    },
+    {
+      "symbol": "PTGES3",
+      "reviewed_relationship_count": 6,
+      "reviewed_pair_count": 4
+    },
+    {
+      "symbol": "STIP1",
+      "reviewed_relationship_count": 15,
+      "reviewed_pair_count": 9
+    },
+    {
+      "symbol": "STUB1",
+      "reviewed_relationship_count": 24,
+      "reviewed_pair_count": 21
+    },
+    {
+      "symbol": "SUGT1",
+      "reviewed_relationship_count": 11,
+      "reviewed_pair_count": 7
+    },
+    {
+      "symbol": "TSC1",
+      "reviewed_relationship_count": 8,
+      "reviewed_pair_count": 5
+    },
+    {
+      "symbol": "UNC45A",
+      "reviewed_relationship_count": 3,
+      "reviewed_pair_count": 1
+    },
+    {
+      "symbol": "UNC45B",
+      "reviewed_relationship_count": 0,
+      "reviewed_pair_count": 0
+    }
+  ]
+}
