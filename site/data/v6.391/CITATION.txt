@@ -1,0 +1,3 @@
+Mersich I (creator). HSP90 Atlas: Isoform-Specific Interaction and Evidence Atlas. Data v6.391 (2026-09-29). https://ian-mersich.github.io/hsp90-atlas-site/. Accessed [YYYY-MM-DD].
+
+Citation metadata amended 2026-09-28 to identify the creator. Collaborator attribution, institutional affiliation, repository record, and persistent identifier remain to be confirmed. This citation does not grant reuse rights for Atlas content or third-party inputs; consult LICENSE_STATUS.txt.

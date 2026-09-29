@@ -8,15 +8,15 @@ The Atlas brings together manually reviewed papers, protein-interaction database
 
 ## Current release
 
-- **Atlas data:** v6.303 release candidate
-- **Web application:** 0.11.5
-- **Relationships tracked:** 5,092 gene-isoform pairs
-- **Reviewed findings:** 3,922 source-level records
+- **Atlas website:** v1.6.391
+- **Atlas data:** v6.391 public review checkpoint
+- **Relationships tracked:** 5,093 gene–isoform pairs
+- **Reviewed findings:** 4,027 source-level records
 - **Coverage:** non-comprehensive, with the largest remaining gaps for GRP94 and TRAP1
 
-The site supports interactor search, four-isoform gene comparison, source-linked findings, interactive networks, and downloadable tables. Blank isoform panels mean that the current release has no record for that isoform; they are not negative results and do not establish isoform specificity.
+The site supports interactor search, four-isoform gene comparison, source-linked findings, an interaction network, a reviewed interactive HSP90-cycle schematic, and downloadable tables. Blank isoform panels mean that the current release has no record for that isoform; they are not negative results and do not establish isoform specificity.
 
-Discovery leads are possible gene–HSP90 relationships suggested by protein-abundance correlations, interaction databases, or publication matches. These signals alone do not establish a direct interaction or client relationship. Historical CPTAC correlation coefficients are withheld from the application pending a corrected data release.
+Discovery leads are possible gene–HSP90 relationships suggested by protein-abundance correlations, interaction databases, or publication matches. These signals alone do not establish a direct interaction or client relationship. The affected CPTAC correlations and older download archives containing them are withheld from the active site; seven other HPA protein-profile matrices remain available as exploratory associations. Superseded archives remain recoverable in Git history.
 
 ## Repository scope
 
