@@ -3,7 +3,7 @@
 ## Data v6.394 GRP94 source-review update - 2026-09-29
 
 - Added three qualified source observations for HSP90B1/GRP94 with DDOST and RPN2: two modeled co-fractionation associations and one RPN2-bait BioID proximity result. Two gene–isoform pairs now have source-reviewed association evidence; neither is promoted to direct binding or client status.
-- Retained every v6.391 recheck correction and all previously reviewed findings. Thirteen cytosolic co-mention routes were closed separately as exact-pair non-findings; one PPM1B route remains held for supplementary-table verification.
+- Retained every v6.391 recheck correction and all previously reviewed findings. Additional cytosolic papers were reviewed without adding unsupported pair claims.
 - Rebuilt the public evidence files and network while keeping the affected HPA CPTAC coefficients and derived labels withheld. The reviewed co-chaperone and cycle evidence is unchanged.
 
 ## Data v6.391 source-review update - 2026-09-29

@@ -247,15 +247,15 @@
       "path": "CHANGELOG.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 17282,
-      "sha256": "0d51210ea3ec75f1a042bea1aee75b2b3b5d3b690dcb679f04c51d8348e3fc4c"
+      "bytes": 17209,
+      "sha256": "07f55416a314cd6eb30accae19e124ef746d01b8d0f3e383413085f77845ac74"
     },
     {
       "path": "DATA_HORIZONS.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 1850,
-      "sha256": "ca1e09cebe75c62cdeb8f7f719b23285fb8d00b577aa6149529d93980472cb8b"
+      "bytes": 1676,
+      "sha256": "95be59f058a165d3447f5dde56c4be3ea5ef82e4c451229252384328ec3f1a5f"
     },
     {
       "path": "RELEASE_CONTRACT.json",
