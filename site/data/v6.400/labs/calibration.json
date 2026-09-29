@@ -1,0 +1,203 @@
+{
+  "prototype_version": "0.6.0-public-read-only",
+  "status": "framework_sensitivity_only",
+  "final_rank_or_tier_authorized": false,
+  "lenses": {
+    "balanced": {
+      "label": "Balanced evidence",
+      "weights": {
+        "physical_interaction": 1,
+        "complex_membership": 1,
+        "client_mechanism": 1,
+        "cochaperone_cycle": 1,
+        "perturbation_support": 1,
+        "isoform_specificity": 1,
+        "source_quality": 1,
+        "corroboration": 1
+      },
+      "caveat_penalty_multiplier": 1,
+      "maximum_weighted_positive_total": 30,
+      "by_isoform": {
+        "HSP90AA1": {
+          "row_count": 765,
+          "median_absolute_score_delta": 0,
+          "maximum_absolute_score_delta": 0,
+          "median_absolute_rank_shift": 0,
+          "rows_with_rank_shift_at_least_10": 0,
+          "balanced_top20_overlap": 20
+        },
+        "HSP90AB1": {
+          "row_count": 986,
+          "median_absolute_score_delta": 0,
+          "maximum_absolute_score_delta": 0,
+          "median_absolute_rank_shift": 0,
+          "rows_with_rank_shift_at_least_10": 0,
+          "balanced_top20_overlap": 20
+        },
+        "HSP90B1": {
+          "row_count": 208,
+          "median_absolute_score_delta": 0,
+          "maximum_absolute_score_delta": 0,
+          "median_absolute_rank_shift": 0,
+          "rows_with_rank_shift_at_least_10": 0,
+          "balanced_top20_overlap": 20
+        },
+        "TRAP1": {
+          "row_count": 112,
+          "median_absolute_score_delta": 0,
+          "maximum_absolute_score_delta": 0,
+          "median_absolute_rank_shift": 0,
+          "rows_with_rank_shift_at_least_10": 0,
+          "balanced_top20_overlap": 20
+        }
+      }
+    },
+    "mechanism_forward": {
+      "label": "Mechanism emphasis",
+      "weights": {
+        "physical_interaction": 1.25,
+        "complex_membership": 1,
+        "client_mechanism": 1.5,
+        "cochaperone_cycle": 1.25,
+        "perturbation_support": 0.5,
+        "isoform_specificity": 1,
+        "source_quality": 1,
+        "corroboration": 1
+      },
+      "caveat_penalty_multiplier": 1,
+      "maximum_weighted_positive_total": 33,
+      "by_isoform": {
+        "HSP90AA1": {
+          "row_count": 765,
+          "median_absolute_score_delta": 2,
+          "maximum_absolute_score_delta": 8,
+          "median_absolute_rank_shift": 21,
+          "rows_with_rank_shift_at_least_10": 589,
+          "balanced_top20_overlap": 19
+        },
+        "HSP90AB1": {
+          "row_count": 986,
+          "median_absolute_score_delta": 2,
+          "maximum_absolute_score_delta": 8,
+          "median_absolute_rank_shift": 31.5,
+          "rows_with_rank_shift_at_least_10": 830,
+          "balanced_top20_overlap": 20
+        },
+        "HSP90B1": {
+          "row_count": 208,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 7,
+          "median_absolute_rank_shift": 3.5,
+          "rows_with_rank_shift_at_least_10": 21,
+          "balanced_top20_overlap": 20
+        },
+        "TRAP1": {
+          "row_count": 112,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 8,
+          "median_absolute_rank_shift": 1,
+          "rows_with_rank_shift_at_least_10": 3,
+          "balanced_top20_overlap": 19
+        }
+      }
+    },
+    "provenance_forward": {
+      "label": "Provenance emphasis",
+      "weights": {
+        "physical_interaction": 1,
+        "complex_membership": 0.75,
+        "client_mechanism": 1,
+        "cochaperone_cycle": 1,
+        "perturbation_support": 0.5,
+        "isoform_specificity": 1.25,
+        "source_quality": 1.5,
+        "corroboration": 1.5
+      },
+      "caveat_penalty_multiplier": 1.25,
+      "maximum_weighted_positive_total": 33,
+      "by_isoform": {
+        "HSP90AA1": {
+          "row_count": 765,
+          "median_absolute_score_delta": 2,
+          "maximum_absolute_score_delta": 6,
+          "median_absolute_rank_shift": 23,
+          "rows_with_rank_shift_at_least_10": 560,
+          "balanced_top20_overlap": 19
+        },
+        "HSP90AB1": {
+          "row_count": 986,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 6,
+          "median_absolute_rank_shift": 37,
+          "rows_with_rank_shift_at_least_10": 800,
+          "balanced_top20_overlap": 19
+        },
+        "HSP90B1": {
+          "row_count": 208,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 6,
+          "median_absolute_rank_shift": 2.5,
+          "rows_with_rank_shift_at_least_10": 16,
+          "balanced_top20_overlap": 18
+        },
+        "TRAP1": {
+          "row_count": 112,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 6,
+          "median_absolute_rank_shift": 2,
+          "rows_with_rank_shift_at_least_10": 5,
+          "balanced_top20_overlap": 19
+        }
+      }
+    },
+    "caveat_stress_test": {
+      "label": "Caveat stress test",
+      "weights": {
+        "physical_interaction": 1,
+        "complex_membership": 1,
+        "client_mechanism": 1,
+        "cochaperone_cycle": 1,
+        "perturbation_support": 1,
+        "isoform_specificity": 1,
+        "source_quality": 1,
+        "corroboration": 1
+      },
+      "caveat_penalty_multiplier": 2,
+      "maximum_weighted_positive_total": 30,
+      "by_isoform": {
+        "HSP90AA1": {
+          "row_count": 765,
+          "median_absolute_score_delta": 4,
+          "maximum_absolute_score_delta": 13,
+          "median_absolute_rank_shift": 28,
+          "rows_with_rank_shift_at_least_10": 645,
+          "balanced_top20_overlap": 15
+        },
+        "HSP90AB1": {
+          "row_count": 986,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 14,
+          "median_absolute_rank_shift": 26,
+          "rows_with_rank_shift_at_least_10": 811,
+          "balanced_top20_overlap": 15
+        },
+        "HSP90B1": {
+          "row_count": 208,
+          "median_absolute_score_delta": 3,
+          "maximum_absolute_score_delta": 7,
+          "median_absolute_rank_shift": 8,
+          "rows_with_rank_shift_at_least_10": 81,
+          "balanced_top20_overlap": 18
+        },
+        "TRAP1": {
+          "row_count": 112,
+          "median_absolute_score_delta": 0,
+          "maximum_absolute_score_delta": 7,
+          "median_absolute_rank_shift": 3,
+          "rows_with_rank_shift_at_least_10": 10,
+          "balanced_top20_overlap": 19
+        }
+      }
+    }
+  }
+}
