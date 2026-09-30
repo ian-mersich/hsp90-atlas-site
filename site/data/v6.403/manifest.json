@@ -1,0 +1,435 @@
+{
+  "schema_version": "atlas-static-v1.4",
+  "dataset_version": "v6.403",
+  "coverage_status": "non_comprehensive",
+  "release_status": "public_review_checkpoint",
+  "deterministic_build": true,
+  "generated_from": [
+    {
+      "path": "gene_set_curation/master_interactor_evidence_v6_403.tsv",
+      "rows": 5093,
+      "bytes": 11134241,
+      "sha256": "6488fa70910fcb76ba08ef2c5cd28a0281e2d6009b94039588a2f7b5c2acc222"
+    },
+    {
+      "path": "gene_set_curation/source_level_gene_evidence_v6_403.tsv",
+      "rows": 4064,
+      "bytes": 10916312,
+      "sha256": "d7080c8b30dadb0eba83920a4198466290d5020315aeaf17e3eb5eac14515258"
+    }
+  ],
+  "counts": {
+    "pairs": 5093,
+    "assertions": 4064,
+    "assertion_pair_links": 5138,
+    "assertions_linked_to_at_least_one_pair": 3726,
+    "assertions_without_pair_links": 338,
+    "source_reviewed_pairs": 2748,
+    "positive_source_evidence_pairs": 2265,
+    "reviewed_pairs_without_positive_evidence_flag": 483,
+    "discovery_signal_pairs": {
+      "ppi": 2658,
+      "hpa": 4873,
+      "pubmed": 4268
+    },
+    "pairs_by_isoform": {
+      "HSP90AA1": 1665,
+      "HSP90AB1": 1833,
+      "HSP90B1": 831,
+      "TRAP1": 764
+    },
+    "assertions_by_isoform_scope": {
+      "HSP90AA1_alpha_resolved": 721,
+      "HSP90AB1_beta_resolved": 956,
+      "HSP90B1_GRP94_resolved": 425,
+      "TRAP1_resolved": 240,
+      "cytosolic_alpha_beta_both_measured": 4,
+      "cytosolic_alpha_beta_both_mentioned": 191,
+      "cytosolic_alpha_beta_compared": 169,
+      "cytosolic_hsp90_unresolved": 1119,
+      "non_hsp90_or_false_positive": 168,
+      "pan_hsp90_family": 71
+    },
+    "claim_summaries_with_presentation_cleanup": 173,
+    "claim_summary_presentation_cleanup_by_type": {
+      "navigation_capture_replaced": 14,
+      "process_language_rewritten": 32,
+      "triage_excerpt_withheld": 29,
+      "triage_metrics_removed": 98
+    },
+    "relationship_labels_with_presentation_cleanup": 57,
+    "assertions_with_structured_study_context": 4064,
+    "structured_study_context_values": {
+      "experimental_system_classes": 9,
+      "organism_contexts": 22,
+      "evidence_origin_classes": 5,
+      "cellular_compartments": 12,
+      "perturbation_classes": 11,
+      "evidence_basis_classes": 11
+    },
+    "experimental_context_annotation_statuses": {
+      "insufficient_explicit_context": 486,
+      "partially_structured_from_explicit_context": 3350,
+      "structured_from_explicit_context": 228
+    },
+    "experimental_context_annotation_flags": {
+      "HCC_model_context": 1,
+      "HSP90AA1_construct": 1,
+      "HSP90AA1_construct_and_genetic_reagents": 1,
+      "cell_line_species_lookup_used": 1402,
+      "cellular_compartment_not_reported": 3272,
+      "condition_specific_cutoff_pass": 2,
+      "conditioned_medium": 1,
+      "dual_isoform_antibody_functional_intervention": 1,
+      "experimental_system_not_reported": 1294,
+      "generic_model_context": 996,
+      "global_cutoff_failed": 2,
+      "isolated_organelle_fraction_topology_unresolved": 1,
+      "main_article_methods_not_local": 1,
+      "multiple_cellular_compartments": 32,
+      "multiple_experimental_systems": 484,
+      "multiple_organism_contexts": 436,
+      "nonselective_HSP90_inhibitor": 1,
+      "organism_not_reported": 1485,
+      "overexpressed_tagged_association": 1,
+      "overexpressed_tagged_bait": 1,
+      "pair_specific_cell_model_not_reported": 3,
+      "pair_specific_fraction_profiles_not_reported": 3,
+      "perturbation_not_reported_or_not_applicable": 2074,
+      "phosphosite_isoform_unresolved": 1,
+      "tagged_bait_and_endogenous_assay_modes": 3,
+      "tagged_bait_apms": 1,
+      "tagged_bait_topology_limitation": 23
+    }
+  },
+  "guardrails": {
+    "status": "passed",
+    "checks": [
+      {
+        "id": "pair_rows_preserved",
+        "expected": 5093,
+        "observed": 5093,
+        "passed": true
+      },
+      {
+        "id": "assertion_rows_preserved",
+        "expected": 4064,
+        "observed": 4064,
+        "passed": true
+      },
+      {
+        "id": "pair_ids_unique",
+        "expected": 5093,
+        "observed": 5093,
+        "passed": true
+      },
+      {
+        "id": "assertion_ids_unique",
+        "expected": 4064,
+        "observed": 4064,
+        "passed": true
+      },
+      {
+        "id": "master_isoform_columns_match",
+        "expected": 0,
+        "observed": 0,
+        "passed": true
+      },
+      {
+        "id": "source_review_links_unresolved",
+        "expected": [],
+        "observed": [],
+        "passed": true
+      },
+      {
+        "id": "source_review_links_scope_incompatible",
+        "expected": [],
+        "observed": [],
+        "passed": true
+      },
+      {
+        "id": "pair_relationship_types_match_assertions",
+        "expected": 0,
+        "observed": 0,
+        "passed": true
+      },
+      {
+        "id": "pair_source_roles_match_assertions",
+        "expected": 0,
+        "observed": 0,
+        "passed": true
+      },
+      {
+        "id": "forbidden_public_field_keys",
+        "expected": [],
+        "observed": [],
+        "passed": true
+      },
+      {
+        "id": "public_claim_summaries_with_machine_triage_or_capture_artifacts",
+        "expected": 0,
+        "observed": 0,
+        "passed": true
+      }
+    ],
+    "source_reviewed_semantics": "True when at least one scope-compatible source-reviewed assertion is linked, including reviewed exclusions; it does not mean positive support.",
+    "isoform_scope_semantics": "applies_to_isoforms maps reviewed scope to applicable Atlas isoforms and never claims exclusivity or specificity by itself.",
+    "discovery_signal_semantics": "PPI, HPA, and PubMed observations are discovery context, not source-reviewed claims.",
+    "presentation_cleanup_semantics": "Website-navigation captures, download stubs, encoding-damaged excerpts, and internal review-process text are withheld or simplified in public descriptions. Recheck-held direct-binding labels marked direct_binding_unclear are presented as unresolved. Every transformation is flagged in the review object; the source curation TSV remains unchanged.",
+    "structured_study_context_semantics": "Study-context facets come only from linked source-reviewed assertions, including supported, context, excluded, and recheck findings that the Atlas displays. Assertion-level context records preserve co-occurrence so combined filters do not synthesize a study design across different papers or findings. The cumulative pair ledger separately limits its context union to supported claims. Database and correlation discovery records do not populate these fields.",
+    "omitted_public_fields": [
+      "provisional_total_score",
+      "evidence_readiness_band",
+      "score_source_recheck_row_count",
+      "score_exclude_row_count",
+      "later_manual_review_eligibility",
+      "final_scored_reference_set_promotion",
+      "do_promote_to_gene_evidence",
+      "do_promote_to_scored_reference_set_later",
+      "provisional_reference_bucket",
+      "do_not_promote_reason",
+      "gene_level_recommendation",
+      "integration_decision",
+      "integration_rationale",
+      "should_flow_to_source_gene_integration"
+    ],
+    "public_release_checkpoint": "v6.403",
+    "source_gene_evidence_horizon": "v6.403",
+    "cochaperone_review_horizon": "v6.301",
+    "final_scored_reference_set_promotion_run": false,
+    "pathway_interpretation_run": false,
+    "non_comprehensive_coverage_status_preserved": true
+  },
+  "artifacts": [
+    {
+      "path": "browse.json",
+      "media_type": "application/json",
+      "rows": 5093,
+      "bytes": 11316566,
+      "sha256": "55e57a137ddd8a98f2dc27adc715101fa1421980492588eb10e8ba0edd3fdf9f"
+    },
+    {
+      "path": "pairs.json",
+      "media_type": "application/json",
+      "rows": 5093,
+      "bytes": 27021748,
+      "sha256": "59db84a17066ffd3884431864218901091ca8eeed21ea3b76cc1d0e76f49e5fd"
+    },
+    {
+      "path": "assertions.json",
+      "media_type": "application/json",
+      "rows": 4064,
+      "bytes": 12972728,
+      "sha256": "bf2e305775fd7701fa0ba131cfbd0f9c23fd456a0fa52672b2bdf9ae34080bcb"
+    },
+    {
+      "path": "pairs.tsv",
+      "media_type": "text/tab-separated-values; charset=utf-8",
+      "rows": 5093,
+      "bytes": 3287116,
+      "sha256": "99d5e5938f5015d3f0bdfdb1d4528ffdcd3ee31007f16d5266c5131b6d044879"
+    },
+    {
+      "path": "assertions.tsv",
+      "media_type": "text/tab-separated-values; charset=utf-8",
+      "rows": 4064,
+      "bytes": 6078052,
+      "sha256": "c5b09daa0c44776fd2208160c1a41cce4fb0bfc275f32a62a90603b6878b3e3d"
+    },
+    {
+      "path": "CITATION.cff",
+      "media_type": "application/vnd.citationstyles.csl+yaml; charset=utf-8",
+      "rows": null,
+      "bytes": 698,
+      "sha256": "76339410c652da014df51d841da5824e64d24dc0b23c628e91ea1ebc17f8b984"
+    },
+    {
+      "path": "CITATION.txt",
+      "media_type": "text/plain; charset=utf-8",
+      "rows": null,
+      "bytes": 477,
+      "sha256": "1f84068fac05c48541cf025231e771da78e9f5f33b5df3f3efc07b5e9eaaa5fc"
+    },
+    {
+      "path": "LICENSE_STATUS.txt",
+      "media_type": "text/plain; charset=utf-8",
+      "rows": null,
+      "bytes": 435,
+      "sha256": "b736e2d839b694fa674cc3e45b76fa200007775d9b2731be654c2dbb0370f286"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "media_type": "text/markdown; charset=utf-8",
+      "rows": null,
+      "bytes": 20425,
+      "sha256": "5feffc904083482337498e6aa0f9c1ab56a96a06dd1e28393b152e0f854b9665"
+    },
+    {
+      "path": "DATA_HORIZONS.md",
+      "media_type": "text/markdown; charset=utf-8",
+      "rows": null,
+      "bytes": 2020,
+      "sha256": "28d775ea50df3b75e5c89b197f1d508a710619d823efbe1c700ef6e9a326d34b"
+    },
+    {
+      "path": "RELEASE_CONTRACT.json",
+      "media_type": "application/json",
+      "rows": null,
+      "bytes": 588,
+      "sha256": "fa9971204aebc6ccfcb8d127e87108a48f5dfdfacff67666cc21a8047e4f5147"
+    },
+    {
+      "path": "cochaperone-network/reviewed_source_findings.tsv",
+      "bytes": 1149132,
+      "sha256": "df946959274094035813b5bb5e0414d33058e61088cde6e0560b68b653866508"
+    },
+    {
+      "path": "cochaperone-network/reviewed_pairs.tsv",
+      "bytes": 573838,
+      "sha256": "c52d4cc55d3351322c7c551ddf4a189ad9632414a8a149148d15f1640ee3f0b4"
+    },
+    {
+      "path": "cochaperone-network/manifest.json",
+      "bytes": 786,
+      "sha256": "b58d5ab20300074e5746cd1eb53c04a45e15c277ef9ee15abe461a4f220f0727"
+    },
+    {
+      "path": "analytics/database_observations.tsv",
+      "bytes": 7034575,
+      "sha256": "825b8d473ec8d7d3d4f9755872b9463c16f1a381619d55f35612803be30eece1"
+    },
+    {
+      "path": "analytics/database_priority_candidate_review.tsv",
+      "bytes": 68462,
+      "sha256": "dabc62e06a6c0520645f2e989095385020fb0f095bc499cf9cf4fc1a34b0b73a"
+    },
+    {
+      "path": "analytics/database_priority_pair_paper_resolution.tsv",
+      "bytes": 250569,
+      "sha256": "2d35c4bbee93320b78c383b600e2bd88ef924f16fdf1184e4d1707c45e65ecd1"
+    },
+    {
+      "path": "analytics/database_route_review.tsv",
+      "bytes": 445159,
+      "sha256": "5074a29bd8a3a475c07f76b809cb7becbcde67a761d795eb4116b0a34777a98f"
+    },
+    {
+      "path": "analytics/hpa_profiles.tsv",
+      "bytes": 20267156,
+      "sha256": "7053c102b7e146a893434af083ada2010c683f9a301d970e38fa5a5bae45bbb9"
+    },
+    {
+      "path": "analytics/manifest.json",
+      "bytes": 7637,
+      "sha256": "0b3c0c0582b0be50b71c5575c0f30cf163c99d1138797f6a78448c978b8f3d60"
+    },
+    {
+      "path": "analytics/outside_master_admission_triage.tsv",
+      "bytes": 1571122,
+      "sha256": "7cd277adef51969c832a9ec4f5fdd7e892a3d52cae6c715aec055d81708bb214"
+    },
+    {
+      "path": "analytics/pair_summary.tsv",
+      "bytes": 1288448,
+      "sha256": "b4dfb85368bf3b9ee095fe3ee53258fec3107f216460b0b571e8db2b10b744d6"
+    },
+    {
+      "path": "analytics/profiles-0.json",
+      "bytes": 1558388,
+      "sha256": "5df736fa654a2942b2141df26e2b7ec127ed2e7d49f201d34b7c056f48a67099"
+    },
+    {
+      "path": "analytics/profiles-1.json",
+      "bytes": 1790164,
+      "sha256": "4f609caf9064b3ba3936829c27d4c1520098e4ef20388cc0c5e69e409722bb04"
+    },
+    {
+      "path": "analytics/profiles-2.json",
+      "bytes": 1466181,
+      "sha256": "c4aea6c1cc62f6921b10a64b61d4125e7cd63d4eda3fbbfe1ebf054c9431a3c7"
+    },
+    {
+      "path": "analytics/profiles-3.json",
+      "bytes": 1509570,
+      "sha256": "0d0ebe5dcca28fdf03c250f07d435e4874f965d6f71c41306777dc8a609afeaa"
+    },
+    {
+      "path": "analytics/profiles-4.json",
+      "bytes": 1383542,
+      "sha256": "9723ec59a6a0f56f2844cfd3a0b9ead1d6bee621343f5deb019a917870d2d62c"
+    },
+    {
+      "path": "analytics/profiles-5.json",
+      "bytes": 1303618,
+      "sha256": "40341e565e776efa03cb82a2fcdb9a4d0ebc978c6af16adef9598cf6bb2ec890"
+    },
+    {
+      "path": "analytics/profiles-6.json",
+      "bytes": 1665626,
+      "sha256": "9c5df7eaf3cf0d1ec0a3e33789276a76b78265ceec9daf0c5597673b696fcfd6"
+    },
+    {
+      "path": "analytics/profiles-7.json",
+      "bytes": 1470490,
+      "sha256": "6115e4f6ad4eb50ab194fd2d1f4d929450251d474ba83640f448ff396b6200e2"
+    },
+    {
+      "path": "analytics/profiles-8.json",
+      "bytes": 1736088,
+      "sha256": "afd507bad934cdecf04a2f58b8d4de2efa39cc64cd69f7b132a2a98c45ac982c"
+    },
+    {
+      "path": "analytics/profiles-9.json",
+      "bytes": 1508485,
+      "sha256": "abb48cef64b9c7e5348035e0fdea7d54d7ad818841c84a76734b8e1d9719b601"
+    },
+    {
+      "path": "analytics/profiles-a.json",
+      "bytes": 1582361,
+      "sha256": "e627e6e46136a022221e365a7fec4f137323107ed3de9c0baca7d2f8d576c9c5"
+    },
+    {
+      "path": "analytics/profiles-b.json",
+      "bytes": 1498001,
+      "sha256": "e4743e9d2339fad3e8aeb3fc42991798a60a646a36eb9eabecc599e9c3cfa86f"
+    },
+    {
+      "path": "analytics/profiles-c.json",
+      "bytes": 1395490,
+      "sha256": "0b2747739bcab2a3be2bef92d4d496bd47bbc95299222bd7262c5145c09f99b4"
+    },
+    {
+      "path": "analytics/profiles-d.json",
+      "bytes": 1614302,
+      "sha256": "312d83e8f8232692a83747e9d1d3dbb449e1adf42aedace69c1e49faa6f0b041"
+    },
+    {
+      "path": "analytics/profiles-e.json",
+      "bytes": 1435259,
+      "sha256": "58885d3bcf9755aaad2ce35cd55e6eb78c5e1a47d8420f8295855a8877d05b2d"
+    },
+    {
+      "path": "analytics/profiles-f.json",
+      "bytes": 1380589,
+      "sha256": "7c6e091f82aa0fd3a761342b28c2fe82c4a867afcfe920f9ed1c25ac49cd54ea"
+    }
+  ],
+  "evidence_horizons": {
+    "public_release": "v6.403",
+    "hsp90_gene_isoform_core": "v6.403",
+    "cochaperone_reviewed_network": "v6.301",
+    "detailed_hpa_and_biogrid_intact_profiles": "v6.109 over the v6.104 pair universe"
+  },
+  "companion_datasets": {
+    "cochaperone_network": {
+      "source_findings": 457,
+      "reviewed_pairs": 351,
+      "path": "cochaperone-network/manifest.json"
+    },
+    "analytical_context": {
+      "status": "validated_carry_forward",
+      "pair_universe_release": "v6.104",
+      "path": "analytics/manifest.json"
+    }
+  }
+}

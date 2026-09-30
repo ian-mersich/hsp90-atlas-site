@@ -8,16 +8,16 @@ The Atlas brings together manually reviewed papers, protein-interaction database
 
 ## Current release
 
-- **Atlas website:** v1.6.400
-- **Atlas data:** v6.400 public review checkpoint
+- **Atlas website:** v1.6.403
+- **Atlas data:** v6.403 public review checkpoint
 - **Relationships tracked:** 5,093 gene–isoform pairs
-- **Reviewed findings:** 4,051 source-level records
-- **Source-reviewed pairs:** 2,735; 2,252 have pair-specific support
+- **Reviewed findings:** 4,064 source-level records
+- **Source-reviewed pairs:** 2,748; 2,265 have pair-specific support
 - **Coverage:** non-comprehensive, with the largest remaining gaps for GRP94 and TRAP1
 
 The site supports interactor search, four-isoform gene comparison, source-linked findings, an interaction network, a reviewed interactive HSP90-cycle schematic, and downloadable tables. Blank isoform panels mean that the current release has no record for that isoform; they are not negative results and do not establish isoform specificity.
 
-Data v6.400 adds ten TRAP1 assay associations with DBT, DLST, ETFA, GFM1, LRPPRC, MRPS26, PARK7, SHMT2, TACO1, and TRMT10C. The proximity-labeling and protein-capture measurements support association in their reported systems. They do not establish direct binding or TRAP1-dependent client maturation, and the new findings are not used for ranking.
+Data v6.403 incorporates the v6.402 organelle review and three cytosolic source-reviewed observations. The organelle proximity, co-recovery, and cross-link measurements remain assay associations. HSP90AA1–MAVS remains a constrained support-only candidate-client observation; HSP90AA1–USP9X is an upstream stability mechanism; and extracellular MMP2 association remains non-exclusive across the compared cytosolic isoforms. These findings do not establish purified direct binding, isoform preference beyond the reported assay, or final client assignments.
 
 Discovery leads are possible gene–HSP90 relationships suggested by protein-abundance correlations, interaction databases, or publication matches. These signals alone do not establish a direct interaction or client relationship. The affected CPTAC correlations and older download archives containing them are withheld from the active site; seven other HPA protein-profile matrices remain available as exploratory associations. Superseded archives remain recoverable in Git history.
 
