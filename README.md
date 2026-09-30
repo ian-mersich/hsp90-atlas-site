@@ -8,16 +8,16 @@ The Atlas brings together manually reviewed papers, protein-interaction database
 
 ## Current release
 
-- **Atlas website:** v1.6.408
-- **Atlas data:** v6.408 public review checkpoint
+- **Atlas website:** v1.6.410
+- **Atlas data:** v6.410 public review checkpoint
 - **Relationships tracked:** 5,091 gene–isoform pairs
-- **Reviewed findings:** 4,072 source-level records
-- **Source-reviewed pairs:** 2,755; 2,272 have pair-specific support
+- **Reviewed findings:** 4,086 source-level records
+- **Source-reviewed pairs:** 2,768; 2,285 have pair-specific support
 - **Coverage:** non-comprehensive, with the largest remaining gaps for GRP94 and TRAP1
 
 The site supports interactor search, four-isoform gene comparison, source-linked findings, an interaction network, a reviewed interactive HSP90-cycle schematic, and downloadable tables. Blank isoform panels mean that the current release has no record for that isoform; they are not negative results and do not establish isoform specificity.
 
-Data v6.408 adds seven reviewed TRAP1 assay associations and the HSP90AB1–NR1I2 finding from PMID 25995454. PXR search resolves to NR1I2; duplicate PXR rows are merged into the canonical gene pairs. The beta-resolved binding finding retains the source's limitations and is not copied into the alpha pair. Organelle assay associations remain unscored and do not establish direct binding or client dependence.
+Data v6.410 adds fourteen weak, unscored TRAP1 proximity-labeling findings from PMID 34079125, including a second source for NDUFS3 and thirteen newly reviewed pairs. UQCRFS1 and VWA8 remain held. These BioID measurements do not establish direct binding, stable complex membership, or TRAP1-dependent client maturation. PXR search continues to resolve to canonical NR1I2, retaining the beta-only PMID 25995454 finding and its limitations.
 
 Discovery leads are possible gene–HSP90 relationships suggested by protein-abundance correlations, interaction databases, or publication matches. These signals alone do not establish a direct interaction or client relationship. The affected CPTAC correlations and older download archives containing them are withheld from the active site; seven other HPA protein-profile matrices remain available as exploratory associations. Superseded archives remain recoverable in Git history.
 
