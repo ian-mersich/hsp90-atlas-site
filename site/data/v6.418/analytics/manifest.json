@@ -1,0 +1,211 @@
+{
+  "schema_version": "atlas-analytical-context-v1.0",
+  "core_data_release": "v6.418",
+  "analytical_release": "v6.109",
+  "counts": {
+    "pair_profiles": 4325,
+    "profile_shards": 16,
+    "hpa_dataset_rows": 24677,
+    "pairs_with_hpa_profiles": 4160,
+    "direct_database_observations_all": 7665,
+    "direct_database_observations_in_master": 3962,
+    "pairs_with_direct_database_observations": 1377,
+    "database_pairs_outside_master_retained_in_download": 2640,
+    "database_primary_source_routes_reviewed": 444,
+    "database_primary_source_routes_flow_later": 188,
+    "outside_master_pairs_triaged": 2640,
+    "database_priority_pairs_reviewed": 144,
+    "database_priority_paper_routes_reviewed": 269,
+    "database_priority_exact_routes_flow_later": 76,
+    "source_review_rows_cumulative": 1614,
+    "source_review_rows_added_v6_109": 54,
+    "source_review_rows_added_v6_109_flow_later": 54
+  },
+  "guardrails": {
+    "analytical_context_only": true,
+    "evidence_score_contribution": 0,
+    "correlations_create_reviewed_assertions": false,
+    "database_records_create_reviewed_assertions": false,
+    "route_review_rows_change_frozen_core_assertions": false,
+    "outside_master_triage_auto_admission": false,
+    "database_priority_review_auto_admission": false,
+    "v6_109_source_review_rows_change_frozen_core_assertions": false,
+    "source_review_required_before_claim": true,
+    "coverage_status": "non_comprehensive",
+    "ora_or_pathway_enrichment_run": false,
+    "pathway_interpretation_run": false,
+    "final_scored_reference_set_promotion_run": false,
+    "analytical_profile_universe_not_expanded_in_current_release": true,
+    "missing_profile_is_not_negative_evidence": true
+  },
+  "inputs": [
+    {
+      "path": "gene_set_curation/analytical_pair_summary_v6_107.tsv",
+      "rows": 4325,
+      "bytes": 1461631,
+      "sha256": "c52afd4607fa742caf37e58281dd060534e336f1c3c0433b9a13ddccfac0708f"
+    },
+    {
+      "path": "gene_set_curation/hpa_analytical_profiles_v6_107.tsv",
+      "rows": 28107,
+      "bytes": 23133987,
+      "sha256": "9ebbfae4dd050932e1d5e2aa7c036bb05b01c69a6b2e4fe18b93e32d31baabe8"
+    },
+    {
+      "path": "source_inventory/biogrid_intact_hsp90_observations_v6_107.tsv",
+      "rows": 7665,
+      "bytes": 7034575,
+      "sha256": "825b8d473ec8d7d3d4f9755872b9463c16f1a381619d55f35612803be30eece1"
+    },
+    {
+      "path": "source_inventory/database_primary_source_route_resolution_v6_108.tsv",
+      "rows": 444,
+      "bytes": 445159,
+      "sha256": "5074a29bd8a3a475c07f76b809cb7becbcde67a761d795eb4116b0a34777a98f"
+    },
+    {
+      "path": "source_inventory/database_pair_admission_triage_v6_108.tsv",
+      "rows": 2640,
+      "bytes": 1571122,
+      "sha256": "7cd277adef51969c832a9ec4f5fdd7e892a3d52cae6c715aec055d81708bb214"
+    },
+    {
+      "path": "source_inventory/database_priority_candidate_review_v6_109.tsv",
+      "rows": 144,
+      "bytes": 68462,
+      "sha256": "dabc62e06a6c0520645f2e989095385020fb0f095bc499cf9cf4fc1a34b0b73a"
+    },
+    {
+      "path": "source_inventory/database_priority_pair_paper_resolution_v6_109.tsv",
+      "rows": 269,
+      "bytes": 335011,
+      "sha256": "ec7b8e7bc7c9e306ccc8a425adf410573ac3635d9c97a323219999d308a54874"
+    },
+    {
+      "path": "source_inventory/source_level_evidence_review_v6_109.tsv",
+      "rows": 1614,
+      "bytes": 2948622,
+      "sha256": "8961ee1c3dec20f34244f6fc78a40dfaca4e389ad5be719499df114df078b44f"
+    }
+  ],
+  "artifacts": [
+    {
+      "path": "profiles-0.json",
+      "bytes": 1558388,
+      "sha256": "5df736fa654a2942b2141df26e2b7ec127ed2e7d49f201d34b7c056f48a67099"
+    },
+    {
+      "path": "profiles-1.json",
+      "bytes": 1790164,
+      "sha256": "4f609caf9064b3ba3936829c27d4c1520098e4ef20388cc0c5e69e409722bb04"
+    },
+    {
+      "path": "profiles-2.json",
+      "bytes": 1466181,
+      "sha256": "c4aea6c1cc62f6921b10a64b61d4125e7cd63d4eda3fbbfe1ebf054c9431a3c7"
+    },
+    {
+      "path": "profiles-3.json",
+      "bytes": 1509570,
+      "sha256": "0d0ebe5dcca28fdf03c250f07d435e4874f965d6f71c41306777dc8a609afeaa"
+    },
+    {
+      "path": "profiles-4.json",
+      "bytes": 1383542,
+      "sha256": "9723ec59a6a0f56f2844cfd3a0b9ead1d6bee621343f5deb019a917870d2d62c"
+    },
+    {
+      "path": "profiles-5.json",
+      "bytes": 1303618,
+      "sha256": "40341e565e776efa03cb82a2fcdb9a4d0ebc978c6af16adef9598cf6bb2ec890"
+    },
+    {
+      "path": "profiles-6.json",
+      "bytes": 1665626,
+      "sha256": "9c5df7eaf3cf0d1ec0a3e33789276a76b78265ceec9daf0c5597673b696fcfd6"
+    },
+    {
+      "path": "profiles-7.json",
+      "bytes": 1470490,
+      "sha256": "6115e4f6ad4eb50ab194fd2d1f4d929450251d474ba83640f448ff396b6200e2"
+    },
+    {
+      "path": "profiles-8.json",
+      "bytes": 1736088,
+      "sha256": "afd507bad934cdecf04a2f58b8d4de2efa39cc64cd69f7b132a2a98c45ac982c"
+    },
+    {
+      "path": "profiles-9.json",
+      "bytes": 1508485,
+      "sha256": "abb48cef64b9c7e5348035e0fdea7d54d7ad818841c84a76734b8e1d9719b601"
+    },
+    {
+      "path": "profiles-a.json",
+      "bytes": 1582361,
+      "sha256": "e627e6e46136a022221e365a7fec4f137323107ed3de9c0baca7d2f8d576c9c5"
+    },
+    {
+      "path": "profiles-b.json",
+      "bytes": 1498001,
+      "sha256": "e4743e9d2339fad3e8aeb3fc42991798a60a646a36eb9eabecc599e9c3cfa86f"
+    },
+    {
+      "path": "profiles-c.json",
+      "bytes": 1395490,
+      "sha256": "0b2747739bcab2a3be2bef92d4d496bd47bbc95299222bd7262c5145c09f99b4"
+    },
+    {
+      "path": "profiles-d.json",
+      "bytes": 1614302,
+      "sha256": "312d83e8f8232692a83747e9d1d3dbb449e1adf42aedace69c1e49faa6f0b041"
+    },
+    {
+      "path": "profiles-e.json",
+      "bytes": 1435259,
+      "sha256": "58885d3bcf9755aaad2ce35cd55e6eb78c5e1a47d8420f8295855a8877d05b2d"
+    },
+    {
+      "path": "profiles-f.json",
+      "bytes": 1380589,
+      "sha256": "7c6e091f82aa0fd3a761342b28c2fe82c4a867afcfe920f9ed1c25ac49cd54ea"
+    },
+    {
+      "path": "pair_summary.tsv",
+      "bytes": 1288448,
+      "sha256": "b4dfb85368bf3b9ee095fe3ee53258fec3107f216460b0b571e8db2b10b744d6"
+    },
+    {
+      "path": "hpa_profiles.tsv",
+      "bytes": 20267156,
+      "sha256": "7053c102b7e146a893434af083ada2010c683f9a301d970e38fa5a5bae45bbb9"
+    },
+    {
+      "path": "database_observations.tsv",
+      "bytes": 7034575,
+      "sha256": "825b8d473ec8d7d3d4f9755872b9463c16f1a381619d55f35612803be30eece1"
+    },
+    {
+      "path": "database_route_review.tsv",
+      "bytes": 445159,
+      "sha256": "5074a29bd8a3a475c07f76b809cb7becbcde67a761d795eb4116b0a34777a98f"
+    },
+    {
+      "path": "outside_master_admission_triage.tsv",
+      "bytes": 1571122,
+      "sha256": "7cd277adef51969c832a9ec4f5fdd7e892a3d52cae6c715aec055d81708bb214"
+    },
+    {
+      "path": "database_priority_candidate_review.tsv",
+      "bytes": 68462,
+      "sha256": "dabc62e06a6c0520645f2e989095385020fb0f095bc499cf9cf4fc1a34b0b73a"
+    },
+    {
+      "path": "database_priority_pair_paper_resolution.tsv",
+      "bytes": 250569,
+      "sha256": "2d35c4bbee93320b78c383b600e2bd88ef924f16fdf1184e4d1707c45e65ecd1"
+    }
+  ],
+  "profile_pair_universe_release": "v6.104",
+  "coverage_note": "The detailed HPA and BioGRID/IntAct analytical profiles remain the validated v6.109 sidecar over the original 4,325-pair v6.104 universe. Relationships added after v6.104 retain their core discovery summaries but may not have a detailed analytical profile. The legacy CPTAC association dataset is withheld because its value column was incorrect; no CPTAC coefficients from that analysis are in this release.",
+  "withheld_dataset": "hpa_cptac_ms_tumor_normal_log2fc"
+}
