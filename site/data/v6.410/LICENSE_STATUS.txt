@@ -1,9 +1,0 @@
-HSP90 Atlas Data v6.410 license status
-
-No public reuse license has been granted for this release candidate.
-
-Recommended, pending owner and institutional approval:
-- Code: MIT or BSD-3-Clause.
-- Curated data and documentation: CC BY 4.0.
-
-Third-party database terms must be reconciled before redistribution. Local article PDFs and supplements are not part of the public release unless their individual licenses permit redistribution.
