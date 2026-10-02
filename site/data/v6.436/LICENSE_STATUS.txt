@@ -1,3 +1,0 @@
-HSP90 Atlas Data v6.436 license status
-
-The Atlas does not grant a blanket license to third-party source data, article text, or external databases. Review LICENSE_STATUS.txt in the package root and the cited sources' terms before reuse. This release carries forward the v6.435 licensing review; no licensing status change is implied by the new primary-source findings.
