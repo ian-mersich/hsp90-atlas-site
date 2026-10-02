@@ -339,22 +339,22 @@
       "path": "LICENSE_STATUS.txt",
       "media_type": "text/plain; charset=utf-8",
       "rows": null,
-      "bytes": 369,
-      "sha256": "32364d10ba96fd17b382933646d6a5175c92f224cf9170bb4b59a37454074056"
+      "bytes": 427,
+      "sha256": "12b68f13acdb1746627a190eefb991da6818c90db174682ec0f099eb2ff8a151"
     },
     {
       "path": "CHANGELOG.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 1258,
-      "sha256": "c332059e9691f8e1835951be6cd097377945cdb22fac11839af61df38e21d4df"
+      "bytes": 1315,
+      "sha256": "99bf8674fa1dcef1ecec34188ef7e859dfa78b8a21ee7aaa06d1d60b6fb18620"
     },
     {
       "path": "DATA_HORIZONS.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 1211,
-      "sha256": "4d1eeb7b831fbc62984605548a82a3f8f6c78b2e3000c572c3db3ad6bc75f553"
+      "bytes": 1237,
+      "sha256": "403160aef0077bf5a2cff0f5ec7f6dd60e42c1a96be52281aa96c1fd984a3e68"
     },
     {
       "path": "RELEASE_CONTRACT.json",
