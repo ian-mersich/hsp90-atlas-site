@@ -8,16 +8,16 @@ The Atlas brings together manually reviewed papers, protein-interaction database
 
 ## Current release
 
-- **Atlas website:** v1.6.423
-- **Atlas data:** v6.423 public review checkpoint
+- **Atlas website:** v1.6.434
+- **Atlas data:** v6.434 public review checkpoint
 - **Relationships tracked:** 5,091 gene–isoform pairs
-- **Reviewed findings:** 4,115 source-level records
-- **Source-reviewed pairs:** 2,790; 2,307 have pair-specific support
+- **Reviewed findings:** 4,122 source-level records
+- **Source-reviewed pairs:** 2,792; 2,309 have pair-specific support
 - **Coverage:** non-comprehensive, with the largest remaining gaps for GRP94 and TRAP1
 
 The site supports interactor search, four-isoform gene comparison, source-linked findings, an interaction network, a reviewed interactive HSP90-cycle schematic, and downloadable tables. Blank isoform panels mean that the current release has no record for that isoform; they are not negative results and do not establish isoform specificity.
 
-Data v6.423 adds a direct HSP90alpha–RACK1 binding finding from PMID 41879514, supported by a purified-component pull-down and cellular co-recovery. It does not establish RACK1 as an HSP90 client or show that binding is specific to HSP90alpha rather than HSP90beta. The relationship remains unranked while provisional scoring is recalibrated.
+Data v6.434 adds three qualified, support-only source findings. A platelet study (PMID 40386886) reports an extracellular HSP90alpha-dependent TLR2 response, without demonstrating direct binding or client maturation. Two pulmonary-fibrosis studies (PMIDs 32535102 and 28182573) report HSP90beta–TGFBR2 co-immunoprecipitation, with limits on antibody specificity and isoform-selective functional attribution. These findings do not establish TGFBR2 as an HSP90beta-specific client or change the provisional scores. The gene pages show the scope of each relationship: a client classification inherited from cytosolic-isoform-unresolved evidence is labeled as such even when separate findings resolve a different relationship for one isoform.
 
 Discovery leads are possible gene–HSP90 relationships suggested by protein-abundance correlations, interaction databases, or publication matches. These signals alone do not establish a direct interaction or client relationship. The affected CPTAC correlations and older download archives containing them are withheld from the active site; seven other HPA protein-profile matrices remain available as exploratory associations. Superseded archives remain recoverable in Git history.
 
