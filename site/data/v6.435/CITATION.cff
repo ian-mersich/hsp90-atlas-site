@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite the exact HSP90 Atlas data release used. Ian Mersich is the Atlas creator; collaborator attribution and a persistent identifier will be added when confirmed."
+title: "HSP90 Atlas: Isoform-Specific Interaction and Evidence Atlas"
+type: dataset
+version: "v6.435"
+date-released: 2026-10-01
+authors:
+  - family-names: "Mersich"
+    given-names: "Ian"
+abstract: "A source-reviewed, isoform-aware resource for HSP90AA1, HSP90AB1, HSP90B1/GRP94, and TRAP1 relationships, evidence roles, provenance, and caveats. Coverage remains non-comprehensive."
+keywords:
+  - HSP90
+  - HSP90AA1
+  - HSP90AB1
+  - HSP90B1
+  - TRAP1
+  - protein interactions
+  - evidence curation
