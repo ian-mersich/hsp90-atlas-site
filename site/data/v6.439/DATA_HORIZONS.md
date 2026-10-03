@@ -1,0 +1,7 @@
+# HSP90 Atlas Data v6.439
+
+Data v6.439 adds qualified GRP94–PCSK9 co-immunoprecipitation evidence (PMID 29593095), FLT3-ITD-associated regulation of cell-surface GRP94 in AML models (PMID 41126722), and an HSPA5/GRP78 overexpression effect on stress-induced GRP94 mRNA in Chinese hamster ovary cells (PMID 1373378). The release contains 5,093 tracked pairs and 4,140 source findings. Two HSP90B1 pairs are new; HSP90B1–HSPA5 was already tracked.
+
+Of the pairs, 2,794 are source-reviewed, 2,313 carry the legacy positive-source-evidence flag, 136 are reviewed exclusion-only, and 2,299 remain discovery leads. The source-linked network contains 2,311 records. These counts do not indicate direct binding or client status. The new findings remain outside the frozen numerical comparison profiles, and all prior scores and ranks are unchanged. The previously resolved HSP90B1–LDLR source finding is visible among three reviewed records but remains outside its two-record historical score input.
+
+The reviewed co-chaperone component remains at v6.301 and the public reviewed cycle remains at v6.303. Detailed HPA and BioGRID/IntAct analytical profiles remain the v6.109 carry-forward over the historical v6.104 pair universe. The new HSP90B1–PCSK9 and HSP90B1–FLT3 pairs have no detailed profile; absence is not negative evidence. Affected HPA/CPTAC summaries remain withheld, and private bulk-cycle database observations remain excluded.
