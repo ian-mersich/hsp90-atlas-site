@@ -6105,6 +6105,31 @@
       ],
       "title": "Folding of Toll-like receptors by the HSP90 paralogue gp96 requires a substrate-specific cochaperone.",
       "figure_table_anchors": []
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-25-HSPA8-STIP1-PMID35271311",
+      "pmids": [
+        "35271311"
+      ],
+      "pmcids": [
+        "PMC9119736"
+      ],
+      "dois": [
+        "10.1126/science.abi6983"
+      ],
+      "title": "OpenCell: Endogenous tagging for the cartography of human cellular organization",
+      "figure_table_anchors": [
+        "Results: quantitative protein-interaction map; Figure 1C shows the assay design",
+        "Methods: affinity purification and mass spectrometry; OpenCell processed STIP1-bait/HSPA8-prey interaction"
+      ],
+      "supported_claim": "Endogenously tagged STIP1 affinity capture from human HEK293T cells co-recovers HSPA8 by IP-MS.",
+      "model_system": "Human HEK293T cells with CRISPR split-mNeonGreen2-tagged STIP1; digitonin-solubilized lysate, anti-tag IP-MS in biological triplicate.",
+      "limitations": [
+        "IP-MS co-recovery after lysis supports association in the captured material; it does not establish direct binding or native in-cell contact.",
+        "STIP1 was the assay bait and HSPA8 the measured prey; this does not assign a biological direction.",
+        "This study did not measure HSP90 client capture, HSPA8-to-HSP90 transfer, or cycle-stage timing. The displayed stage is unchanged model context.",
+        "The OpenCell data projection and this publication are one experimental source, not independent replications."
+      ]
     }
   ]
 }

@@ -1,15 +1,15 @@
 {
   "schema_version": "hsp90-cycle-structured-evidence-manifest-v0.1",
-  "data_version": "v6.303",
+  "data_version": "v6.440",
   "cycle_model_version": "v6.303",
   "reviewed_neighborhood_version": "v6.286",
-  "scope_statement": "Reviewed HSP90 cycle and co-chaperone relationships with experimental context and primary-paper identifiers.",
+  "scope_statement": "Reviewed HSP90 cycle and co-chaperone relationships; one additional OpenCell HSPA8-STIP1 source is linked to an existing edge. The cycle model remains v6.303.",
   "counts": {
     "cycle_nodes": 65,
     "cycle_edges": 165,
     "cycle_assertions": 165,
-    "cycle_assertion_context_records": 200,
-    "sanitized_sources": 396,
+    "cycle_assertion_context_records": 201,
+    "sanitized_sources": 397,
     "reviewed_neighborhood_assertions": 289,
     "reviewed_neighborhood_relationships": 264,
     "reviewed_neighborhood_pairs": 216,
@@ -19,18 +19,18 @@
   "artifacts": [
     {
       "path": "core.json",
-      "bytes": 235113,
-      "sha256": "0c59d2ea4efaeb14354405db7d99e84f6001adab495c1603c8cbfab1d667d96e"
+      "bytes": 235171,
+      "sha256": "653628a61a28bb1efd4f8d7d7eb751b2ceb50cf5fef5ba74503be8c20e0a0e1a"
     },
     {
       "path": "cycle-assertions.json",
-      "bytes": 287514,
-      "sha256": "ff6db6966f79fd9eef9298845c3fa9c9f45337e0999e1b9c8627ed994fcebbb0"
+      "bytes": 288167,
+      "sha256": "31a10b6aada286788dbc8080c698cc9361311b91337bbe89ac8eab8482fdd16f"
     },
     {
       "path": "sources.json",
-      "bytes": 189301,
-      "sha256": "01dc73d9aa08df89c4bcca6a46d91d39731b880c15e9f791be2c372826c7d6fb"
+      "bytes": 190741,
+      "sha256": "76db60140be3be4f35e14aa041eaa88ef94bdd6eb6035e1e55944651e60737b9"
     },
     {
       "path": "reviewed-neighborhood.json",
@@ -42,5 +42,6 @@
       "bytes": 2502,
       "sha256": "911135a90607bc81ff2a9a6cae6a087e2c6f63e6352f044157409f20b86c80f2"
     }
-  ]
+  ],
+  "cycle_source_review_version": "v6.440"
 }

@@ -8651,6 +8651,28 @@
             "biochemical_or_structural",
             "genetic_perturbation"
           ]
+        },
+        {
+          "source_review_id": "CYCMACHREV-2026-09-25-HSPA8-STIP1-PMID35271311",
+          "experimental_system_classes": [
+            "cultured_cell_line"
+          ],
+          "organism_contexts": [
+            "human"
+          ],
+          "evidence_origin_classes": [
+            "primary_source_experiment"
+          ],
+          "cellular_compartments": [
+            "not_reported"
+          ],
+          "perturbation_classes": [
+            "variant_or_construct"
+          ],
+          "evidence_basis_classes": [
+            "physical_interaction_or_proximity",
+            "omics_or_screening_measurement"
+          ]
         }
       ]
     },

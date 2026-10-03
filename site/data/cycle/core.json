@@ -7560,7 +7560,8 @@
       "evidence_tier": "reviewed_endogenous_coimmunoprecipitation_plus_ip_ms",
       "assertion_id": "CYA-CYC303-E010",
       "source_review_ids": [
-        "COCHSRCREV-2026-09-13-STIP1-HSPA8-PMID33239621"
+        "COCHSRCREV-2026-09-13-STIP1-HSPA8-PMID33239621",
+        "CYCMACHREV-2026-09-25-HSPA8-STIP1-PMID35271311"
       ],
       "assertion_status": "supported",
       "renderable": true
