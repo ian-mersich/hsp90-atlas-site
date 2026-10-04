@@ -1,6 +1,6 @@
 {
   "schema_version": "hsp90-cycle-structured-evidence-manifest-v0.1",
-  "data_version": "v6.440",
+  "data_version": "v6.441",
   "cycle_model_version": "v6.303",
   "reviewed_neighborhood_version": "v6.286",
   "scope_statement": "Reviewed HSP90 cycle and co-chaperone relationships; one additional OpenCell HSPA8-STIP1 source is linked to an existing edge. The cycle model remains v6.303.",
