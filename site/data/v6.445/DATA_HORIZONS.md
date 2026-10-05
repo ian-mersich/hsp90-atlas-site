@@ -1,0 +1,9 @@
+# HSP90 Atlas v1.6.445: evidence scope
+
+The core contains 5,093 tracked gene–isoform pairs and 4,148 source findings. Of these pairs, 2,795 have a reviewed source, 2,313 retain the positive-evidence flag, 135 are exclusion-only in the source-reconciled public table, and 2,298 remain discovery leads. The reviewed network contains 2,311 records. An older master-only count of 136 included GRP94–HMGB1, which already has a supporting source alongside an exclusion and is not an exclusion-only public record.
+
+One additional assertion captures LXRα protein abundance, decay and cellular association in an HSP90AA1-knockout hepatoma model. It remains candidate-client directional support with incomplete-client, direct-binding and isoform-exclusivity qualifications. It comes from a paper already represented under FASN, not a new independent publication. FASN and MAP1B receive bounded descriptive corrections, not class or score promotions.
+
+The reviewed Cycle keeps all v6.443 scientific files byte-for-byte and its v6.303 model. It retains 165 core relationships, 292 additional partner findings, 267 partner relationships, 217 pairs and 400 source records across 22 focal co-chaperones. The source-review and partner horizons remain v6.443, not a second current public version.
+
+The co-chaperone companion remains v6.301. Analytical profiles remain the v6.109 carry-forward over the historical v6.104 universe. Canonical master scores/readiness and the original v6.400 analysis benchmark are unchanged. Source-derived public evidence profiles are rebuilt from the current assertions; NR1H3 now includes the additional qualified source. AIP/LDLR limits and all 132 historical recheck-impact mappings remain unchanged. Affected HPA/CPTAC summaries and private bulk Cycle observations remain withheld.
