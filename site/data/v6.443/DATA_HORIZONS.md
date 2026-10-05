@@ -1,7 +1,0 @@
-# HSP90 Atlas v1.6.443: evidence scope
-
-The core contains 5,093 tracked gene–isoform pairs and 4,142 source findings from the frozen Data v6.441 tables. Of the pairs, 2,794 are source-reviewed, 2,313 carry the legacy positive-source-evidence flag, 136 are reviewed exclusion-only, and 2,299 remain discovery leads. The source-linked network contains 2,311 records. These counts do not indicate direct binding or client status.
-
-The reviewed Cycle retains its v6.303 structural model and all 165 existing core relationships. Three additional partner findings distinguish purified human HSPA1A peptide binding by CHIP from mouse and hamster ERdj3–BiP binding. Peptide and ortholog evidence do not establish full-length human cellular binding, GRP94 handoff, a timed HSP90 Cycle step, or HSP90 client status. The reviewed neighborhood contains 292 assertions, 267 relationships and 217 pairs; the Cycle package contains 400 source records and 22 focal co-chaperones. Its source-review and reviewed-neighborhood horizons are v6.443.
-
-The separate co-chaperone companion remains v6.301. Detailed HPA and BioGRID/IntAct analytical profiles remain the v6.109 carry-forward over the historical v6.104 pair universe. Core findings, numerical profiles, ranks, readiness decisions, client assignments and all 132 historical recheck-impact mappings remain unchanged. The existing LDLR score-input exclusion and AIP scoring limits remain in force. Affected HPA/CPTAC summaries and private bulk Cycle database observations remain withheld.
