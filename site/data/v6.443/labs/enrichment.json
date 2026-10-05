@@ -1,7 +1,7 @@
 {
   "manifest": {
     "prototype_version": "0.6.0-public-read-only",
-    "atlas_data_release": "v6.441",
+    "atlas_data_release": "v6.443",
     "pathway_source": {
       "database": "Reactome",
       "release": "V97",

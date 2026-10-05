@@ -19171,6 +19171,197 @@
       ],
       "assay_orientation": null,
       "additional_supported_assay_orientations": []
+    },
+    {
+      "assertion_id": "CYCMACHREV-2026-09-26-HSPA1A-STUB1-PMID35148989",
+      "relationship_id": "CNR-v6443-35148989-HSPA1A-STUB1",
+      "pair_id": "HSPA1A::STUB1",
+      "participants": [
+        "HSPA1A",
+        "STUB1"
+      ],
+      "focal_cochaperone": "STUB1",
+      "partner": "HSPA1A",
+      "source_review_id": "CYCMACHREV-2026-09-26-HSPA1A-STUB1-PMID35148989",
+      "assertion_status": "context_qualified",
+      "display_relationship_class": "direct_binding_or_structural_contact",
+      "relationship_classes_detailed": [
+        "direct_binding"
+      ],
+      "direction": {
+        "kind": "undirected_or_not_applicable",
+        "source": null,
+        "target": null
+      },
+      "directness_class": "purified_CHIP_binding_to_defined_HSPA1A_C_terminal_peptide",
+      "evidence_tier": "purified_or_reconstituted",
+      "hsp90_scopes": [
+        "no_pair_specific_HSP90_assay_in_this_source"
+      ],
+      "context": {
+        "experimental_system_classes": [
+          "purified_or_cell_free"
+        ],
+        "organism_contexts": [
+          "human"
+        ],
+        "evidence_origin_classes": [
+          "primary_source_experiment"
+        ],
+        "cellular_compartments": [
+          "not_reported"
+        ],
+        "perturbation_classes": [
+          "variant_or_construct"
+        ],
+        "evidence_basis_classes": [
+          "physical_interaction_or_proximity",
+          "biochemical_or_structural",
+          "functional_or_phenotypic_readout"
+        ]
+      },
+      "additional_source_review_required": false,
+      "source_alias_mappings": {},
+      "source_method": "fluorescence_polarization",
+      "label": "CHIP binds the human HSPA1A EEVD peptide in a purified assay",
+      "caveat_flags": [
+        "peptide_binding_not_full_length_cellular_occupancy",
+        "no_pair_specific_HSP90_assay",
+        "not_client_evidence"
+      ],
+      "figure_table_anchors": [
+        "Figures 1B, 5B–D, 7C–D; Protein expression and purification and fluorescence-polarization methods. Figure 7A–B ubiquitination uses HSPA8, not HSPA1A."
+      ],
+      "assay_orientation": null,
+      "additional_supported_assay_orientations": []
+    },
+    {
+      "assertion_id": "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID21217698",
+      "relationship_id": "CNR-v6443-21217698-DNAJB11-HSPA5",
+      "pair_id": "DNAJB11::HSPA5",
+      "participants": [
+        "DNAJB11",
+        "HSPA5"
+      ],
+      "focal_cochaperone": "DNAJB11",
+      "partner": "HSPA5",
+      "source_review_id": "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID21217698",
+      "assertion_status": "context_qualified",
+      "display_relationship_class": "direct_binding_or_structural_contact",
+      "relationship_classes_detailed": [
+        "direct_binding"
+      ],
+      "direction": {
+        "kind": "undirected_or_not_applicable",
+        "source": null,
+        "target": null
+      },
+      "directness_class": "purified_mouse_ortholog_pair_binding",
+      "evidence_tier": "purified_or_reconstituted",
+      "hsp90_scopes": [
+        "no_pair_specific_HSP90_assay_in_this_source"
+      ],
+      "context": {
+        "experimental_system_classes": [
+          "purified_or_cell_free"
+        ],
+        "organism_contexts": [
+          "mouse"
+        ],
+        "evidence_origin_classes": [
+          "primary_source_experiment",
+          "ortholog_or_cross_species_projection"
+        ],
+        "cellular_compartments": [
+          "endoplasmic_reticulum"
+        ],
+        "perturbation_classes": [
+          "variant_or_construct"
+        ],
+        "evidence_basis_classes": [
+          "physical_interaction_or_proximity",
+          "biochemical_or_structural",
+          "functional_or_phenotypic_readout"
+        ]
+      },
+      "additional_source_review_required": false,
+      "source_alias_mappings": {},
+      "source_method": "surface_plasmon_resonance",
+      "label": "Mouse ERdj3 binds mouse BiP in a purified SPR assay",
+      "caveat_flags": [
+        "mouse_ortholog_binding_not_human_pair_assay",
+        "no_pair_specific_HSP90_assay",
+        "not_client_evidence"
+      ],
+      "figure_table_anchors": [
+        "Main Figures 5B, 5D–E, 6A–C; Supplementary Figure 4 and Supplementary Methods page 9 identify murine BiP and ERdj3 constructs."
+      ],
+      "assay_orientation": null,
+      "additional_supported_assay_orientations": []
+    },
+    {
+      "assertion_id": "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID26085089",
+      "relationship_id": "CNR-v6443-26085089-DNAJB11-HSPA5",
+      "pair_id": "DNAJB11::HSPA5",
+      "participants": [
+        "DNAJB11",
+        "HSPA5"
+      ],
+      "focal_cochaperone": "DNAJB11",
+      "partner": "HSPA5",
+      "source_review_id": "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID26085089",
+      "assertion_status": "context_qualified",
+      "display_relationship_class": "direct_binding_or_structural_contact",
+      "relationship_classes_detailed": [
+        "direct_binding"
+      ],
+      "direction": {
+        "kind": "undirected_or_not_applicable",
+        "source": null,
+        "target": null
+      },
+      "directness_class": "purified_hamster_ortholog_pair_binding",
+      "evidence_tier": "purified_or_reconstituted",
+      "hsp90_scopes": [
+        "no_pair_specific_HSP90_assay_in_this_source"
+      ],
+      "context": {
+        "experimental_system_classes": [
+          "purified_or_cell_free"
+        ],
+        "organism_contexts": [
+          "other_nonhuman"
+        ],
+        "evidence_origin_classes": [
+          "primary_source_experiment",
+          "ortholog_or_cross_species_projection"
+        ],
+        "cellular_compartments": [
+          "endoplasmic_reticulum"
+        ],
+        "perturbation_classes": [
+          "variant_or_construct"
+        ],
+        "evidence_basis_classes": [
+          "physical_interaction_or_proximity",
+          "biochemical_or_structural"
+        ]
+      },
+      "additional_source_review_required": false,
+      "source_alias_mappings": {},
+      "source_method": "surface_plasmon_resonance",
+      "label": "Hamster ERj3 binds hamster BiP in a purified SPR assay",
+      "caveat_flags": [
+        "hamster_ortholog_binding_not_human_pair_assay",
+        "human_calcium_phenotype_is_separate_context",
+        "no_pair_specific_HSP90_assay",
+        "not_client_evidence"
+      ],
+      "figure_table_anchors": [
+        "Main Figure 8A and Table 2; Experimental Procedures identify hamster purified proteins."
+      ],
+      "assay_orientation": null,
+      "additional_supported_assay_orientations": []
     }
   ],
   "relationships": [
@@ -31488,6 +31679,135 @@
       "additional_source_review_required": false,
       "pair_evidence_ceiling": null,
       "labels": [],
+      "assay_orientations": [],
+      "additional_supported_assay_orientations": [],
+      "replication_context": null
+    },
+    {
+      "relationship_id": "CNR-v6443-35148989-HSPA1A-STUB1",
+      "pair_id": "HSPA1A::STUB1",
+      "participants": [
+        "HSPA1A",
+        "STUB1"
+      ],
+      "assertion_status": "context_qualified",
+      "display_relationship_class": "direct_binding_or_structural_contact",
+      "relationship_classes_detailed": [
+        "direct_binding"
+      ],
+      "direction": {
+        "kind": "undirected_or_not_applicable",
+        "source": null,
+        "target": null
+      },
+      "directness_class": "purified_CHIP_binding_to_defined_HSPA1A_C_terminal_peptide",
+      "evidence_tiers": [
+        "purified_or_reconstituted"
+      ],
+      "hsp90_scopes": [
+        "no_pair_specific_HSP90_assay_in_this_source"
+      ],
+      "assertion_ids": [
+        "CYCMACHREV-2026-09-26-HSPA1A-STUB1-PMID35148989"
+      ],
+      "source_review_ids": [
+        "CYCMACHREV-2026-09-26-HSPA1A-STUB1-PMID35148989"
+      ],
+      "source_count": 1,
+      "self_interaction": false,
+      "renderable": true,
+      "source_alias_mappings": [],
+      "additional_source_review_required": false,
+      "pair_evidence_ceiling": null,
+      "labels": [
+        "CHIP binds the human HSPA1A EEVD peptide in a purified assay"
+      ],
+      "assay_orientations": [],
+      "additional_supported_assay_orientations": [],
+      "replication_context": null
+    },
+    {
+      "relationship_id": "CNR-v6443-21217698-DNAJB11-HSPA5",
+      "pair_id": "DNAJB11::HSPA5",
+      "participants": [
+        "DNAJB11",
+        "HSPA5"
+      ],
+      "assertion_status": "context_qualified",
+      "display_relationship_class": "direct_binding_or_structural_contact",
+      "relationship_classes_detailed": [
+        "direct_binding"
+      ],
+      "direction": {
+        "kind": "undirected_or_not_applicable",
+        "source": null,
+        "target": null
+      },
+      "directness_class": "purified_mouse_ortholog_pair_binding",
+      "evidence_tiers": [
+        "purified_or_reconstituted"
+      ],
+      "hsp90_scopes": [
+        "no_pair_specific_HSP90_assay_in_this_source"
+      ],
+      "assertion_ids": [
+        "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID21217698"
+      ],
+      "source_review_ids": [
+        "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID21217698"
+      ],
+      "source_count": 1,
+      "self_interaction": false,
+      "renderable": true,
+      "source_alias_mappings": [],
+      "additional_source_review_required": false,
+      "pair_evidence_ceiling": null,
+      "labels": [
+        "Mouse ERdj3 binds mouse BiP in a purified SPR assay"
+      ],
+      "assay_orientations": [],
+      "additional_supported_assay_orientations": [],
+      "replication_context": null
+    },
+    {
+      "relationship_id": "CNR-v6443-26085089-DNAJB11-HSPA5",
+      "pair_id": "DNAJB11::HSPA5",
+      "participants": [
+        "DNAJB11",
+        "HSPA5"
+      ],
+      "assertion_status": "context_qualified",
+      "display_relationship_class": "direct_binding_or_structural_contact",
+      "relationship_classes_detailed": [
+        "direct_binding"
+      ],
+      "direction": {
+        "kind": "undirected_or_not_applicable",
+        "source": null,
+        "target": null
+      },
+      "directness_class": "purified_hamster_ortholog_pair_binding",
+      "evidence_tiers": [
+        "purified_or_reconstituted"
+      ],
+      "hsp90_scopes": [
+        "no_pair_specific_HSP90_assay_in_this_source"
+      ],
+      "assertion_ids": [
+        "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID26085089"
+      ],
+      "source_review_ids": [
+        "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID26085089"
+      ],
+      "source_count": 1,
+      "self_interaction": false,
+      "renderable": true,
+      "source_alias_mappings": [],
+      "additional_source_review_required": false,
+      "pair_evidence_ceiling": null,
+      "labels": [
+        "Hamster ERj3 binds hamster BiP in a purified SPR assay"
+      ],
       "assay_orientations": [],
       "additional_supported_assay_orientations": [],
       "replication_context": null

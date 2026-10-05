@@ -33,7 +33,7 @@
     },
     {
       "symbol": "DNAJB11",
-      "reviewed_relationship_count": 11,
+      "reviewed_relationship_count": 13,
       "reviewed_pair_count": 11
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "symbol": "STUB1",
-      "reviewed_relationship_count": 24,
-      "reviewed_pair_count": 21
+      "reviewed_relationship_count": 25,
+      "reviewed_pair_count": 22
     },
     {
       "symbol": "SUGT1",

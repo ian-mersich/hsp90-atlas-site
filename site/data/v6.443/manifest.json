@@ -1,6 +1,6 @@
 {
   "schema_version": "atlas-static-v1.4",
-  "dataset_version": "v6.441",
+  "dataset_version": "v6.443",
   "coverage_status": "non_comprehensive",
   "release_status": "public_review_checkpoint",
   "deterministic_build": true,
@@ -311,7 +311,7 @@
       "integration_rationale",
       "should_flow_to_source_gene_integration"
     ],
-    "public_release_checkpoint": "v6.441",
+    "public_release_checkpoint": "v6.443",
     "source_gene_evidence_horizon": "v6.441",
     "cochaperone_review_horizon": "v6.301",
     "final_scored_reference_set_promotion_run": false,
@@ -359,42 +359,42 @@
       "media_type": "application/vnd.citationstyles.csl+yaml; charset=utf-8",
       "rows": null,
       "bytes": 371,
-      "sha256": "7d0d95021ed64db0dd1a6f1636487e424cf2afcef732f72d2ce4ca08d46eb84f"
+      "sha256": "35cea2f20af55680aecedb58298d37c49c3f2b2a48e45203a6f011dc3e2b6f70"
     },
     {
       "path": "CITATION.txt",
       "media_type": "text/plain; charset=utf-8",
       "rows": null,
       "bytes": 181,
-      "sha256": "0a5d51a09d3c0a1122e6eea02b3147f010e82df047afd3142b7d990bc5ac7620"
+      "sha256": "714a2de1342aff99f5de5190f9efb42da3dd84db18282a91625081f28bff9ca3"
     },
     {
       "path": "LICENSE_STATUS.txt",
       "media_type": "text/plain; charset=utf-8",
       "rows": null,
-      "bytes": 429,
-      "sha256": "c7bb057dcf400b02e4a70065ef7b53085857fc40b50ab3f5bf975ae0ba4bee23"
+      "bytes": 420,
+      "sha256": "f693a81b7cdba2b5f3b859bf62e39ee8b380c0c395e820ec54f442db204cd5ef"
     },
     {
       "path": "CHANGELOG.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 1346,
-      "sha256": "2a81a9df9f9dda77bd0e174147170794b7590e22e0a3d55879dcb231783c78ca"
+      "bytes": 1376,
+      "sha256": "f2e6a4da9d5063c05d48f10009a19782ba71da4570f8e61adf661ed9d5be41fb"
     },
     {
       "path": "DATA_HORIZONS.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 1371,
-      "sha256": "9fbe11721b71fe3543aa59e1f14b5ae3f466e4473d48ccef18027bbb62b144ad"
+      "bytes": 1530,
+      "sha256": "8acecc16fc4b0567043748fb2b1232b0694b07a460e1c35188982659136b163e"
     },
     {
       "path": "RELEASE_CONTRACT.json",
       "media_type": "application/json",
       "rows": null,
-      "bytes": 654,
-      "sha256": "cdcf5f53ff139b4c1b9c9f9cf2260eb3b9c7af18c25032229884bb2cd2d8fa0b"
+      "bytes": 655,
+      "sha256": "5043ac6d77bb3a154484a1be67092db9e31b6562c8855ccd70a0ec3023f59bf6"
     },
     {
       "path": "cochaperone-network/reviewed_source_findings.tsv",
@@ -409,7 +409,7 @@
     {
       "path": "cochaperone-network/manifest.json",
       "bytes": 786,
-      "sha256": "7f223a2e39b5889f3c9751e50243cd8b362d70268c64ea27833be685045dd6e5"
+      "sha256": "7efe869df5a351b734e41bcf3231164a3b87b9e3f0cd2692e32f004e95c43088"
     },
     {
       "path": "analytics/database_observations.tsv",
@@ -439,7 +439,7 @@
     {
       "path": "analytics/manifest.json",
       "bytes": 7699,
-      "sha256": "6112675cce418be14e7142951ae79ff80b88a2616bb3b69c70803bd9bac62f3d"
+      "sha256": "7d82b629702b8cd937ca650e569a23a99a40b3890b60de172bef25b43a121e44"
     },
     {
       "path": "analytics/outside_master_admission_triage.tsv",
@@ -533,7 +533,7 @@
     }
   ],
   "evidence_horizons": {
-    "public_release": "v6.441",
+    "public_release": "v6.443",
     "hsp90_gene_isoform_core": "v6.441",
     "cochaperone_reviewed_network": "v6.301",
     "detailed_hpa_and_biogrid_intact_profiles": "v6.109 over the v6.104 pair universe"

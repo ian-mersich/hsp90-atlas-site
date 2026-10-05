@@ -7,7 +7,7 @@
   <key id="d4" for="edge" attr.name="reviewed_source_count" attr.type="int" />
   <key id="d5" for="edge" attr.name="article_count" attr.type="int" />
   <key id="d6" for="edge" attr.name="relationship_assay_labels" attr.type="string" />
-  <graph id="HSP90_Atlas_v6_441" edgedefault="undirected">
+  <graph id="HSP90_Atlas_v6_443" edgedefault="undirected">
     <node id="isoform:HSP90AA1">
       <data key="d0">HSP90AA1</data>
       <data key="d1">hsp90_isoform</data>

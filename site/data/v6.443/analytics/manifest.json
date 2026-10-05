@@ -1,6 +1,6 @@
 {
   "schema_version": "atlas-analytical-context-v1.0",
-  "core_data_release": "v6.441",
+  "core_data_release": "v6.443",
   "analytical_release": "v6.109",
   "counts": {
     "pair_profiles": 4325,

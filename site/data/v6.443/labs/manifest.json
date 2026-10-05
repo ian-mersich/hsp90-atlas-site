@@ -1,6 +1,6 @@
 {
   "prototype_version": "0.6.0-public-read-only",
-  "atlas_data_release": "v6.441",
+  "atlas_data_release": "v6.443",
   "generated_on": "2026-09-14",
   "status": "exploratory_public_read_only",
   "network_edge_count": 2311,
@@ -39,10 +39,10 @@
     "multiple_testing": "Benjamini-Hochberg across every eligible pathway",
     "pathway_size_after_background_intersection": "10-500",
     "minimum_displayed_overlap": 3,
-    "primary_background": "All genes represented in the selected isoform's v6.441 public review universe.",
+    "primary_background": "All genes represented in the selected isoform's v6.443 public review universe.",
     "sensitivity_backgrounds": {
-      "pan_atlas_review_universe": "All unique genes represented anywhere in the four-isoform v6.441 Atlas.",
-      "source_reviewed_atlas_universe": "All unique genes with positive source-reviewed assertions anywhere in the four-isoform v6.441 Atlas."
+      "pan_atlas_review_universe": "All unique genes represented anywhere in the four-isoform v6.443 Atlas.",
+      "source_reviewed_atlas_universe": "All unique genes with positive source-reviewed assertions anywhere in the four-isoform v6.443 Atlas."
     },
     "biological_interpretation_authorized": false
   },

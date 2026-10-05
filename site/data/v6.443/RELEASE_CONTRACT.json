@@ -1,13 +1,13 @@
 {
-  "atlas_release": "v6.441",
-  "public_data_release": "v6.441",
-  "cycle_shell_release": "v6.441",
+  "atlas_release": "v6.443",
+  "public_data_release": "v6.443",
+  "cycle_shell_release": "v6.443",
   "component_horizons": {
     "hsp90_gene_isoform_core": "v6.441",
     "cochaperone_reviewed_network": "v6.301",
     "cycle_model": "v6.303",
-    "cycle_source_reviews": "v6.440 (targeted source additions)",
-    "cycle_reviewed_neighborhood": "v6.286",
+    "cycle_source_reviews": "v6.443 (qualified partner findings)",
+    "cycle_reviewed_neighborhood": "v6.443",
     "analytical_profiles": "v6.109 over the v6.104 pair universe"
   },
   "policy": "One user-facing Atlas release identifier is used across the public application, reviewed cycle, downloads, and release metadata. Older component horizons describe source provenance, not separate current releases."

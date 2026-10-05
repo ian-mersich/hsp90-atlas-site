@@ -6130,6 +6130,73 @@
         "This study did not measure HSP90 client capture, HSPA8-to-HSP90 transfer, or cycle-stage timing. The displayed stage is unchanged model context.",
         "The OpenCell data projection and this publication are one experimental source, not independent replications."
       ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-26-HSPA1A-STUB1-PMID35148989",
+      "pmids": [
+        "35148989"
+      ],
+      "pmcids": [
+        "PMC8913300"
+      ],
+      "dois": [
+        "10.1016/j.jbc.2022.101697"
+      ],
+      "title": "Two distinct classes of cochaperones compete for the EEVD motif in heat shock protein 70 to tune its chaperone activities",
+      "figure_table_anchors": [
+        "Figures 1B, 5B–D, 7C–D; Protein expression and purification and fluorescence-polarization methods. Figure 7A–B ubiquitination uses HSPA8, not HSPA1A."
+      ],
+      "supported_claim": "Purified human CHIP binds a defined human HSPA1A C-terminal EEVD peptide. Separate full-length HSPA1A assays measure ATPase activity and luciferase refolding.",
+      "model_system": "Purified human CHIP and a defined HSPA1A C-terminal peptide; separate reconstituted HSPA1A/DnaJB4 functional assays.",
+      "limitations": [
+        "Peptide binding does not establish full-length cellular occupancy.",
+        "The Hsp70 ubiquitination panels use HSPA8, not HSPA1A.",
+        "These experiments do not assign an HSP90 Cycle step or demonstrate client turnover."
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID21217698",
+      "pmids": [
+        "21217698"
+      ],
+      "pmcids": [],
+      "dois": [
+        "10.1038/nsmb.1970"
+      ],
+      "title": "Substrate discrimination of the chaperone BiP by autonomous and co-chaperone regulated conformational transitions",
+      "figure_table_anchors": [
+        "Main Figures 5B, 5D–E, 6A–C; Supplementary Figure 4 and Supplementary Methods page 9 identify murine BiP and ERdj3 constructs."
+      ],
+      "supported_claim": "Purified mouse ERdj3 binds mouse BiP by surface plasmon resonance. Separate assays show effects on BiP ATPase activity, conformation and CH1-substrate binding.",
+      "model_system": "Purified murine ERdj3 and BiP constructs, identified in the supplementary Methods.",
+      "limitations": [
+        "This is mouse-ortholog evidence, not a human DNAJB11–HSPA5 binding assay.",
+        "The study does not measure a GRP94 handoff or place this binding in a timed HSP90 Cycle step.",
+        "CH1 is a BiP substrate in these experiments; no GRP94-client conclusion follows."
+      ]
+    },
+    {
+      "source_review_id": "CYCMACHREV-2026-09-28-DNAJB11-HSPA5-PMID26085089",
+      "pmids": [
+        "26085089"
+      ],
+      "pmcids": [
+        "PMC4513120"
+      ],
+      "dois": [
+        "10.1074/jbc.M115.636639"
+      ],
+      "title": "Co-chaperone Specificity in Gating of the Polypeptide Conducting Channel in the Membrane of the Human Endoplasmic Reticulum",
+      "figure_table_anchors": [
+        "Main Figure 8A and Table 2; Experimental Procedures identify hamster purified proteins."
+      ],
+      "supported_claim": "Purified hamster GST-ERj3 binds hamster His-BiP by surface plasmon resonance, with a reported dissociation constant of 0.57 micromolar.",
+      "model_system": "Purified hamster GST-ERj3 and His-BiP; the exact hamster species is not specified for this claim.",
+      "limitations": [
+        "This is hamster-ortholog evidence, not a human DNAJB11–HSPA5 binding assay.",
+        "Separate HeLa calcium-leakage experiments do not establish human binary binding.",
+        "The study does not measure a GRP94 handoff or place this binding in a timed HSP90 Cycle step."
+      ]
     }
   ]
 }

@@ -1,18 +1,18 @@
 {
   "schema_version": "hsp90-cycle-structured-evidence-manifest-v0.1",
-  "data_version": "v6.441",
+  "data_version": "v6.443",
   "cycle_model_version": "v6.303",
-  "reviewed_neighborhood_version": "v6.286",
-  "scope_statement": "Reviewed HSP90 cycle and co-chaperone relationships; one additional OpenCell HSPA8-STIP1 source is linked to an existing edge. The cycle model remains v6.303.",
+  "reviewed_neighborhood_version": "v6.443",
+  "scope_statement": "Reviewed HSP90 cycle and co-chaperone relationships. Additional partner findings distinguish human peptide binding from mouse and hamster ortholog binding; the timed cycle model is unchanged.",
   "counts": {
     "cycle_nodes": 65,
     "cycle_edges": 165,
     "cycle_assertions": 165,
     "cycle_assertion_context_records": 201,
-    "sanitized_sources": 397,
-    "reviewed_neighborhood_assertions": 289,
-    "reviewed_neighborhood_relationships": 264,
-    "reviewed_neighborhood_pairs": 216,
+    "sanitized_sources": 400,
+    "reviewed_neighborhood_assertions": 292,
+    "reviewed_neighborhood_relationships": 267,
+    "reviewed_neighborhood_pairs": 217,
     "focal_cochaperones": 22
   },
   "reuse_notice": "Viewing these data does not grant permission to copy or redistribute them. Consult the HSP90 Atlas licensing notice.",
@@ -29,19 +29,19 @@
     },
     {
       "path": "sources.json",
-      "bytes": 190741,
-      "sha256": "76db60140be3be4f35e14aa041eaa88ef94bdd6eb6035e1e55944651e60737b9"
+      "bytes": 194190,
+      "sha256": "73d7c544356f1d71277c23fdef87a292061f549ec3910a8e41d92aff1425999a"
     },
     {
       "path": "reviewed-neighborhood.json",
-      "bytes": 977192,
-      "sha256": "56f51a6d40f9f56803202f765fad78344ffdf489fd7a9195dd8b7a9f3d6b4f4b"
+      "bytes": 987781,
+      "sha256": "9fd90e1dc612c82f6514bcbe5c938045dcf1dcc54dd0f66df1dbae65aeb4ccc9"
     },
     {
       "path": "cochaperones/index.json",
       "bytes": 2502,
-      "sha256": "911135a90607bc81ff2a9a6cae6a087e2c6f63e6352f044157409f20b86c80f2"
+      "sha256": "37e15a714dd067f174af97978b78c096f46b7d016e1806050f6d5c04f4b1759b"
     }
   ],
-  "cycle_source_review_version": "v6.440"
+  "cycle_source_review_version": "v6.443"
 }
