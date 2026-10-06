@@ -430,8 +430,8 @@
       "path": "CHANGELOG.md",
       "media_type": "text/markdown; charset=utf-8",
       "rows": null,
-      "bytes": 1596,
-      "sha256": "f4fdfeb85fafbf37f66231c36130ac3ef325008f8a7472e52fb913806a3bb5eb"
+      "bytes": 1784,
+      "sha256": "4f5363b9acbe24e6cf8dd476550665a1b9c1fa08c9c44a071259334ec559d20d"
     },
     {
       "path": "DATA_HORIZONS.md",
