@@ -1,6 +1,6 @@
 {
   "schema_version": "hsp90-cycle-structured-evidence-manifest-v0.1",
-  "data_version": "v6.445",
+  "data_version": "v6.446",
   "cycle_model_version": "v6.303",
   "reviewed_neighborhood_version": "v6.443",
   "scope_statement": "Reviewed HSP90 cycle and co-chaperone relationships. Additional partner findings distinguish human peptide binding from mouse and hamster ortholog binding; the timed cycle model is unchanged.",
