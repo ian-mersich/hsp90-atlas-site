@@ -1,0 +1,9 @@
+# v6.448
+
+Eight existing source findings receive unchanged-scope corrections: four SPRTN/HDAC6 records, three ITFG1/TRIM37/VDR records and one FASN measured-modality clarification. All seven inherited source-scope holds are resolved without a client nomination or grade change. ITFG1 retains its protein-group ambiguity, VDR's beta-specific genetic response is separated from broad geldanamycin assays, and FASN retains Moderate support while predicted docking remains distinct from measured complex evidence.
+
+Ten exact organelle publication routes were reviewed: eight close with no eligible source finding and two retain specific native-image followups (MANF/PMID32203149 Figure 2 and SPTBN1/PMID35891953 referenced Figure S1). No source or pair is added. The release retains 4,150 source findings, 5,093 gene–isoform pairs and 431 nominated exact cases (80 Strong, 195 Moderate and 156 Preliminary); 2,317 cases are not nominated and 117 remain unassessed. There are 381 unclosed literature routes: 293 unread or unmatched routes and 88 followups.
+
+Source tables and matching authored client assessments use v6.448. Candidate client, Strong, Moderate and Preliminary retain the same scientific definitions. Each reviewed finding retains its measured relationship, experimental model, source-reported HSP90 scope and limitations. Unaffected authored decisions are preserved verbatim through an explicitly hash-pinned assessment rebase.
+
+The reviewed Cycle retains its v6.443 scientific evidence and v6.303 model with the current Atlas label advanced to v6.448. Historical master scores/readiness, the original v6.400 analysis benchmark, AIP/LDLR qualifications and all 132 historical recheck-impact mappings remain preserved. Affected HPA/CPTAC summaries and private bulk observations remain withheld. Manuscript work remains on hold.

@@ -1,9 +1,0 @@
-# v6.447 — 2026-10-06
-
-Adds two qualified GRP94–HER2 findings and corrects two existing TRAP1 findings involving MAP1B and HSPD1. The core now contains 4,150 source findings across the same 5,093 gene–isoform pairs. The source tables and matching client assessments use v6.447.
-
-PMID10430096 supplies HER2 co-recovery in anti-GRP94 precipitates from human AU565 crude membrane fractions. Missing displayed antibody-negative, input and bait-recovery controls remain explicit; the curcumin response does not establish a GRP94-specific client mechanism. PMID20423148 supplies an ERBB2-conditioned GRP94 protein-abundance response during prolonged EGF in stable human MDA-MB-468 host-cell models, with indirect signaling, clone and unspecified construct-species limits. Neither finding adds a qualifying client result. The existing GRP94/HER2 Candidate client case retains Strong combined support from its three qualifying source findings.
-
-The TRAP1 corrections preserve existing source scope and relationship classifications. MAP1B receives its distinct TRAP1 affinity-capture result; HSPD1 receives the verified co-fractionation modality, DOI and human cell models. Both scope holds are cleared with explicit non-nomination decisions and no client grade. Existing client nominations and support grades remain unchanged. Candidate client, Strong, Moderate and Preliminary retain the same scientific definitions. Each finding preserves its experimental model, HSP90 scope, measured relationship and limitations.
-
-Historical master scores/readiness, the original v6.400 analysis benchmark, AIP/LDLR qualifications and all 132 historical recheck-impact mappings are retained. The Cycle preserves its v6.443 evidence and v6.303 model, with the current Atlas label advanced to v6.447. Affected HPA/CPTAC summaries and private bulk observations remain withheld. Manuscript work remains on hold.

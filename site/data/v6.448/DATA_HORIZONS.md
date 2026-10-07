@@ -1,0 +1,9 @@
+# HSP90 Atlas v1.6.448 evidence scope
+
+The source findings and master pair tables use v6.448. Client support is separately assessed per source finding and exact gene/HSP90-scope case at v6.448. Candidate client remains the single public client relationship; Strong, Moderate and Preliminary describe substrate-directed evidence in its reported experimental context. Source decisions and consolidated gene/scope decisions remain separate. Strong evidence does not resolve an unspecified HSP90 isoform.
+
+This correction-only release retains 4,150 source findings and 5,093 pairs: 2,795 pairs have reviewed sources and 2,298 remain discovery leads. The network export remains 2,311 eligible pairs. Eight unchanged-scope corrections resolve seven inherited scope holds without changing nominations or grades. Among 2,865 exact gene/HSP90-scope cases, 431 are nominated (80 Strong, 195 Moderate and 156 Preliminary), 2,317 are not nominated and 117 are unassessed. Source-level decisions remain separate: 524 nominated, 3,385 not nominated and 241 unassessed.
+
+Ten organelle routes received exact-publication review, with eight no-flow closures and two unresolved native-image followups. They add no source findings. The remaining literature backlog is 381 routes (293 unread or unmatched and 88 followups), not 381 demonstrated interactions.
+
+The reviewed Cycle retains its v6.443 scientific files and v6.303 structural model. The co-chaperone companion remains v6.301. Analytical profiles retain the v6.109 carry-forward over the historical v6.104 universe. The original v6.400 analysis benchmark, historical master scores/readiness, AIP/LDLR qualifications and all 132 historical recheck-impact mappings remain preserved. Affected HPA/CPTAC summaries and private bulk Cycle observations remain withheld.
