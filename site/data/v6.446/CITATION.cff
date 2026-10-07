@@ -1,9 +1,0 @@
-cff-version: 1.2.0
-message: "If you use this curated resource, please cite the Atlas data release and the original studies linked by each finding."
-title: "HSP90 Atlas: Isoform-Specific Interaction and Evidence Atlas"
-version: "v6.446"
-date-released: 2026-10-05
-authors:
-  - family-names: Mersich
-    given-names: Ian
-url: https://ian-mersich.github.io/hsp90-atlas-site/

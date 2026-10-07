@@ -1,0 +1,15 @@
+# HSP90 Atlas v1.6.447 evidence scope
+
+The core contains 5,093 tracked gene–isoform pairs and 4,150 source findings. Of these pairs, 2,795 have a reviewed source, 2,313 retain the positive-evidence flag, 135 are exclusion-only in the source-reconciled public table, and 2,298 remain discovery leads. The reviewed network contains 2,311 records. Source findings and master pair tables use v6.447.
+
+Two findings involving GRP94 and HER2 are added. PMID10430096 reports HER2 co-recovery in anti-GRP94 precipitates from human AU565 crude membrane fractions, with incomplete displayed immunoprecipitation controls and a nonselective curcumin perturbation. PMID20423148 reports an ERBB2-conditioned GRP94 protein-abundance response during prolonged EGF stimulation in human MDA-MB-468 host cells; stable-cell genotype, indirect signaling and unspecified construct species limit interpretation. Neither new source independently nominates a GRP94 client. The existing exact GRP94/HER2 Candidate client case retains Strong combined support and its three qualifying source findings.
+
+Two existing TRAP1 findings involving MAP1B and HSPD1 are corrected within their existing reported scope. MAP1B retains its affinity-capture complex-association interpretation with the distinct TRAP1 result and model specified. HSPD1 records experimental co-fractionation with inferred complex membership, a corrected DOI and explicit human cell models. Both scope holds are cleared with explicit non-nomination decisions and no client grade; existing client nominations and support grades remain unchanged.
+
+Client support is separately assessed per recorded source finding and exact gene/HSP90-scope case at v6.447. Candidate client remains the single public client relationship; strong, moderate and preliminary grades describe substrate-directed evidence in its reported experimental context. Study-level assessments and consolidated gene/scope assessments remain separate. Strong evidence does not resolve an unspecified HSP90 isoform.
+
+The reviewed Cycle keeps all v6.443 scientific files byte-for-byte and its v6.303 model. It retains 165 core relationships, 292 additional partner findings, 267 partner relationships, 217 pairs and 400 source records across 22 focal co-chaperones. The source-review and partner horizons remain v6.443.
+
+The co-chaperone companion remains v6.301. Analytical profiles remain the v6.109 carry-forward over the historical v6.104 universe. Historical master scores/readiness and the original v6.400 analysis benchmark are unchanged. AIP/LDLR qualifications and all 132 historical recheck-impact mappings remain unchanged. Affected HPA/CPTAC summaries and private bulk Cycle observations remain withheld.
+
+The v6.446 client-support reassessment remains the starting point for source followups. Each changed or added interpretation requires explicit experimental rationale, source-reported scope and client assessment. Unassessed findings retain their unresolved state until the relevant source is checked. This release does not represent a new full-paper review of the entire Atlas or closure of the remaining publication-route queue.
