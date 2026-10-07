@@ -1,2 +1,0 @@
-var e=`Mersich I (creator). HSP90 Atlas: Isoform-Specific Interaction and Evidence Atlas. Data v6.449 (2026-10-07). https://ian-mersich.github.io/hsp90-atlas-site/. Accessed [YYYY-MM-DD].
-`;export{e as t};
