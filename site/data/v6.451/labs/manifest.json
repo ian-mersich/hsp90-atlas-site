@@ -1,0 +1,93 @@
+{
+  "prototype_version": "0.6.0-public-read-only",
+  "atlas_data_release": "v6.451",
+  "generated_on": "2026-09-14",
+  "status": "exploratory_public_read_only",
+  "network_edge_count": 2313,
+  "score_row_count": 2313,
+  "pathway_source": {
+    "database": "Reactome",
+    "release": "V97",
+    "accessed_on": "2026-07-14",
+    "source_url": "https://reactome.org/download/current/ReactomePathways.gmt.zip",
+    "pathway_rows": 2868,
+    "sha256": "89983d5c1f0af11c52edfeee7323eb425580ac6281d387a528562ab1787ce56b"
+  },
+  "evidence_presets": {
+    "strict_reviewed": "Anchor/direct or directional assertions, excluding source-recheck rows.",
+    "reviewed_with_support": "Strict rows plus support-only assertions, excluding source-recheck rows."
+  },
+  "scoring": {
+    "score_name": "provisional_evidence_profile_score",
+    "maximum_raw_feature_total": 30,
+    "scale": "0-100 normalized sorting aid",
+    "sensitivity_lenses": {
+      "balanced": "Balanced evidence",
+      "mechanism_forward": "Mechanism emphasis",
+      "provenance_forward": "Provenance emphasis",
+      "caveat_stress_test": "Caveat stress test"
+    },
+    "probability_or_effect_size": false,
+    "final_scored_reference_set_promotion": false,
+    "frozen_score_checkpoint_exclusion_count": 4,
+    "frozen_score_checkpoint_exclusion_assertion_ids": [
+      "SGEV-v6_13-SRCREV_2026_05_27_V6_4_PMC12387876_LDLR_GRP94_LDLR",
+      "SGEV-v6_13-SRCREV_2026_05_27_V6_4_PMC4896225_TLR9_GRP94_TLR9",
+      "SGEV_2026-08-25_v6_170_SRCREV-2026-08-25-V6-170-PMID25437307-ITFG1-HSP90B1-UNSUPPORTED_ITFG1",
+      "SGEV_2026-08-25_v6_170_SRCREV-2026-08-25-V6-170-PMID33194618-TRIM37-HSP90B1-UNSUPPORTED_TRIM37"
+    ],
+    "numerical_checkpoint": {
+      "baseline_data_release": "v6.450",
+      "baseline_scores_sha256": "c7d08ef58e2bfd7d17d972ef53f7aa4290ce1b1d6fb1ea9ede8c2175aca9c0fe",
+      "score_eligible_membership": "unchanged",
+      "frozen_fields": [
+        "feature_dimensions",
+        "provisional_evidence_profile_score",
+        "score_lenses",
+        "readiness",
+        "ranking_eligible",
+        "score_eligible_assertion_ids",
+        "score_eligible_source_record_count"
+      ],
+      "network_frozen_fields": [
+        "readiness",
+        "provisional_evidence_profile_score",
+        "ranking_eligible",
+        "score_eligible_source_record_count"
+      ],
+      "source_refinement_assertion_ids": [
+        "SGEV_2026_05_28_V6_18_SRCREV_2026_05_28_V6_17_PMC9697757_CTSD_DFFA_LAMP2_CTSD",
+        "SGEV_2026_05_28_V6_18_SRCREV_2026_05_28_V6_17_PMC9697757_CTSD_DFFA_LAMP2_DFFA",
+        "SGEV_2026_05_28_V6_18_SRCREV_2026_05_28_V6_17_PMC9697757_CTSD_DFFA_LAMP2_LAMP2",
+        "SGEV_2026_05_28_V6_18_SRCREV_2026_05_28_V6_17_PMC9697757_CTSD_DFFA_LAMP2_PLIN2",
+        "SGEV_2026_08_23_v6_131_SRCREV_2026_08_23_V6_131_PMID41123491_HSP90AA1_ALPHA_RESOLVED_PLIN2_CLIENT_PLIN2"
+      ],
+      "inherited_source_refinement_assertion_ids": [
+        "SGEV_2026_05_28_V6_16_SRCREV_2026_05_28_V6_15_PMC5339831_PKM_PKM",
+        "SGEV_2026_06_24_v6_40_SRCREV_2026_06_24_V6_39_PMC5528822_KDELR1_GP96_MEMBRANE_LOCALIZATION_KDELR1",
+        "SGEV_2026_06_24_v6_40_SRCREV_2026_06_24_V6_39_PMC5528822_PLAUR_MEMBRANE_GP96_CLIENT_PLAUR",
+        "SGEV_2026_07_07_v6_98_SRCREV_2026_07_07_V6_97_PMID40086176_PKM_HSP90AA1_C210_CLIENT_STABILITY_PKM"
+      ]
+    }
+  },
+  "enrichment": {
+    "method": "one-sided hypergeometric over-representation",
+    "multiple_testing": "Benjamini-Hochberg across every eligible pathway",
+    "pathway_size_after_background_intersection": "10-500",
+    "minimum_displayed_overlap": 3,
+    "primary_background": "All genes represented in the selected isoform's v6.451 public review universe.",
+    "sensitivity_backgrounds": {
+      "pan_atlas_review_universe": "All unique genes represented anywhere in the four-isoform v6.451 Atlas.",
+      "source_reviewed_atlas_universe": "All unique genes with positive source-reviewed assertions anywhere in the four-isoform v6.451 Atlas."
+    },
+    "biological_interpretation_authorized": false
+  },
+  "guardrails": {
+    "database_ppi_hpa_pubmed_do_not_create_edges": true,
+    "source_recheck_excluded_from_presets": true,
+    "context_and_exclude_retained_in_core_atlas_only": true,
+    "final_scored_reference_set_promotion_run": false,
+    "pathway_interpretation_run": false,
+    "non_comprehensive_coverage_status_preserved": true
+  }
+}
